@@ -1,0 +1,314 @@
+[
+ {
+  "id": "Q275",
+  "objective": "0021",
+  "stem": "Before setting individual growth targets for sight-singing, what should a teacher do first?",
+  "correct": "collect baseline data with a common pre-assessment",
+  "distractors": [
+   "set the same final target for every student without data",
+   "wait until the spring concert to assess",
+   "base the targets on attendance records"
+  ],
+  "rationale": "Growth targets require a starting point. A common pre-assessment provides baseline data for each student so targets are realistic and growth can be measured against the same task later. Uniform targets, delayed assessment, and attendance do not measure the skill."
+ },
+ {
+  "id": "Q276",
+  "objective": "0021",
+  "stem": "Which learning goal for a middle school choir is most measurable?",
+  "correct": "Students will sing an eight-measure melody on solfège with 90% pitch accuracy.",
+  "distractors": [
+   "Students will develop a deep and lasting appreciation of choral music.",
+   "Students will understand rhythm in a variety of songs.",
+   "Students will enjoy singing in parts with their classmates."
+  ],
+  "rationale": "A measurable goal names an observable behavior, the conditions, and a criterion for success. Appreciate, understand, and enjoy are not directly observable or measured without further definition."
+ },
+ {
+  "id": "Q277",
+  "objective": "0021",
+  "stem": "Which practice most improves the reliability of scores on student performance assessments?",
+  "correct": "a detailed rubric with anchor recordings and calibrated scorers",
+  "distractors": [
+   "scoring each performance from memory after class ends",
+   "adjusting the scoring criteria separately for each student",
+   "letting each student choose the criteria for the grade"
+  ],
+  "rationale": "Reliability means consistent scoring. Clear criteria, anchor examples of each level, and scorer calibration reduce variation between raters and occasions. Scoring from memory and changing or self-selected criteria reduce consistency."
+ },
+ {
+  "id": "Q278",
+  "objective": "0021",
+  "stem": "A teacher measures students’ improvisation ability with a written test of scale spellings. What is the main weakness of this assessment?",
+  "correct": "low validity, because the test does not measure improvisation",
+  "distractors": [
+   "low reliability, because written tests cannot be scored",
+   "too many items for the time available",
+   "excessive difficulty for most students"
+  ],
+  "rationale": "Validity concerns whether an assessment measures what it claims to measure. Scale spelling may support improvisation, but only an improvisation performance task directly assesses it. Written tests can be scored reliably, and the issue is not length or difficulty."
+ },
+ {
+  "id": "Q279",
+  "objective": "0021",
+  "stem": "Which is an example of formative assessment during a rehearsal?",
+  "correct": "sections play a passage alone while the director gives specific feedback",
+  "distractors": [
+   "a semester grade based entirely on the final winter concert",
+   "a standardized written exam given at the end of the school year",
+   "a juried recital performed by each student at the end of the program"
+  ],
+  "rationale": "Formative assessment gathers evidence during learning to adjust instruction and guide students, as with quick section checks and feedback. Final concerts, end-of-year exams, and juried recitals are summative."
+ },
+ {
+  "id": "Q280",
+  "objective": "0021",
+  "stem": "Which measurement approach best shows individual student growth over a school year?",
+  "correct": "comparing each student’s pre- and post-scores on the same rubric",
+  "distractors": [
+   "comparing one student’s single score with the class average",
+   "counting the number of rehearsals each student attended",
+   "using only the ensemble’s final contest rating as evidence"
+  ],
+  "rationale": "Growth is change within the same student over time, measured with comparable tasks and criteria at the beginning and end. A single score compared with peers shows status, attendance is not achievement, and ensemble ratings do not show individual growth."
+ },
+ {
+  "id": "Q281",
+  "objective": "0021",
+  "stem": "Assessment data show that most students sing in tune but cannot identify the meter of listening examples. What is the most appropriate instructional modification?",
+  "correct": "add movement and conducting activities that target beat grouping",
+  "distractors": [
+   "repeat the same in-tune singing drills for several more weeks",
+   "remove meter identification from the curriculum for the year",
+   "give the same listening test again without further instruction"
+  ],
+  "rationale": "Data should direct instruction to the identified gap. Movement and conducting help students physically feel strong and weak beats and their groupings. Continuing mastered drills, dropping the objective, or retesting without instruction does not address the need."
+ },
+ {
+  "id": "Q282",
+  "objective": "0021",
+  "stem": "Which strategy most effectively involves students in assessing their own performance?",
+  "correct": "students record themselves and evaluate it with a criteria checklist",
+  "distractors": [
+   "students rate their own effort from memory, without any criteria",
+   "the teacher assigns performance grades without any explanation",
+   "students compare their grades with those of their classmates"
+  ],
+  "rationale": "Self-assessment is most useful when students evaluate concrete evidence (such as a recording) against clear criteria, then set goals. Memory-based ratings, unexplained grades, and peer comparisons do not develop self-evaluation skills."
+ },
+ {
+  "id": "Q283",
+  "objective": "0021",
+  "stem": "A scoring tool rates tone, rhythm, and pitch separately, with a description of performance at each level for each criterion. Which type of tool is it?",
+  "correct": "an analytic rubric",
+  "distractors": [
+   "a holistic rubric",
+   "a norm-referenced test",
+   "an attendance record"
+  ],
+  "rationale": "An analytic rubric scores multiple criteria separately with level descriptors, yielding diagnostic information. A holistic rubric gives one overall score, a norm-referenced test compares students with a norm group, and attendance records do not assess performance."
+ },
+ {
+  "id": "Q284",
+  "objective": "0022",
+  "stem": "When a composer balances recurring themes with contrasting sections so a work is both coherent and interesting, which aesthetic principle is illustrated?",
+  "correct": "unity and variety",
+  "distractors": [
+   "realism",
+   "perspective",
+   "chiaroscuro"
+  ],
+  "rationale": "Unity and variety is a principle shared across the arts: repetition creates coherence, while contrast sustains interest. Realism concerns lifelike representation, and perspective and chiaroscuro are visual-art techniques for depth and light."
+ },
+ {
+  "id": "Q285",
+  "objective": "0022",
+  "stem": "The term \"texture\" is used in both music and visual art. How do its meanings differ?",
+  "correct": "in music it means layering of sounds; in visual art, surface quality",
+  "distractors": [
+   "it has exactly the same meaning in both music and visual art",
+   "in music it refers only to tempo; in visual art, only to color",
+   "in music it refers only to dynamics; in visual art, only to size"
+  ],
+  "rationale": "Musical texture describes the number and relationship of simultaneous lines (monophonic, homophonic, polyphonic). Visual texture describes how a surface feels or appears to feel. The term is shared but not identical, and it does not refer to tempo, color, dynamics, or size."
+ },
+ {
+  "id": "Q286",
+  "objective": "0022",
+  "stem": "Which feedback on a student composition best uses music vocabulary to evaluate the work?",
+  "correct": "The ABA form is clear, but B stays in A’s register; more range contrast would help.",
+  "distractors": [
+   "It is really nice, and I liked it a lot more than the last one we heard.",
+   "It is too long and kind of boring, so it should probably be shorter.",
+   "It sounds like a song I have heard before, so it is not very creative."
+  ],
+  "rationale": "Effective evaluation names specific musical elements (form, register, contrast), identifies strengths and weaknesses, and suggests a revision. The other comments are vague personal reactions without musical evidence."
+ },
+ {
+  "id": "Q287",
+  "objective": "0022",
+  "stem": "Which art form most fully combines music, drama, visual design, and often dance in a single work?",
+  "correct": "opera",
+  "distractors": [
+   "string quartet",
+   "symphony",
+   "étude"
+  ],
+  "rationale": "Opera integrates singing, orchestral music, staged drama, sets, costumes, lighting, and often ballet. A string quartet, symphony, and étude are purely instrumental genres."
+ },
+ {
+  "id": "Q288",
+  "objective": "0022",
+  "stem": "Which lesson most authentically integrates music and mathematics?",
+  "correct": "students calculate note-value fractions to fill measures, then perform them",
+  "distractors": [
+   "students sing a counting song without discussing any related math concepts",
+   "students color a worksheet of notes and rests during their math period",
+   "students listen quietly to background music while completing math drills"
+  ],
+  "rationale": "Authentic integration develops meaningful concepts in both disciplines: fractional relationships of durations and their application in meter, confirmed through performance. The other options treat one subject superficially or as background."
+ },
+ {
+  "id": "Q289",
+  "objective": "0022",
+  "stem": "Which outcome of ensemble participation relates most directly to social-emotional development?",
+  "correct": "practicing collaboration, group responsibility, and managing performance anxiety",
+  "distractors": [
+   "memorizing the birth and death dates of major composers for a written quiz",
+   "solving algebraic equations that describe the frequencies of the overtone series",
+   "improving keyboarding speed by typing program notes for the next concert"
+  ],
+  "rationale": "Ensembles require cooperation, interdependence, perseverance, and emotional self-regulation during performance, all social-emotional competencies. The other options are unrelated academic or technical skills."
+ },
+ {
+  "id": "Q290",
+  "objective": "0022",
+  "stem": "Which rationale for including music in general education is most consistent with the National Core Arts Standards?",
+  "correct": "music is a distinct way of knowing that all students should learn",
+  "distractors": [
+   "music should be taught only to students with exceptional talent",
+   "music is justified only by gains on other subjects’ test scores",
+   "music serves mainly as entertainment for school assemblies and events"
+  ],
+  "rationale": "The National Core Arts Standards are organized around the artistic processes of creating, performing, responding, and connecting, for all students. Talent-only access, purely extrinsic justification, and an entertainment role undervalue music as a discipline."
+ },
+ {
+  "id": "Q291",
+  "objective": "0022",
+  "stem": "A philosopher argues that music’s value lies in its relationships of melody, harmony, and form rather than in emotions or stories it represents. Which aesthetic position is this?",
+  "correct": "formalism (absolutism)",
+  "distractors": [
+   "referentialism",
+   "expressionism",
+   "praxialism"
+  ],
+  "rationale": "Formalism locates musical meaning in the work’s internal structures. Referentialism finds meaning in extra-musical references (stories, images), expressionism emphasizes the embodiment of feeling, and praxialism emphasizes music as human activity in context."
+ },
+ {
+  "id": "Q292",
+  "objective": "0023",
+  "stem": "Under the Individuals with Disabilities Education Act (IDEA), where should students with disabilities be educated?",
+  "correct": "in the least restrictive appropriate environment, with peers when possible",
+  "distractors": [
+   "only in separate special schools designed for students with disabilities",
+   "only in general education classes that require no accommodations",
+   "only in self-contained special education classrooms for all subjects"
+  ],
+  "rationale": "IDEA requires a free appropriate public education in the least restrictive environment, with removal from general education only when supports cannot achieve satisfactory progress. Automatic placement in separate schools or classrooms, or denial of accommodations, violates that principle."
+ },
+ {
+  "id": "Q293",
+  "objective": "0023",
+  "stem": "A student with a Section 504 plan has documented accommodations for music class. What is the music teacher’s responsibility?",
+  "correct": "implement the accommodations as written and raise concerns with the team",
+  "distractors": [
+   "decide independently whether each accommodation is necessary in music",
+   "apply the accommodations only in core academic classes, not in music",
+   "apply the accommodations only during written tests and quizzes"
+  ],
+  "rationale": "A 504 plan is a legally binding plan that applies across the school day, including music. Teachers implement it and raise concerns through the team rather than altering or ignoring it."
+ },
+ {
+  "id": "Q294",
+  "objective": "0023",
+  "stem": "A student who is blind joins a beginning band. Which approach is most appropriate?",
+  "correct": "teach aurally and with tactile guidance, with braille or accessible music",
+  "distractors": [
+   "assign only a simple triangle part so that no instruction is needed",
+   "exclude the student from public performances to avoid any problems",
+   "require the student to read standard print notation like everyone else"
+  ],
+  "rationale": "Appropriate inclusion offers meaningful participation through aural and tactile teaching, with specialists providing braille music or accessible formats. Token parts, exclusion, and inaccessible print materials deny access."
+ },
+ {
+  "id": "Q295",
+  "objective": "0023",
+  "stem": "A student with a hearing impairment uses a personal remote-microphone (FM/DM) system. Which practice best supports participation in music class?",
+  "correct": "wear the transmitter and add visual cues, such as clear conducting",
+  "distractors": [
+   "speak louder while facing the board so the whole class can hear",
+   "seat the student next to the percussion section to feel the beat",
+   "turn off the system during music activities to avoid distortion"
+  ],
+  "rationale": "The remote microphone delivers the teacher’s voice directly to the student, and visual supports reinforce instructions and cues. Facing away hinders speechreading, percussion proximity can overwhelm the hearing technology, and turning off the system removes access."
+ },
+ {
+  "id": "Q296",
+  "objective": "0023",
+  "stem": "A student with attention difficulties struggles during long rehearsal segments. Which modification is most effective?",
+  "correct": "use short segments, a visual schedule, and planned movement breaks",
+  "distractors": [
+   "lengthen each rehearsal segment so the student builds stamina",
+   "send the student out of the room during the full rehearsal",
+   "reduce the amount of feedback the student receives each day"
+  ],
+  "rationale": "Short, clearly structured tasks, predictable visual schedules, and purposeful movement help students with attention needs stay engaged. Longer segments and removal reduce access, and less feedback reduces support."
+ },
+ {
+  "id": "Q297",
+  "objective": "0023",
+  "stem": "A teacher’s new students come from families with a wide range of musical traditions. Which approach to selecting repertoire is most appropriate?",
+  "correct": "include music from students’ cultures, taught in context with community input",
+  "distractors": [
+   "use only Western classical repertoire so all students start on equal footing",
+   "avoid all culturally specific songs so that no student feels singled out",
+   "select songs only from a single textbook series to keep the program consistent"
+  ],
+  "rationale": "Culturally responsive teaching connects with students’ backgrounds and presents traditions accurately and respectfully, often with community input. Excluding or avoiding students’ traditions or relying on one source limits relevance and accuracy."
+ },
+ {
+  "id": "Q298",
+  "objective": "0023",
+  "stem": "A paraprofessional accompanies a student with an IEP to music class. Which role is most appropriate for the paraprofessional?",
+  "correct": "supporting the student’s participation under the teacher’s direction",
+  "distractors": [
+   "teaching the music class independently when the teacher is busy",
+   "determining the student’s music grade based on daily observation",
+   "removing the student whenever the music becomes loud or active"
+  ],
+  "rationale": "Paraprofessionals provide support under a certified teacher’s direction and according to the IEP. Instruction and grading are the teacher’s responsibility, and removal should follow the plan rather than become routine."
+ },
+ {
+  "id": "Q299",
+  "objective": "0023",
+  "stem": "Which statement about parents or guardians in special education planning is accurate?",
+  "correct": "they are IEP team members with the right to take part in decisions",
+  "distractors": [
+   "they may observe IEP meetings but may not contribute to decisions",
+   "they receive the results only after all decisions have been made",
+   "they need not be notified before their child is evaluated"
+  ],
+  "rationale": "Under IDEA, parents are full IEP team members with rights to notice, consent for evaluation, participation in decisions, and procedural safeguards. The other statements contradict these rights."
+ },
+ {
+  "id": "Q300",
+  "objective": "0023",
+  "stem": "A student who uses a wheelchair is in a movement-based elementary music lesson. Which modification best ensures meaningful participation?",
+  "correct": "adapt movements to upper-body gestures and make the space accessible",
+  "distractors": [
+   "have the student watch the activity from the side of the room",
+   "give the student a written worksheet about the activity instead",
+   "play a video recording of the activity for the student to view"
+  ],
+  "rationale": "Adapting the movement vocabulary (for example, arm, hand, and upper-body motions or wheelchair pathways) and making the space accessible preserves the musical goal and social inclusion. Watching, worksheets, and recordings exclude the student from the activity."
+ }
+]

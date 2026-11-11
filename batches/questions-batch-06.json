@@ -1,0 +1,302 @@
+[
+ {
+  "id": "Q225",
+  "objective": "0015",
+  "stem": "Thomas A. Dorsey, who blended blues idioms with sacred texts in Chicago during the 1930s, is most closely associated with the development of which genre?",
+  "correct": "gospel music",
+  "distractors": [
+   "bluegrass",
+   "ragtime",
+   "barbershop"
+  ],
+  "rationale": "Dorsey, a former blues pianist, wrote songs such as \"Take My Hand, Precious Lord\" and organized gospel choirs and publishing in Chicago, earning the title \"father of gospel music.\" Bluegrass is an Appalachian string-band style, ragtime is a syncopated piano style from about 1900, and barbershop is close-harmony singing."
+ },
+ {
+  "id": "Q226",
+  "objective": "0015",
+  "stem": "Which combination of influences most directly formed 1950s rock and roll?",
+  "correct": "rhythm and blues, country, and gospel with a backbeat",
+  "distractors": [
+   "Gregorian chant blended with Baroque counterpoint",
+   "bossa nova rhythms blended with cool jazz",
+   "polka dance tunes blended with klezmer"
+  ],
+  "rationale": "Rock and roll fused African American rhythm and blues and gospel with country and western, emphasizing a backbeat, electric guitar, and youth-oriented lyrics (for example, Chuck Berry, Little Richard, and Elvis Presley). The other pairs describe unrelated traditions."
+ },
+ {
+  "id": "Q227",
+  "objective": "0015",
+  "stem": "In 1949, which term did the music industry adopt in place of \"race records\" for popular music made by and marketed to Black Americans?",
+  "correct": "rhythm and blues",
+  "distractors": [
+   "soul music",
+   "hip-hop music",
+   "doo-wop"
+  ],
+  "rationale": "Billboard magazine adopted \"rhythm and blues\" in 1949 to replace the \"race records\" chart label. Soul and doo-wop are later or narrower styles within that broader market, and hip-hop emerged in the 1970s."
+ },
+ {
+  "id": "Q228",
+  "objective": "0015",
+  "stem": "Which description most clearly distinguishes bebop from swing?",
+  "correct": "small combos, fast tempos, and complex harmony meant for listening",
+  "distractors": [
+   "large dance orchestras playing arranged riffs for dancing",
+   "collective improvisation led by cornet, clarinet, and trombone",
+   "modal improvisation over slowly changing, static harmonies"
+  ],
+  "rationale": "Bebop (1940s; Charlie Parker, Dizzy Gillespie) shifted jazz to small groups, virtuosic improvisation, fast tempos, and extended or substituted harmonies for attentive listeners. Arranged dance orchestras describe swing, cornet-led collective improvisation describes early New Orleans jazz, and modal improvisation describes later modal jazz."
+ },
+ {
+  "id": "Q229",
+  "objective": "0015",
+  "stem": "Which description best fits the American folk revival of the 1950s and 1960s associated with Pete Seeger and Joan Baez?",
+  "correct": "acoustic traditional and topical songs tied to social causes",
+  "distractors": [
+   "electronic dance music produced for nightclub audiences",
+   "Tin Pan Alley show tunes written for Broadway stages",
+   "Baroque repertoire performed on period instruments"
+  ],
+  "rationale": "The folk revival featured acoustic guitar, banjo, and group singing of traditional ballads and new topical songs, closely linked to civil rights and antiwar activism. The other options describe different genres or movements."
+ },
+ {
+  "id": "Q230",
+  "objective": "0015",
+  "stem": "Besides acoustic and electric guitar, which instrument is most associated with the sound of classic honky-tonk and Nashville country music?",
+  "correct": "pedal steel guitar",
+  "distractors": [
+   "sitar",
+   "bagpipes",
+   "harpsichord"
+  ],
+  "rationale": "The pedal steel guitar, with its sliding, sustained, crying tone, is a signature country instrument, alongside fiddle. The sitar, bagpipes, and harpsichord are associated with other traditions."
+ },
+ {
+  "id": "Q231",
+  "objective": "0015",
+  "stem": "Chicago blues of the late 1940s and 1950s, as played by Muddy Waters, is most distinguished from earlier Delta blues by which feature?",
+  "correct": "electric guitar, amplified harmonica, bass, and drums",
+  "distractors": [
+   "an unaccompanied solo voice with no instruments",
+   "banjo and fiddle string-band accompaniment",
+   "orchestral strings and woodwinds in the studio"
+  ],
+  "rationale": "Migrants from the Mississippi Delta brought the blues to Chicago and amplified it, adding electric guitar, amplified harmonica, piano, bass, and drums for noisy urban clubs. Delta blues was typically one singer with acoustic guitar; string bands and orchestras describe other styles."
+ },
+ {
+  "id": "Q232",
+  "objective": "0016",
+  "stem": "Which Japanese masked theatre genre is accompanied by a flute and drums, with chanted text and slow, stylized movement?",
+  "correct": "Noh",
+  "distractors": [
+   "Beijing opera",
+   "wayang kulit",
+   "Kathakali"
+  ],
+  "rationale": "Noh is a Japanese masked drama accompanied by the hayashi ensemble (nohkan flute and three drums) and a chanting chorus. Beijing opera is Chinese, wayang kulit is Indonesian shadow-puppet theatre with gamelan, and Kathakali is Indian dance-drama."
+ },
+ {
+  "id": "Q233",
+  "objective": "0016",
+  "stem": "Which features are most characteristic of Beijing (Peking) opera?",
+  "correct": "stylized singing, acrobatics, symbolic makeup, and percussion",
+  "distractors": [
+   "masked dance accompanied by a bronze gamelan",
+   "steel pans accompanying topical calypso lyrics",
+   "bagpipes and snare drums playing a slow, stately march for parades"
+  ],
+  "rationale": "Beijing opera combines high, stylized singing, acrobatic movement, color-coded face makeup, and an ensemble led by percussion (clappers, gongs, drums) and the jinghu fiddle. The other options describe Indonesian, Caribbean, and Scottish traditions."
+ },
+ {
+  "id": "Q234",
+  "objective": "0016",
+  "stem": "In much West African ensemble drumming, what role does the repeating bell pattern (timeline) play?",
+  "correct": "it gives a reference pattern for the interlocking parts",
+  "distractors": [
+   "it carries the principal melody of the song",
+   "it signals only the end of the performance",
+   "it improvises freely without any set pattern from cycle to cycle"
+  ],
+  "rationale": "In traditions such as Ewe drumming, a bell plays a repeating timeline against which supporting drums interlock and the lead drum improvises and signals changes. The bell is not a melody instrument, does not merely signal endings, and keeps a steady pattern rather than improvising."
+ },
+ {
+  "id": "Q235",
+  "objective": "0016",
+  "stem": "Balinese gamelan gong kebyar is especially known for which feature?",
+  "correct": "explosive contrasts and rapid interlocking figuration",
+  "distractors": [
+   "slow, meditative solo improvisation over a drone",
+   "a bowed string orchestra playing in unison",
+   "unaccompanied choral singing in close harmony"
+  ],
+  "rationale": "Kebyar (\"bursting forth\"), developed in the twentieth century, is famous for explosive contrasts and rapid interlocking parts divided between paired players. Solo improvisation over a drone suggests Indian classical music, and strings or unaccompanied choirs are not the basis of gamelan."
+ },
+ {
+  "id": "Q236",
+  "objective": "0016",
+  "stem": "The bouzouki, a long-necked plucked lute, is most closely associated with which tradition?",
+  "correct": "Greek rebetiko",
+  "distractors": [
+   "Andean panpipe music",
+   "Japanese gagaku",
+   "Hawaiian slack-key"
+  ],
+  "rationale": "The bouzouki is central to Greek urban popular music, including rebetiko and laïko. Andean ensembles feature siku and charango, gagaku is Japanese court music, and slack-key is a Hawaiian guitar style."
+ },
+ {
+  "id": "Q237",
+  "objective": "0016",
+  "stem": "In a Hindustani classical performance, which instrument typically accompanies the soloist by articulating the tala (rhythmic cycle)?",
+  "correct": "tabla",
+  "distractors": [
+   "tanpura",
+   "sitar",
+   "sarangi"
+  ],
+  "rationale": "The tabla, a pair of hand drums, plays the theka that marks the tala cycle and engages rhythmically with the soloist. The tanpura provides a drone, the sitar is a plucked melodic instrument, and the sarangi is a bowed melodic instrument."
+ },
+ {
+  "id": "Q238",
+  "objective": "0016",
+  "stem": "Which instruments are most characteristic of Andean folk music from Peru and Bolivia?",
+  "correct": "siku panpipes, quena, and charango",
+  "distractors": [
+   "koto, shakuhachi, and shamisen",
+   "djembe, kora, and balafon",
+   "oud, darbuka, and qanun"
+  ],
+  "rationale": "Siku (panpipes), quena (notched end-blown flute), and charango (small guitar-like lute) are signature Andean instruments. Koto and shakuhachi are Japanese, djembe and kora are West African, and oud and darbuka are Middle Eastern and North African."
+ },
+ {
+  "id": "Q239",
+  "objective": "0016",
+  "stem": "Arabic classical music organizes melody using which system?",
+  "correct": "maqam, modes that can include quarter-tone-like intervals",
+  "distractors": [
+   "raga, the melodic framework of Hindustani music",
+   "slendro and pelog, the tuning systems of gamelan",
+   "tone rows, the ordered twelve-note sets of serial technique"
+  ],
+  "rationale": "Arabic classical music uses the maqam system, whose modes include characteristic intervals and neutral seconds (about three-quarter tones) and guide improvisation such as the taqsim. Raga is the parallel Indian concept, slendro and pelog are Indonesian tunings, and tone rows are a Western serial technique."
+ },
+ {
+  "id": "Q240",
+  "objective": "0016",
+  "stem": "In South Africa, the choral style isicathamiya, popularized by Ladysmith Black Mambazo, developed as which kind of music?",
+  "correct": "a cappella male choral singing of Zulu migrant workers",
+  "distractors": [
+   "court music performed by bronze gong ensembles",
+   "steel-band music performed for carnival parades",
+   "electronic dance music produced for urban clubs"
+  ],
+  "rationale": "Isicathamiya grew in hostels where Zulu migrant workers formed a cappella male choirs, with soft, tightly harmonized singing and choreographed steps that expressed community away from home. The other options describe Indonesian, Trinidadian, and electronic traditions."
+ },
+ {
+  "id": "Q241",
+  "objective": "0017",
+  "stem": "Theobald Boehm’s mid-nineteenth-century redesign of the flute most directly improved which feature?",
+  "correct": "intonation and evenness, through acoustically placed tone holes and ring keys",
+  "distractors": [
+   "the ability to play the flute with a single cane reed and mouthpiece",
+   "the use of rotary valves that lengthen the tube for chromatic notes",
+   "the change from a cylindrical bore to a double-reed conical bore"
+  ],
+  "rationale": "Boehm placed and sized tone holes for acoustical accuracy and used a system of rings and keys so the fingers could close holes they could not reach, improving intonation, evenness, and agility. Flutes do not use reeds or valves."
+ },
+ {
+  "id": "Q242",
+  "objective": "0017",
+  "stem": "Which design feature distinguished the early piano from the harpsichord?",
+  "correct": "hammers strike the strings, so touch controls loudness",
+  "distractors": [
+   "quills pluck the strings at a nearly fixed loudness",
+   "pipes are supplied with air from hand-pumped bellows",
+   "a rosined wheel bows the strings continuously"
+  ],
+  "rationale": "Cristofori’s pianoforte (about 1700) used hammers, allowing soft and loud playing through key velocity, hence the name. Harpsichords pluck the strings with quills (plectra) at nearly fixed volume, organs use pipes, and bowed keyboards are rare curiosities."
+ },
+ {
+  "id": "Q243",
+  "objective": "0017",
+  "stem": "Which instrument, made commercially popular in the 1960s by Robert Moog, generates and shapes sound with voltage-controlled oscillators, filters, and amplifiers?",
+  "correct": "the analog synthesizer",
+  "distractors": [
+   "the phonograph",
+   "the magnetic tape recorder",
+   "the electric guitar pickup"
+  ],
+  "rationale": "Moog’s modular analog synthesizer used voltage control to create and shape electronic sound, influencing recordings from Switched-On Bach to progressive rock. A phonograph and a tape recorder reproduce recorded sound, and a pickup converts string vibrations into an electrical signal."
+ },
+ {
+  "id": "Q244",
+  "objective": "0017",
+  "stem": "MIDI, introduced in 1983, allows electronic instruments and computers to do which of the following?",
+  "correct": "exchange performance data such as notes, velocity, and timing",
+  "distractors": [
+   "transmit recorded audio waveforms between devices",
+   "store printed sheet music as scanned image files",
+   "amplify unplugged acoustic instruments in a large concert hall"
+  ],
+  "rationale": "MIDI (Musical Instrument Digital Interface) is a protocol for event messages, such as note-on, note-off, velocity, and controller changes, not audio. A receiving device or software must generate the sound. It does not transmit audio, store images, or amplify sound."
+ },
+ {
+  "id": "Q245",
+  "objective": "0017",
+  "stem": "Hip-hop producers who loop short excerpts of existing recordings as the foundation of new tracks are using which technique?",
+  "correct": "sampling",
+  "distractors": [
+   "MIDI quantization",
+   "pitch correction",
+   "click-track recording"
+  ],
+  "rationale": "Sampling digitally captures and reuses portions of existing recordings, often looped and layered, and raises copyright clearance questions. Quantization aligns MIDI timing, pitch correction adjusts intonation, and a click track is a metronome reference for recording."
+ },
+ {
+  "id": "Q246",
+  "objective": "0017",
+  "stem": "How did multitrack tape recording in the 1950s and 1960s most directly change popular music production?",
+  "correct": "parts could be overdubbed and mixed, making the studio a creative tool",
+  "distractors": [
+   "all musicians had to record live together in a single complete take",
+   "editing and splicing recorded performances became impossible",
+   "recordings were restricted to live, single-microphone mono sound"
+  ],
+  "rationale": "Multitrack recording (pioneered by Les Paul and used extensively by the Beatles and others) allowed layering, overdubbing, and later mixing, turning the studio into a compositional instrument. It removed, rather than imposed, the need for single live takes."
+ },
+ {
+  "id": "Q247",
+  "objective": "0017",
+  "stem": "Which effect of internet streaming and social media on music is best supported?",
+  "correct": "independent artists can distribute music worldwide without a label",
+  "distractors": [
+   "live performance has largely disappeared from most communities",
+   "acoustic instruments have become obsolete in music education",
+   "copyright protection no longer applies to recorded music"
+  ],
+  "rationale": "Digital distribution and social platforms lowered barriers to releasing and promoting music globally, changing how artists reach audiences and earn income. Live performance and acoustic instruments remain central, and copyright still applies to recordings and compositions."
+ },
+ {
+  "id": "Q248",
+  "objective": "0017",
+  "stem": "Adolphe Sax’s saxophone, patented in the 1840s, combines which features?",
+  "correct": "a single-reed mouthpiece with a conical metal body",
+  "distractors": [
+   "a double reed with a cylindrical wooden body",
+   "a cup-shaped mouthpiece with valves",
+   "a whistle (fipple) mouthpiece with finger holes"
+  ],
+  "rationale": "The saxophone pairs a clarinet-like single reed and mouthpiece with a conical brass body and keys, which is why it is classified as a woodwind. Double reeds belong to the oboe family, cup mouthpieces and valves to brass, and fipples to recorders."
+ },
+ {
+  "id": "Q249",
+  "objective": "0018",
+  "stem": "Which organization collects public-performance royalties on behalf of songwriters and music publishers?",
+  "correct": "a performing rights organization, such as ASCAP",
+  "distractors": [
+   "a recording studio’s engineering staff",
+   "a national music therapy association",
+   "a regional guild of luthiers"
+  ],
+  "rationale": "Performing rights organizations license public performances of compositions (on radio, streaming, and in venues) and distribute royalties to songwriters and publishers. Recording engineers capture and mix sound, music therapy associations certify clinicians, and luthiers build and repair string instruments."
+ }
+]

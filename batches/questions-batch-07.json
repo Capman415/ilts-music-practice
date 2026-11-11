@@ -1,0 +1,302 @@
+[
+ {
+  "id": "Q250",
+  "objective": "0018",
+  "stem": "A film composer assigns a recurring melodic idea to the hero and transforms it as the story develops. Which technique is being used?",
+  "correct": "leitmotif",
+  "distractors": [
+   "diegetic source music",
+   "Mickey-Mousing",
+   "a stinger"
+  ],
+  "rationale": "A leitmotif is a recurring musical idea tied to a character, place, or idea, varied to reflect dramatic change. Diegetic music is heard by the characters, Mickey-Mousing synchronizes music with on-screen motion, and a stinger is a short accent for a sudden moment."
+ },
+ {
+  "id": "Q251",
+  "objective": "0018",
+  "stem": "Why do advertisers often use short, repetitive melodies that include a brand name in the lyrics?",
+  "correct": "a repeated, memorable hook builds brand recognition and recall",
+  "distractors": [
+   "repetitive melodies cannot be protected by copyright law",
+   "music removes the need for any visual images in the ad",
+   "short melodies are required by federal broadcast rules"
+  ],
+  "rationale": "Commercial jingles use catchy hooks, repetition, and the brand name so listeners associate the music with the product and remember it. Jingles are copyrighted, accompany rather than replace visuals, and are not required by law."
+ },
+ {
+  "id": "Q252",
+  "objective": "0018",
+  "stem": "The rise of punk rock in the mid-1970s is best understood as a response to which conditions?",
+  "correct": "economic frustration and rejection of polished, elaborate rock",
+  "distractors": [
+   "the recent invention of the phonograph and gramophone",
+   "a revival of aristocratic court patronage of musicians",
+   "the new standardization of equal-temperament tuning"
+  ],
+  "rationale": "Punk emerged in New York and London amid unemployment and disillusionment, rejecting virtuosic progressive and arena rock in favor of short, loud, simple songs and independent production. The other events are unrelated or occurred much earlier."
+ },
+ {
+  "id": "Q253",
+  "objective": "0018",
+  "stem": "A student wants a career using music-based interventions to address clients’ clinical goals in hospitals and schools. Which career and credential fit best?",
+  "correct": "music therapist, with a degree and MT-BC certification",
+  "distractors": [
+   "music librarian, with a library science degree only",
+   "orchestral arranger, with musicians’ union membership",
+   "acoustician, with an engineering or physics degree"
+  ],
+  "rationale": "Music therapists use clinical, evidence-based music interventions; in the United States they complete an approved music therapy degree, an internship, and the board-certification exam (MT-BC). The other careers do not address clinical goals."
+ },
+ {
+  "id": "Q254",
+  "objective": "0018",
+  "stem": "Work songs sung by laborers in call-and-response form most directly serve which function?",
+  "correct": "coordinating labor and building group solidarity",
+  "distractors": [
+   "entertaining paying audiences at formal concerts",
+   "demonstrating individual virtuosity in contests",
+   "accompanying the formal liturgy of church services"
+  ],
+  "rationale": "Work songs synchronize repetitive tasks, pace effort, and create community and shared expression, often through a leader’s call and a group response. They are not primarily concert entertainment, competition pieces, or liturgy."
+ },
+ {
+  "id": "Q255",
+  "objective": "0018",
+  "stem": "When a national anthem is sung by a crowd at a sporting event, the music primarily serves which function?",
+  "correct": "expressing shared civic identity and unity",
+  "distractors": [
+   "showcasing new compositional techniques",
+   "providing background for commercial advertising",
+   "training singers in advanced vocal technique"
+  ],
+  "rationale": "Anthems are ceremonial music that symbolize the nation and invite collective participation and shared identity. Their function at public events is communal and symbolic rather than innovative, commercial, or pedagogical."
+ },
+ {
+  "id": "Q256",
+  "objective": "0018",
+  "stem": "Which professional is responsible for preparing, organizing, and maintaining the performance parts used by an orchestra?",
+  "correct": "orchestra librarian",
+  "distractors": [
+   "concertmaster",
+   "stage manager",
+   "box office manager"
+  ],
+  "rationale": "The orchestra librarian acquires, marks (bowings, cuts), distributes, and maintains scores and parts. The concertmaster leads the first violins and tunes the orchestra, the stage manager handles stage logistics, and the box office manages ticketing."
+ },
+ {
+  "id": "Q257",
+  "objective": "0019",
+  "stem": "Which sequence reflects a Kodály-based approach to introducing a new rhythm?",
+  "correct": "prepare through singing and movement, name it, then read and write it",
+  "distractors": [
+   "show the notation first, then name it, then sing songs that contain it",
+   "teach the new rhythm through recorder method books and drills only",
+   "name the rhythm and test students on it before they experience it"
+  ],
+  "rationale": "The Kodály sequence moves from experience (prepare) through labeling (make conscious) to reinforcement in reading, writing, and improvisation (practice). Introducing notation or testing before experience reverses that sequence, and recorder books are not the Kodály core."
+ },
+ {
+  "id": "Q258",
+  "objective": "0019",
+  "stem": "Which instructional sequence is most characteristic of Orff Schulwerk?",
+  "correct": "speech and body percussion, then barred instruments and improvisation",
+  "distractors": [
+   "notation reading first, then singing, then guided listening activities",
+   "Curwen hand signs used alone, without any instruments or movement",
+   "recorder method books followed by written tests on note names"
+  ],
+  "rationale": "Orff Schulwerk begins with speech, rhyme, movement, and body percussion, transfers patterns to unpitched and barred instruments, and builds toward improvisation and creation. Notation-first teaching and test-centered method books are not Orff principles, and hand signs are associated with Kodály."
+ },
+ {
+  "id": "Q259",
+  "objective": "0019",
+  "stem": "In Dalcroze eurhythmics, students primarily develop musical understanding through which activity?",
+  "correct": "whole-body movement in response to improvised music",
+  "distractors": [
+   "Curwen hand signs paired with movable-do solfège",
+   "barred-instrument ostinatos with speech patterns",
+   "reading guitar tablature and chord diagrams"
+  ],
+  "rationale": "Dalcroze eurhythmics uses movement in response to the teacher’s improvisation to internalize beat, meter, phrasing, and dynamics, alongside solfège and improvisation. Hand signs are Kodály, barred-instrument ostinatos are Orff, and tablature is unrelated."
+ },
+ {
+  "id": "Q260",
+  "objective": "0019",
+  "stem": "In Edwin Gordon’s Music Learning Theory, what does \"audiation\" mean?",
+  "correct": "hearing and understanding music in the mind without sound present",
+  "distractors": [
+   "singing a song back immediately after hearing it by rote",
+   "reading rhythms aloud using a system of counting syllables",
+   "memorizing the letter names of notes on the treble staff"
+  ],
+  "rationale": "Gordon defines audiation as the ability to hear and understand music internally, the musical counterpart to thinking in language. Rote imitation, rhythm syllables, and note-name memorization may support it but are not audiation itself."
+ },
+ {
+  "id": "Q261",
+  "objective": "0019",
+  "stem": "A teacher using Kodály-style rhythm syllables wants to label a pair of eighth notes. Which syllables are typical?",
+  "correct": "ti-ti",
+  "distractors": [
+   "ta",
+   "ta-a",
+   "ti-ka-ti-ka"
+  ],
+  "rationale": "In common Kodály practice, a quarter note is \"ta,\" a pair of eighths is \"ti-ti,\" a half note is \"ta-a,\" and four sixteenths are \"ti-ka-ti-ka.\""
+ },
+ {
+  "id": "Q262",
+  "objective": "0019",
+  "stem": "Which elementary classroom instrument is a pitched idiophone with removable bars?",
+  "correct": "alto xylophone",
+  "distractors": [
+   "conga drum",
+   "soprano ukulele",
+   "chorded autoharp"
+  ],
+  "rationale": "Orff xylophones and metallophones are pitched idiophones whose bars can be removed to limit pitch choices. A conga is a membranophone (struck drumhead), and the ukulele and autoharp are chordophones (vibrating strings)."
+ },
+ {
+  "id": "Q263",
+  "objective": "0019",
+  "stem": "When teaching a new song by rote to second graders, which approach is most effective?",
+  "correct": "teach it phrase by phrase with echo singing, then combine the phrases",
+  "distractors": [
+   "have students read the full score before hearing it",
+   "teach the whole song at once and sing it repeatedly from the start",
+   "speak all of the words many times before adding any melody"
+  ],
+  "rationale": "Rote teaching works best when students hear the whole song, echo short phrases with clear cues, and then link phrases. Reading a full score is inappropriate for young beginners, and singing the whole song repeatedly or speaking all the words delays focused pitch learning."
+ },
+ {
+  "id": "Q264",
+  "objective": "0019",
+  "stem": "A fifth-grade beginning band is starting its first weeks. Which lesson focus is most appropriate?",
+  "correct": "posture, breathing, and tone on a few comfortable pitches",
+  "distractors": [
+   "full concert literature beginning on the first day",
+   "all twelve major scales within the first week",
+   "developing the upper register before other skills"
+  ],
+  "rationale": "Beginning instruction establishes fundamentals (instrument assembly, posture, hand position, breath, embouchure, and tone) on a small set of comfortable pitches, adding range and rhythms gradually. The alternatives overload beginners and risk poor habits."
+ },
+ {
+  "id": "Q265",
+  "objective": "0019",
+  "stem": "Which technology use is most appropriate for second graders exploring composition?",
+  "correct": "an age-appropriate app for arranging and hearing icon-based patterns",
+  "distractors": [
+   "a professional digital audio workstation with complex signal routing",
+   "engraving software that requires full standard notation entry",
+   "an audio mastering suite designed for commercial releases"
+  ],
+  "rationale": "Young composers benefit from visual, intuitive tools where they can manipulate and hear sound patterns before standard notation. Professional DAWs, engraving software, and mastering tools demand skills beyond typical second graders."
+ },
+ {
+  "id": "Q266",
+  "objective": "0020",
+  "stem": "A high school band’s balance is top-heavy, with melodies covering the inner and bass parts. Which approach best develops ensemble balance?",
+  "correct": "build a \"pyramid of sound,\" with players listening down to the bass",
+  "distractors": [
+   "ask the melody players to play even louder so the tune is clear",
+   "move the low brass to the back of the room so they are softer",
+   "remove the bass parts from the arrangement to simplify the texture"
+  ],
+  "rationale": "A balance pyramid builds a foundation from the low voices so upper parts sit on top. Students learn to listen to the bass line and adjust. Louder melody worsens the imbalance, and moving or removing the bass parts weakens the foundation."
+ },
+ {
+  "id": "Q267",
+  "objective": "0020",
+  "stem": "Which practice most effectively builds sight-reading skill in a high school choir?",
+  "correct": "brief, daily, sequenced sight-reading with solfège on unfamiliar material",
+  "distractors": [
+   "occasional reading of concert music after it is learned by rote",
+   "listening to recordings of each piece before rehearsal",
+   "learning every part by ear from the piano"
+  ],
+  "rationale": "Sight-reading improves through regular, systematic practice with new material that increases in difficulty, using a consistent system such as movable-do solfège. Reading already-learned music, recordings, and rote piano learning do not develop independent reading."
+ },
+ {
+  "id": "Q268",
+  "objective": "0020",
+  "stem": "Which repertoire choice best fits a seventh-grade choir with many boys whose voices are changing?",
+  "correct": "three-part music with a narrow-range cambiata or baritone part",
+  "distractors": [
+   "SATB works with tenor parts that extend up to A4",
+   "adult SSAA works written in high, sustained tessituras",
+   "solo operatic arias assigned to each choir section"
+  ],
+  "rationale": "Changing voices need parts with narrow ranges and appropriate tessituras, such as cambiata or baritone parts in three-part mixed literature. High tenor parts, adult treble literature, and operatic arias exceed or exclude changing voices."
+ },
+ {
+  "id": "Q269",
+  "objective": "0020",
+  "stem": "Students in a high school music appreciation class have little performance experience. Which activity best builds active listening?",
+  "correct": "listening maps that ask students to track form and instrumentation",
+  "distractors": [
+   "a lecture focused only on composers’ birth and death dates",
+   "copying definitions of musical terms from a glossary",
+   "watching a concert video without any prompts or listening tasks"
+  ],
+  "rationale": "Guided listening with specific targets keeps students actively tracking musical events and builds vocabulary in context. Dates, copying definitions, and unstructured viewing do not focus attention on the sound."
+ },
+ {
+  "id": "Q270",
+  "objective": "0020",
+  "stem": "In a la-based minor system using movable do, which syllable names the tonic of a minor key?",
+  "correct": "la",
+  "distractors": [
+   "do",
+   "re",
+   "mi"
+  ],
+  "rationale": "In la-based minor, the minor tonic is sung \"la,\" preserving relative-major relationships (do remains the relative major tonic). Do-based minor, an alternative system, would sing the tonic as \"do\" with altered syllables."
+ },
+ {
+  "id": "Q271",
+  "objective": "0020",
+  "stem": "Which resource is most appropriate for selecting quality graded literature for a middle school band?",
+  "correct": "a state or professional graded list, checked against scores",
+  "distractors": [
+   "only the most frequently downloaded pieces online",
+   "only pieces the director played in college",
+   "whichever pieces have the lowest purchase price"
+  ],
+  "rationale": "Graded lists from state associations and professional organizations identify quality literature at specified difficulty levels, and directors should review scores and recordings against their students’ needs. Popularity, personal history, and price alone do not ensure quality or fit."
+ },
+ {
+  "id": "Q272",
+  "objective": "0020",
+  "stem": "A high school music technology class will record ensemble rehearsals so students can analyze balance and intonation. Which tool is most appropriate?",
+  "correct": "a digital audio workstation for recording and playback",
+  "distractors": [
+   "notation software for engraving individual parts",
+   "a stand-alone metronome app for tempo practice",
+   "a chromatic tuner clipped to each instrument"
+  ],
+  "rationale": "A digital audio workstation (DAW) records, plays back, and edits audio so students can compare sections, balance, and tuning. Notation software engraves scores, and metronomes and tuners measure tempo or pitch in the moment without recording."
+ },
+ {
+  "id": "Q273",
+  "objective": "0020",
+  "stem": "Which sequence best introduces improvisation to a high school jazz band?",
+  "correct": "learn the blues form and scale, imitate solos, then trade short phrases",
+  "distractors": [
+   "begin with free improvisation over the fastest bebop standards",
+   "require full transcriptions of recorded solos before any playing",
+   "postpone improvisation until students can read any chart at sight"
+  ],
+  "rationale": "Structured entry points (a familiar form, a limited pitch set, aural imitation of models, and short phrase trading) lower anxiety and build vocabulary. Rapid harmonic standards, full transcriptions, and postponing improvisation are poor starting points."
+ },
+ {
+  "id": "Q274",
+  "objective": "0020",
+  "stem": "A middle school band misreads sixteenth-note patterns. Which counting approach is most effective?",
+  "correct": "use one beat-based system, such as 1-e-&-a, with a steady pulse",
+  "distractors": [
+   "count only the quarter-note beats and ignore subdivisions",
+   "change to a different counting system every week",
+   "rely only on rote imitation without any notation"
+  ],
+  "rationale": "A single, consistent counting system that relates each subdivision to the beat helps students decode and perform rhythms accurately. Counting only quarters ignores subdivision, frequently changing systems causes confusion, and rote-only learning does not develop reading."
+ }
+]

@@ -1,0 +1,302 @@
+[
+ {
+  "id": "Q200",
+  "objective": "0012",
+  "stem": "Which pair of instruments both use double reeds?",
+  "correct": "oboe and bassoon",
+  "distractors": [
+   "clarinet and saxophone",
+   "flute and piccolo",
+   "oboe and clarinet"
+  ],
+  "rationale": "The oboe, English horn, and bassoon are double-reed woodwinds. Clarinets and saxophones use a single reed on a mouthpiece, and flutes and piccolos have no reed; the player blows across an embouchure hole."
+ },
+ {
+  "id": "Q201",
+  "objective": "0012",
+  "stem": "Which tuning, from the lowest string to the highest, is standard for a six-string guitar?",
+  "correct": "E–A–D–G–B–E",
+  "distractors": [
+   "E–A–D–G–C–F",
+   "G–D–A–E–B–E",
+   "D–G–C–F–A–D"
+  ],
+  "rationale": "Standard guitar tuning is E2–A2–D3–G3–B3–E4: fourths between adjacent strings except a major third between G and B. The alternatives use all fourths, string-family fifths, or a transposed pattern."
+ },
+ {
+  "id": "Q202",
+  "objective": "0012",
+  "stem": "Before a timpani entrance in a new key, what should the timpanist do?",
+  "correct": "tune each drum to the needed pitch, checking softly against a reference",
+  "distractors": [
+   "tighten the snares beneath each drumhead before playing",
+   "strike near the center of the head for a fuller, deeper tone",
+   "play louder so that small pitch differences are covered by volume"
+  ],
+  "rationale": "Timpani are pitched drums that are retuned (usually with pedals) during rests, using a pitch reference and soft checking taps. Timpani have no snares, the center of the head produces a dead tone (players strike about a hand’s width from the rim), and volume does not correct pitch."
+ },
+ {
+  "id": "Q203",
+  "objective": "0012",
+  "stem": "Which piano pedal sustains only the notes that are being held down at the moment the pedal is pressed?",
+  "correct": "the sostenuto (middle) pedal",
+  "distractors": [
+   "the damper (sustain) pedal",
+   "the una corda (soft) pedal",
+   "the practice (mute) rail"
+  ],
+  "rationale": "The sostenuto pedal holds the dampers off only for keys depressed when it is engaged, so later notes remain undamped only while held. The damper pedal lifts all dampers, the una corda shifts the action so the hammers strike fewer strings, and a practice rail muffles the sound."
+ },
+ {
+  "id": "Q204",
+  "objective": "0013",
+  "stem": "In a standard three-beat conducting pattern, in which direction does beat 2 typically move?",
+  "correct": "outward, away from the body (to the conductor’s right)",
+  "distractors": [
+   "straight up",
+   "inward, across the body (to the conductor’s left)",
+   "straight down"
+  ],
+  "rationale": "The standard three pattern is down (1), out to the right (2), and up (3). Moving inward across the body characterizes beat 2 of the four pattern, beat 3 rebounds upward, and the downbeat moves straight down."
+ },
+ {
+  "id": "Q205",
+  "objective": "0013",
+  "stem": "In a standard four-beat conducting pattern, in which direction does beat 3 typically move?",
+  "correct": "outward, to the conductor’s right",
+  "distractors": [
+   "inward, to the conductor’s left",
+   "straight up",
+   "straight down"
+  ],
+  "rationale": "The four pattern is down (1), inward to the left (2), outward to the right (3), and up (4). Beat 2 moves inward, beat 4 rises, and beat 1 descends."
+ },
+ {
+  "id": "Q206",
+  "objective": "0013",
+  "stem": "Which left-hand gesture most clearly asks an ensemble for a gradual diminuendo?",
+  "correct": "a palm-down hand slowly lowering",
+  "distractors": [
+   "a closed fist raised quickly",
+   "a rapid point toward one section",
+   "a palm-up hand slowly rising"
+  ],
+  "rationale": "A palm facing down and gradually lowering is the conventional request to reduce volume over time. A raised fist suggests a cutoff or emphasis, pointing usually cues an entrance, and a rising palm-up hand asks for more sound."
+ },
+ {
+  "id": "Q207",
+  "objective": "0013",
+  "stem": "A choir’s sopranos go flat on sustained high notes near the end of a long phrase. Which first strategy is most appropriate?",
+  "correct": "check breath support and breath points, and rehearse at a sustainable dynamic",
+  "distractors": [
+   "ask the sopranos to sing those high notes as loudly as possible",
+   "transpose the piece up a whole step to brighten the soprano sound",
+   "remove the piano accompaniment so the sopranos can hear themselves"
+  ],
+  "rationale": "Flatting late in long phrases often signals depleted breath, fatigue, or pressing. Planning breaths (or staggered breathing) and rebuilding support at a manageable dynamic addresses the cause. Louder singing usually worsens pressing, and transposing or removing accompaniment avoids the problem without diagnosing it."
+ },
+ {
+  "id": "Q208",
+  "objective": "0013",
+  "stem": "A trumpet section plays with a pinched, thin tone in the upper register. Which strategy is most appropriate?",
+  "correct": "lip slurs and long tones that stress faster air, not mouthpiece pressure",
+  "distractors": [
+   "pressing the mouthpiece harder against the lips for security",
+   "switching immediately to the smallest available mouthpiece",
+   "avoiding the upper register for the rest of the school year"
+  ],
+  "rationale": "A pinched upper register usually results from excess pressure and insufficient air speed. Lip slurs and long tones build the coordinated embouchure and air needed for range. More pressure damages endurance and tone, a sudden mouthpiece change does not address technique, and avoidance prevents development."
+ },
+ {
+  "id": "Q209",
+  "objective": "0013",
+  "stem": "Only the second violins struggle with a shifting passage that the rest of the orchestra plays well. Which rehearsal response is most efficient?",
+  "correct": "isolate the passage with that section, slow it down, then put it back in context",
+  "distractors": [
+   "repeat the entire movement several times without stopping to fix it",
+   "move the passage to the first violins for the concert performance",
+   "skip the passage until the dress rehearsal to save rehearsal time"
+  ],
+  "rationale": "Targeted, slow isolation of the problem with the section that needs it, followed by reintegration in context, uses rehearsal time efficiently. Full run-throughs do not address the specific technical issue, reassigning parts changes the score, and postponing practice leaves the problem unsolved."
+ },
+ {
+  "id": "Q210",
+  "objective": "0013",
+  "stem": "When selecting choral repertoire for a concert, which set of criteria best reflects sound practice?",
+  "correct": "suitable ranges and tessitura, text quality, and stylistic and cultural variety",
+  "distractors": [
+   "the length of each piece, so the full program fits the time slot",
+   "current popularity on social media, so students stay highly engaged",
+   "works by a single composer, so the whole program feels unified"
+  ],
+  "rationale": "Selection should balance musical quality, the singers’ ranges and tessitura, meaningful texts, pedagogical goals, and stylistic and cultural variety. Length alone, popularity alone, and a single-composer program ignore the ensemble’s needs and educational value."
+ },
+ {
+  "id": "Q211",
+  "objective": "0013",
+  "stem": "A pianist is accompanying an elementary choir that is learning a new song. Which approach is generally most supportive?",
+  "correct": "play the melody clearly at first, then reduce it as singers gain independence",
+  "distractors": [
+   "play full, loud chords throughout every rehearsal to add energy",
+   "never play the melody, even on the first day the song is learned",
+   "play the melody two octaves above the singers so it is easy to hear"
+  ],
+  "rationale": "Young singers benefit from hearing a clear melody while learning, then gradually gaining independence as the accompaniment shifts to harmonic support. Loud, dense chords cover the voices, omitting the melody from the start can leave beginners unsupported, and extreme octave displacement is hard to match."
+ },
+ {
+  "id": "Q212",
+  "objective": "0013",
+  "stem": "At the end of a choral piece, a final chord is held under a fermata. How should the conductor release it?",
+  "correct": "with a clear preparatory motion followed by a visible cutoff",
+  "distractors": [
+   "by abruptly stopping the beat without any preparation",
+   "by turning toward the audience before the sound ends",
+   "by letting each singer release when out of breath"
+  ],
+  "rationale": "A release, like an entrance, needs a visible preparation followed by a decisive cutoff so the ensemble ends together. Unprepared stops, turning away, or individual releases produce ragged endings."
+ },
+ {
+  "id": "Q213",
+  "objective": "0014",
+  "stem": "Which feature most clearly distinguishes Baroque instrumental music from Classical instrumental music?",
+  "correct": "a continuous basso continuo and a single affect sustained through a movement",
+  "distractors": [
+   "periodic phrasing in balanced antecedent–consequent pairs",
+   "the fortepiano replacing the harpsichord as the main keyboard",
+   "an expanded orchestra with large brass sections and programmatic titles"
+  ],
+  "rationale": "Baroque instrumental movements typically rely on basso continuo and project one prevailing affect with continuous motor rhythm. Balanced periodic phrasing and the rise of the fortepiano characterize the Classical style, and expanded orchestras with programmatic titles characterize Romanticism."
+ },
+ {
+  "id": "Q214",
+  "objective": "0014",
+  "stem": "J. S. Bach’s church cantatas for Leipzig most directly reflect which context?",
+  "correct": "Lutheran worship, with chorales and texts tied to the church year",
+  "distractors": [
+   "Catholic Counter-Reformation demands for Latin polyphony",
+   "Parisian public concert culture",
+   "nineteenth-century musical nationalism"
+  ],
+  "rationale": "Bach wrote cantatas for Lutheran services in Leipzig, setting German texts for specific Sundays and feast days and often closing with chorales the congregation knew. The Counter-Reformation shaped Catholic music, Paris’s public concerts developed separately, and nationalism arose in the nineteenth century."
+ },
+ {
+  "id": "Q215",
+  "objective": "0014",
+  "stem": "Mozart’s operas with librettos by Lorenzo Da Ponte, such as The Marriage of Figaro, are especially notable for which feature?",
+  "correct": "realistic characters across social classes and plot-driving ensembles",
+  "distractors": [
+   "mythological plots set in the strict opera seria style",
+   "spoken German dialogue between the separate musical numbers",
+   "leitmotifs that unify a continuous, through-composed music drama"
+  ],
+  "rationale": "The Da Ponte operas (Figaro, Don Giovanni, Così fan tutte) use opera buffa conventions to portray servants and aristocrats realistically, reflecting Enlightenment questions about class, with ensembles that drive the plot. Mythological opera seria, German Singspiel dialogue, and Wagnerian leitmotifs describe other genres."
+ },
+ {
+  "id": "Q216",
+  "objective": "0014",
+  "stem": "Which genre is most associated with the nineteenth-century union of German poetry and piano accompaniment, as in Schubert and Schumann?",
+  "correct": "the Lied (art song)",
+  "distractors": [
+   "the madrigal",
+   "the concerto grosso",
+   "the motet"
+  ],
+  "rationale": "The Romantic Lied set German poetry for solo voice with an expressive piano part, often in song cycles such as Winterreise or Dichterliebe. The madrigal is a Renaissance secular part-song, the concerto grosso is a Baroque instrumental genre, and the motet is a sacred polyphonic vocal genre."
+ },
+ {
+  "id": "Q217",
+  "objective": "0014",
+  "stem": "Which work, premiered in Paris in 1913, provoked controversy through its driving irregular rhythms, dissonant polytonality, and ritual ballet scenario?",
+  "correct": "Stravinsky’s The Rite of Spring",
+  "distractors": [
+   "Debussy’s Prelude to the Afternoon of a Faun",
+   "Copland’s Appalachian Spring",
+   "Schoenberg’s Pierrot lunaire"
+  ],
+  "rationale": "The Rite of Spring premiered with the Ballets Russes in 1913, and its percussive irregular meters, ostinatos, and dissonance caused a famous uproar. Debussy’s Prelude dates from 1894, Appalachian Spring from 1944, and Pierrot lunaire (1912) is a chamber melodrama using Sprechstimme."
+ },
+ {
+  "id": "Q218",
+  "objective": "0014",
+  "stem": "Which eighteenth-century Afro-French violinist and conductor wrote symphonies concertantes and led one of Paris’s leading orchestras?",
+  "correct": "Joseph Bologne (Saint-Georges)",
+  "distractors": [
+   "Ignatius Sancho",
+   "Samuel Coleridge-Taylor",
+   "William Grant Still"
+  ],
+  "rationale": "Joseph Bologne, Chevalier de Saint-Georges, was a celebrated violinist, composer of concertos, symphonies concertantes, and string quartets, and director of the Concert des Amateurs and the Concert de la Loge Olympique in Paris. Ignatius Sancho was an Afro-British writer and composer of songs and dances in London, while Coleridge-Taylor and Still were active in the late nineteenth and twentieth centuries."
+ },
+ {
+  "id": "Q219",
+  "objective": "0014",
+  "stem": "Fanny Mendelssohn Hensel is best known for which body of work?",
+  "correct": "Lieder, piano pieces, and chamber music, often heard in salon concerts",
+  "distractors": [
+   "Baroque operas written for the public theaters of Venice",
+   "twelve-tone symphonies premiered by major European orchestras",
+   "Broadway musicals written in collaboration with leading lyricists"
+  ],
+  "rationale": "Fanny Mendelssohn Hensel composed hundreds of works, especially songs, piano pieces such as Das Jahr, and chamber music, many performed at her family’s Berlin salon concerts, since social expectations limited her public career. The alternatives belong to other eras and genres."
+ },
+ {
+  "id": "Q220",
+  "objective": "0014",
+  "stem": "George Gershwin’s Porgy and Bess (1935) is significant mainly because it does which of the following?",
+  "correct": "fuses operatic form with jazz, blues, and spiritual idioms",
+  "distractors": [
+   "presents the first opera made entirely of electronic sounds",
+   "revives the conventions of Baroque opera seria",
+   "uses twelve-tone rows as the basis for all melodies"
+  ],
+  "rationale": "Gershwin called Porgy and Bess a \"folk opera\"; it fuses operatic recitative and arias with African American musical idioms and raises enduring questions about representation. It is not electronic, does not revive opera seria, and is not serial."
+ },
+ {
+  "id": "Q221",
+  "objective": "0014",
+  "stem": "After the Council of Trent, which concern most directly shaped late-Renaissance Catholic polyphony?",
+  "correct": "clear declamation of the sacred text, as in Palestrina’s style",
+  "distractors": [
+   "the invention of basso continuo for solo singers",
+   "the rise of the public symphony concert in Italian cities",
+   "the introduction of the modern piano into cathedral services"
+  ],
+  "rationale": "Council discussions about whether elaborate polyphony obscured liturgical texts encouraged clear declamation and restrained dissonance, epitomized by Palestrina. Basso continuo emerged around 1600, and public symphony concerts and the piano developed later."
+ },
+ {
+  "id": "Q222",
+  "objective": "0014",
+  "stem": "Which composer wrote the Afro-American Symphony (1930), one of the first symphonies by a Black American composer performed by a major United States orchestra?",
+  "correct": "William Grant Still",
+  "distractors": [
+   "Florence Price",
+   "Duke Ellington",
+   "Aaron Copland"
+  ],
+  "rationale": "William Grant Still’s Afro-American Symphony, premiered by the Rochester Philharmonic in 1931, incorporates blues idioms. Florence Price’s Symphony in E Minor (1933, Chicago Symphony) was the first by a Black woman performed by a major orchestra, Ellington led a jazz orchestra, and Copland was not a Black composer."
+ },
+ {
+  "id": "Q223",
+  "objective": "0015",
+  "stem": "Which instrumentation and texture are most characteristic of early New Orleans (Dixieland) jazz?",
+  "correct": "collective improvisation by cornet, clarinet, and trombone over a rhythm section",
+  "distractors": [
+   "large saxophone and brass sections playing written, riff-based arrangements",
+   "solo stride piano with a steady left-hand bass and no other ensemble",
+   "a small combo playing rapid bebop lines over complex chord substitutions"
+  ],
+  "rationale": "Early New Orleans jazz features simultaneous improvisation: cornet or trumpet carries the melody, clarinet weaves above it, and trombone provides lower counterlines over banjo or guitar, tuba or bass, and drums. Written saxophone sections describe swing big bands, stride is a solo piano style, and bebop emerged in the 1940s."
+ },
+ {
+  "id": "Q224",
+  "objective": "0015",
+  "stem": "In the upper Midwest, polka bands with accordion, brass, and clarinet are most directly associated with which cultural history?",
+  "correct": "central European immigrants, such as Polish, Czech, and German",
+  "distractors": [
+   "Scots-Irish settlers in the Appalachian mountains",
+   "French-speaking Acadian settlers in southern Louisiana",
+   "Caribbean immigrant communities in New York City neighborhoods"
+  ],
+  "rationale": "Polka spread through Polish, Czech (Bohemian), Slovenian, and German immigrant communities in states such as Wisconsin, Minnesota, and Illinois, becoming a marker of ethnic identity at weddings, festivals, and dances. Appalachian, Cajun, and Caribbean communities developed different traditions."
+ }
+]

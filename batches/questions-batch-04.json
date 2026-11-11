@@ -1,0 +1,302 @@
+[
+ {
+  "id": "Q175",
+  "objective": "0009",
+  "stem": "Which formal plan represents a seven-part rondo?",
+  "correct": "A–B–A–C–A–B–A",
+  "distractors": [
+   "A–B–A",
+   "A–A–B–B",
+   "A–B–C–D–E"
+  ],
+  "rationale": "A seven-part rondo alternates a returning refrain (A) with episodes, typically A–B–A–C–A–B–A; when the middle C is developmental, it is called sonata-rondo. A–B–A is ternary, A–A–B–B is repeated binary, and A–B–C–D–E is through-composed."
+ },
+ {
+  "id": "Q176",
+  "objective": "0009",
+  "stem": "A stately Polish dance in moderate 3/4 repeatedly uses the rhythm eighth–two sixteenths–eighth–eighth–eighth–eighth in its accompaniment. Which dance type is it?",
+  "correct": "polonaise",
+  "distractors": [
+   "mazurka",
+   "waltz",
+   "sarabande"
+  ],
+  "rationale": "The eighth–two-sixteenths figure followed by steady eighths in a moderate, processional 3/4 is the characteristic polonaise rhythm. The mazurka is also Polish and triple but emphasizes dotted rhythms and accents on beats 2 or 3; the waltz has an oom-pah-pah accompaniment; and the Baroque sarabande is slow, often stressing beat 2."
+ },
+ {
+  "id": "Q177",
+  "objective": "0009",
+  "stem": "In a fugue, what is the term for a subject entry that begins before the previous entry has finished?",
+  "correct": "stretto",
+  "distractors": [
+   "episode",
+   "countersubject",
+   "tonal answer"
+  ],
+  "rationale": "Overlapping entries of the subject, with each entering before the previous one has ended, create stretto, often used to build intensity near the end of a fugue. An episode is a passage without a complete subject statement, a countersubject is a recurring counterpoint to the subject, and a tonal answer adjusts the subject’s intervals."
+ },
+ {
+  "id": "Q178",
+  "objective": "0009",
+  "stem": "Which combination of features is most characteristic of reggae?",
+  "correct": "offbeat chord \"skank,\" prominent bass, and a relaxed tempo",
+  "distractors": [
+   "banjo rolls, fiddle breaks, and high vocal harmony",
+   "clave-based piano montunos and brass mambos",
+   "twelve-bar shuffle form with harmonica fills"
+  ],
+  "rationale": "Reggae emphasizes offbeat \"skank\" chords on guitar or keyboard, a prominent bass, drums often accenting beat 3 (the one-drop), and a laid-back tempo. Banjo rolls and fiddle describe bluegrass, montunos and mambos describe salsa, and the twelve-bar shuffle with harmonica describes blues."
+ },
+ {
+  "id": "Q179",
+  "objective": "0010",
+  "stem": "An arranger wants an E-flat alto saxophone to sound concert C4. Which pitch should be written?",
+  "correct": "A4",
+  "distractors": [
+   "E-flat4",
+   "A3",
+   "D4"
+  ],
+  "rationale": "The E-flat alto saxophone sounds a major sixth lower than written, so the part is written a major sixth higher than concert pitch: C4 up a major sixth is A4. A3 is an octave too low, and E-flat4 and D4 do not reflect the alto saxophone transposition."
+ },
+ {
+  "id": "Q180",
+  "objective": "0010",
+  "stem": "A concert-pitch band piece is in E-flat major. Which key signature should the B-flat clarinet part use?",
+  "correct": "F major (one flat)",
+  "distractors": [
+   "D-flat major (five flats)",
+   "C major (no sharps or flats)",
+   "B-flat major (two flats)"
+  ],
+  "rationale": "B-flat clarinet parts are written a major second higher than concert pitch. E-flat major transposed up a major second is F major, with one flat. D-flat major moves in the wrong direction, and C major and B-flat major apply other transpositions."
+ },
+ {
+  "id": "Q181",
+  "objective": "0010",
+  "stem": "When writing a part for a typical high school tenor section, which range is most reliable?",
+  "correct": "C3 to G4",
+  "distractors": [
+   "C4 to C6",
+   "G2 to C4",
+   "E4 to A5"
+  ],
+  "rationale": "Most high school tenors sing comfortably from about C3 to G4, written in treble clef an octave higher than it sounds. C4–C6 and E4–A5 are treble ranges, and G2–C4 is better suited to basses."
+ },
+ {
+  "id": "Q182",
+  "objective": "0010",
+  "stem": "A C-major melody ends with the scale degrees 2–1 (D to C) at its final cadence. Which harmonization creates the strongest final cadence?",
+  "correct": "V or V7 under D, then I under C",
+  "distractors": [
+   "IV under D, then V under C",
+   "vi under D, then IV under C",
+   "ii under D, then vi under C"
+  ],
+  "rationale": "D is a chord tone of V (G–B–D) and C is the root of I, so V(7)–I produces an authentic cadence. IV and vi do not contain D, V does not contain C, and ending on vi would create a deceptive effect rather than a strong close."
+ },
+ {
+  "id": "Q183",
+  "objective": "0010",
+  "stem": "Students improvise by keeping the pitches of a familiar folk melody but changing its durations and adding syncopation. Which improvisational approach is this?",
+  "correct": "rhythmic variation",
+  "distractors": [
+   "question and answer",
+   "adding neighbor notes",
+   "modal transposition"
+  ],
+  "rationale": "Retaining the pitches while altering durations and adding syncopation is rhythmic variation. Question and answer pairs complementary phrases, neighbor notes embellish pitches, and modal transposition changes the scale."
+ },
+ {
+  "id": "Q184",
+  "objective": "0010",
+  "stem": "A teacher asks students to embellish a melody by stepping to an adjacent pitch and back on selected long notes. Which improvisational technique is being practiced?",
+  "correct": "adding neighbor notes",
+  "distractors": [
+   "rhythmic augmentation",
+   "call and response",
+   "retrograde"
+  ],
+  "rationale": "Stepping away from a melody note to the adjacent scale step and returning embellishes it with neighbor notes. Augmentation lengthens durations, call and response alternates a leader and group, and retrograde reverses the order of the notes."
+ },
+ {
+  "id": "Q185",
+  "objective": "0010",
+  "stem": "A teacher needs to produce a band arrangement from a concert score, with correctly transposed printed parts for each instrument. Which tool is most appropriate?",
+  "correct": "music notation software",
+  "distractors": [
+   "an audio waveform editor",
+   "a chromatic tuner app",
+   "a loop-based beat-making app"
+  ],
+  "rationale": "Notation software (for example, Finale, Sibelius, Dorico, MuseScore, or Noteflight) creates scores and automatically generates transposed parts. Waveform editors process recorded audio, tuners measure pitch, and loop-based apps assemble audio patterns rather than printed parts."
+ },
+ {
+  "id": "Q186",
+  "objective": "0010",
+  "stem": "When adapting an orchestral piece for a middle school string orchestra, which adjustment is most appropriate?",
+  "correct": "use familiar keys and low positions and simplify fast passages",
+  "distractors": [
+   "transpose to a remote key to add harmonic color and challenge",
+   "give most melodic material to the double basses for contrast",
+   "add extended techniques to every part for a modern sound"
+  ],
+  "rationale": "School arrangements should match players’ technique: keys with familiar finger patterns (for example, D, G, or C major), lower positions, and simplified figuration while keeping the musical essence. Remote keys, bass-only melodies, and constant extended techniques would exceed or misuse student skills."
+ },
+ {
+  "id": "Q187",
+  "objective": "0010",
+  "stem": "In four-part SATB writing, which doubling is most standard for a root-position major triad?",
+  "correct": "double the root",
+  "distractors": [
+   "double the third",
+   "double the leading tone",
+   "omit the root"
+  ],
+  "rationale": "In common-practice voice leading, the root of a root-position major triad is normally doubled. Doubling the third can weaken the sonority, doubling the leading tone creates resolution problems, and omitting the root obscures the chord’s identity."
+ },
+ {
+  "id": "Q188",
+  "objective": "0011",
+  "stem": "Which description best explains how vocal tone is produced?",
+  "correct": "exhaled air vibrates the vocal folds, and the vocal tract resonates the tone",
+  "distractors": [
+   "the diaphragm vibrates to create pitch, which the lungs then amplify",
+   "the tongue vibrates against the hard palate to produce the pitch",
+   "the ribs vibrate to generate pitch that resonates in the chest"
+  ],
+  "rationale": "Singing coordinates breath (the actuator), vocal fold vibration in the larynx (the vibrator), and the vocal tract (the resonator), with articulators shaping vowels and consonants. The diaphragm manages breath but does not vibrate to create pitch, and the tongue and ribs do not generate the tone."
+ },
+ {
+  "id": "Q189",
+  "objective": "0011",
+  "stem": "Which listing orders adult classical voice types from highest to lowest typical range?",
+  "correct": "soprano, mezzo-soprano, contralto, tenor, baritone, bass",
+  "distractors": [
+   "mezzo-soprano, soprano, contralto, baritone, tenor, bass",
+   "soprano, contralto, mezzo-soprano, tenor, bass, baritone",
+   "soprano, mezzo-soprano, tenor, contralto, baritone, bass"
+  ],
+  "rationale": "Female voices from highest are soprano, mezzo-soprano, and contralto; male voices are tenor, baritone, and bass. Each alternative misplaces at least one voice type."
+ },
+ {
+  "id": "Q190",
+  "objective": "0011",
+  "stem": "During the adolescent male voice change, which observation is most typical?",
+  "correct": "the comfortable range narrows and lowers, with breaks and instability",
+  "distractors": [
+   "the range immediately expands upward by about an octave",
+   "the voice usually completes its change before age eight",
+   "the voice becomes steadily lighter, higher, and more stable"
+  ],
+  "rationale": "As the larynx grows during puberty, changing male voices often have a narrowed, shifting comfortable range, cracks between registers, and inconsistent pitch. The change usually occurs in early adolescence and lowers, rather than raises, the voice."
+ },
+ {
+  "id": "Q191",
+  "objective": "0011",
+  "stem": "Which change is commonly associated with the adolescent female voice?",
+  "correct": "breathiness and an audible register break",
+  "distractors": [
+   "a drop of about an octave in pitch",
+   "a complete loss of the head voice",
+   "a sudden extension into the bass range"
+  ],
+  "rationale": "Adolescent girls often experience breathiness (from incomplete fold closure), register breaks, and reduced range or endurance. Unlike the male voice, the female voice lowers only slightly, and head voice remains available with healthy technique."
+ },
+ {
+  "id": "Q192",
+  "objective": "0011",
+  "stem": "Which range is generally most appropriate for songs taught to kindergarten children?",
+  "correct": "about D4 to A4",
+  "distractors": [
+   "about G3 to D4",
+   "about C5 to C6",
+   "about A2 to E3"
+  ],
+  "rationale": "Young children generally sing most accurately in a limited, light head-voice range around D4 to A4 or B4. G3–D4 pushes children into a heavy speaking register, C5–C6 is too high for many beginners, and A2–E3 is an adult male range."
+ },
+ {
+  "id": "Q193",
+  "objective": "0011",
+  "stem": "Which exercise most directly develops sustained breath management for singers?",
+  "correct": "a silent, low inhalation followed by a steady hiss for longer counts",
+  "distractors": [
+   "raising the shoulders and upper chest during each inhalation",
+   "pushing the abdomen out forcefully on every note of a phrase",
+   "holding the breath behind a closed throat before each phrase"
+  ],
+  "rationale": "A silent, low, expansive inhalation followed by a controlled, steady exhalation (such as a timed hiss) builds the coordination needed to sustain phrases. Raising the shoulders signals tense clavicular breathing, forceful pushing creates pressure, and holding the breath behind a closed throat causes glottal tension."
+ },
+ {
+  "id": "Q194",
+  "objective": "0011",
+  "stem": "A choir’s tone sounds bright and spread on the vowel [i] (\"ee\") at a loud dynamic. Which strategy most effectively unifies the vowel?",
+  "correct": "keep a taller mouth space and slightly round the lips",
+  "distractors": [
+   "push more air through the vowel to increase volume",
+   "smile more widely to brighten the vowel further",
+   "lower the soft palate to add nasal resonance"
+  ],
+  "rationale": "Increasing vertical space and slight lip rounding modifies a spread [i] toward a darker, more unified vowel. More air pressure and wide smiling usually make the vowel brighter and less unified, and a lowered soft palate produces a nasal tone."
+ },
+ {
+  "id": "Q195",
+  "objective": "0011",
+  "stem": "Many students in a third-grade class sing only in a low, speech-like range. Which activity best helps them find their head voice?",
+  "correct": "vocal exploration with sirens and glides that move above the speaking range",
+  "distractors": [
+   "singing songs at a louder dynamic in chest voice",
+   "lowering every song until all students sing comfortably below C4",
+   "speaking the lyrics rhythmically without pitch"
+  ],
+  "rationale": "Sirens, glides, and playful vocal exploration help children experience the lighter head-voice register above speech. Singing louder in chest voice and lowering keys reinforce the speech range, and rhythmic speech does not develop singing pitch."
+ },
+ {
+  "id": "Q196",
+  "objective": "0012",
+  "stem": "Which bowed string instrument is normally tuned in fourths (E1–A1–D2–G2)?",
+  "correct": "double bass",
+  "distractors": [
+   "cello",
+   "viola",
+   "violin"
+  ],
+  "rationale": "The double bass is tuned in fourths, E–A–D–G, sounding an octave lower than written. The violin (G–D–A–E), viola (C–G–D–A), and cello (C–G–D–A) are tuned in fifths."
+ },
+ {
+  "id": "Q197",
+  "objective": "0012",
+  "stem": "How does a player change pitch on a natural (valveless) brass instrument?",
+  "correct": "by adjusting lip tension and air speed to select partials",
+  "distractors": [
+   "by covering and uncovering tone holes along the tube",
+   "by changing to a reed of a different strength",
+   "by moving a slide mute in and out of the bell"
+  ],
+  "rationale": "Without valves or a slide, the tube length is fixed, so the player selects different overtones of the harmonic series by adjusting embouchure tension and air speed. Tone holes and reeds belong to woodwinds, and a mute changes timbre rather than selecting pitches."
+ },
+ {
+  "id": "Q198",
+  "objective": "0012",
+  "stem": "A xylophone passage requires a bright, articulate sound. Which mallets are most appropriate?",
+  "correct": "hard rubber mallets",
+  "distractors": [
+   "soft yarn mallets",
+   "felt timpani mallets",
+   "wire brushes"
+  ],
+  "rationale": "Hard rubber or plastic mallets bring out the xylophone’s characteristic bright, crisp attack. Soft yarn mallets suit marimba or vibraphone warmth, felt timpani mallets are designed for drumheads, and brushes are used on snare drum or drum set."
+ },
+ {
+  "id": "Q199",
+  "objective": "0012",
+  "stem": "Before students play a bordun accompaniment on Orff barred instruments, which preparation is most appropriate?",
+  "correct": "remove unneeded bars and rehearse the pattern as body percussion first",
+  "distractors": [
+   "leave all bars in place so students find notes by trial and error",
+   "have students strike the bars with closed fists to feel the beat",
+   "teach the written notation before any speech or movement work"
+  ],
+  "rationale": "Removing unneeded bars reduces errors and keeps the focus on the musical pattern, and transferring the motion from patschen (body percussion) to mallets follows the Orff sequence of speech and movement before instruments. Fists damage tone and bars, and notation-first teaching reverses the Orff sequence."
+ }
+]

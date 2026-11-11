@@ -1677,5 +1677,3874 @@
     "duration": 7.15,
     "peak": 0.565829868200682,
     "file": "error_articulation.wav"
+  },
+  "v2_int_M7_up": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.43,
+        "notes": [
+          60
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.85,
+        "duration": 0.43,
+        "notes": [
+          71
+        ],
+        "amp": 0.55
+      }
+    ],
+    "duration": 1.71,
+    "peak": 0.474524360326298,
+    "file": "v2_int_M7_up.wav",
+    "timbre": "bright"
+  },
+  "v2_int_m6_down": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.43,
+        "notes": [
+          76
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.85,
+        "duration": 0.43,
+        "notes": [
+          68
+        ],
+        "amp": 0.55
+      }
+    ],
+    "duration": 1.71,
+    "peak": 0.435766209598545,
+    "file": "v2_int_m6_down.wav",
+    "timbre": "reedy"
+  },
+  "v2_int_tritone_up": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.43,
+        "notes": [
+          65
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.85,
+        "duration": 0.43,
+        "notes": [
+          71
+        ],
+        "amp": 0.55
+      }
+    ],
+    "duration": 1.71,
+    "peak": 0.5658298821501295,
+    "file": "v2_int_tritone_up.wav",
+    "timbre": "soft"
+  },
+  "v2_sequence_desc": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.68,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.06,
+        "duration": 0.32,
+        "notes": [
+          71
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.44,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.82,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.2,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.58,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.96,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 3.34,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 3.72,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 4.1,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 4.48,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.55
+      }
+    ],
+    "duration": 5.23,
+    "peak": 0.474524356799853,
+    "file": "v2_sequence_desc.wav",
+    "timbre": "bright"
+  },
+  "v2_lydian": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.29,
+        "notes": [
+          65
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.64,
+        "duration": 0.29,
+        "notes": [
+          67
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.98,
+        "duration": 0.29,
+        "notes": [
+          69
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.32,
+        "duration": 0.29,
+        "notes": [
+          71
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.66,
+        "duration": 0.29,
+        "notes": [
+          72
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.0,
+        "duration": 0.29,
+        "notes": [
+          74
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.34,
+        "duration": 0.29,
+        "notes": [
+          76
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.68,
+        "duration": 0.29,
+        "notes": [
+          77
+        ],
+        "amp": 0.55
+      }
+    ],
+    "duration": 3.4,
+    "peak": 0.5658298839506689,
+    "file": "v2_lydian.wav",
+    "timbre": "soft"
+  },
+  "v2_wholetone": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.29,
+        "notes": [
+          60
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.64,
+        "duration": 0.29,
+        "notes": [
+          62
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.98,
+        "duration": 0.29,
+        "notes": [
+          64
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.32,
+        "duration": 0.29,
+        "notes": [
+          66
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.66,
+        "duration": 0.29,
+        "notes": [
+          68
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.0,
+        "duration": 0.29,
+        "notes": [
+          70
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.34,
+        "duration": 0.29,
+        "notes": [
+          72
+        ],
+        "amp": 0.55
+      }
+    ],
+    "duration": 3.06,
+    "peak": 0.4357662107255994,
+    "file": "v2_wholetone.wav",
+    "timbre": "reedy"
+  },
+  "v2_octatonic": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.29,
+        "notes": [
+          60
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.64,
+        "duration": 0.29,
+        "notes": [
+          61
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.98,
+        "duration": 0.29,
+        "notes": [
+          63
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.32,
+        "duration": 0.29,
+        "notes": [
+          64
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.66,
+        "duration": 0.29,
+        "notes": [
+          66
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.0,
+        "duration": 0.29,
+        "notes": [
+          67
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.34,
+        "duration": 0.29,
+        "notes": [
+          69
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.68,
+        "duration": 0.29,
+        "notes": [
+          70
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 3.02,
+        "duration": 0.29,
+        "notes": [
+          72
+        ],
+        "amp": 0.55
+      }
+    ],
+    "duration": 3.74,
+    "peak": 0.5658298839506689,
+    "file": "v2_octatonic.wav",
+    "timbre": "soft"
+  },
+  "v2_aug_triad": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.3825,
+        "notes": [
+          60
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.75,
+        "duration": 0.3825,
+        "notes": [
+          64
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.2,
+        "duration": 0.3825,
+        "notes": [
+          68
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.9,
+        "duration": 1.3,
+        "notes": [
+          60,
+          64,
+          68
+        ],
+        "amp": 0.6
+      }
+    ],
+    "duration": 3.63,
+    "peak": 0.5141824911070724,
+    "file": "v2_aug_triad.wav",
+    "timbre": "bright"
+  },
+  "v2_maj7": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.3825,
+        "notes": [
+          53
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.75,
+        "duration": 0.3825,
+        "notes": [
+          57
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.2,
+        "duration": 0.3825,
+        "notes": [
+          60
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.65,
+        "duration": 0.3825,
+        "notes": [
+          64
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.35,
+        "duration": 1.3,
+        "notes": [
+          53,
+          57,
+          60,
+          64
+        ],
+        "amp": 0.6
+      }
+    ],
+    "duration": 4.08,
+    "peak": 0.6159111154704151,
+    "file": "v2_maj7.wav",
+    "timbre": "soft"
+  },
+  "v2_dim7": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.3825,
+        "notes": [
+          59
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 0.75,
+        "duration": 0.3825,
+        "notes": [
+          62
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.2,
+        "duration": 0.3825,
+        "notes": [
+          65
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 1.65,
+        "duration": 0.3825,
+        "notes": [
+          68
+        ],
+        "amp": 0.55
+      },
+      {
+        "start": 2.35,
+        "duration": 1.3,
+        "notes": [
+          59,
+          62,
+          65,
+          68
+        ],
+        "amp": 0.6
+      }
+    ],
+    "duration": 4.08,
+    "peak": 0.45241359334688896,
+    "file": "v2_dim7.wav",
+    "timbre": "reedy"
+  },
+  "v2_iac": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.64,
+        "notes": [
+          48,
+          55,
+          64,
+          72
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 1.1,
+        "duration": 0.64,
+        "notes": [
+          41,
+          57,
+          65,
+          72
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 1.9,
+        "duration": 0.64,
+        "notes": [
+          43,
+          55,
+          62,
+          71
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 2.7,
+        "duration": 0.64,
+        "notes": [
+          48,
+          55,
+          64,
+          72
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 4.5,
+        "duration": 0.68,
+        "notes": [
+          43,
+          55,
+          62,
+          67
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 5.3,
+        "duration": 1.2,
+        "notes": [
+          48,
+          55,
+          60,
+          64
+        ],
+        "amp": 0.6
+      }
+    ],
+    "duration": 6.93,
+    "peak": 0.45156108498034486,
+    "file": "v2_iac.wav",
+    "timbre": "organ"
+  },
+  "v2_plagal": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.64,
+        "notes": [
+          48,
+          55,
+          64,
+          72
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 1.1,
+        "duration": 0.64,
+        "notes": [
+          41,
+          57,
+          65,
+          72
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 1.9,
+        "duration": 0.64,
+        "notes": [
+          43,
+          55,
+          62,
+          71
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 2.7,
+        "duration": 0.64,
+        "notes": [
+          48,
+          55,
+          64,
+          72
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 4.5,
+        "duration": 0.68,
+        "notes": [
+          41,
+          57,
+          60,
+          65
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 5.3,
+        "duration": 1.2,
+        "notes": [
+          48,
+          55,
+          60,
+          64
+        ],
+        "amp": 0.6
+      }
+    ],
+    "duration": 6.93,
+    "peak": 0.45156108498034486,
+    "file": "v2_plagal.wav",
+    "timbre": "organ"
+  },
+  "v2_phrygian_half": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.64,
+        "notes": [
+          45,
+          57,
+          60,
+          64
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 1.1,
+        "duration": 0.64,
+        "notes": [
+          50,
+          57,
+          62,
+          65
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 1.9,
+        "duration": 0.64,
+        "notes": [
+          40,
+          56,
+          59,
+          64
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 2.7,
+        "duration": 0.64,
+        "notes": [
+          45,
+          57,
+          60,
+          64
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 4.5,
+        "duration": 0.68,
+        "notes": [
+          41,
+          50,
+          57,
+          62
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 5.3,
+        "duration": 1.2,
+        "notes": [
+          40,
+          52,
+          56,
+          64
+        ],
+        "amp": 0.6
+      }
+    ],
+    "duration": 6.93,
+    "peak": 0.453302461798273,
+    "file": "v2_phrygian_half.wav",
+    "timbre": "organ"
+  },
+  "v2_canon_texture": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.34,
+        "notes": [
+          60
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 0.7,
+        "duration": 0.34,
+        "notes": [
+          62
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.1,
+        "duration": 0.34,
+        "notes": [
+          64
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.5,
+        "duration": 0.34,
+        "notes": [
+          65
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.9,
+        "duration": 0.34,
+        "notes": [
+          67
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.9,
+        "duration": 0.34,
+        "notes": [
+          48
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 2.3,
+        "duration": 0.34,
+        "notes": [
+          65
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 2.3,
+        "duration": 0.34,
+        "notes": [
+          50
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 2.7,
+        "duration": 0.34,
+        "notes": [
+          64
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 2.7,
+        "duration": 0.34,
+        "notes": [
+          52
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 3.1,
+        "duration": 0.34,
+        "notes": [
+          62
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 3.1,
+        "duration": 0.34,
+        "notes": [
+          53
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 3.5,
+        "duration": 0.34,
+        "notes": [
+          60
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 3.5,
+        "duration": 0.34,
+        "notes": [
+          55
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 3.9,
+        "duration": 0.34,
+        "notes": [
+          67
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 3.9,
+        "duration": 0.34,
+        "notes": [
+          53
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 4.3,
+        "duration": 0.34,
+        "notes": [
+          64
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 4.3,
+        "duration": 0.34,
+        "notes": [
+          52
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 4.7,
+        "duration": 0.34,
+        "notes": [
+          60
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 4.7,
+        "duration": 0.34,
+        "notes": [
+          50
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 5.1,
+        "duration": 0.34,
+        "notes": [
+          48
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 5.5,
+        "duration": 0.34,
+        "notes": [
+          55
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 5.9,
+        "duration": 0.34,
+        "notes": [
+          52
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 6.3,
+        "duration": 0.34,
+        "notes": [
+          48
+        ],
+        "amp": 0.45
+      }
+    ],
+    "duration": 7.0699375,
+    "peak": 0.9258238804834493,
+    "file": "v2_canon_texture.wav",
+    "timbre": "soft"
+  },
+  "v2_meter_98": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 0.52,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 0.74,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 0.96,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 1.18,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 1.4,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 1.62,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 1.84,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.06,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.28,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 2.5,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.72,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.94,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 3.16,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 3.38,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 3.6,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 3.82,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.04,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.26,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 4.48,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.7,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.92,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 5.14,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 5.36,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 5.58,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 5.8,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 6.02,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      }
+    ],
+    "duration": 6.5699375,
+    "peak": 0.6378444436299171,
+    "file": "v2_meter_98.wav",
+    "timbre": "soft"
+  },
+  "v2_meter_24": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 0.56,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 0.82,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 1.08,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 1.34,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 1.6,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 1.86,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 2.12,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.38,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 2.64,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.9,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 3.16,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 3.42,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 3.68,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 3.94,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 4.2,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.46,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 4.72,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.98,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 5.24,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 5.5,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 5.76,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 6.02,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 6.28,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      }
+    ],
+    "duration": 6.83,
+    "peak": 0.6378444436299171,
+    "file": "v2_meter_24.wav",
+    "timbre": "soft"
+  },
+  "v2_meter_58": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 0.5,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 0.7,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 0.9,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 1.1,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 1.3,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 1.5,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 1.7,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 1.9,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 2.1,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.3,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 2.5,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.7,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.9,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 3.1,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 3.3,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 3.5,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 3.7,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 3.9,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 4.1,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.3,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 4.5,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.7,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.9,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 5.1,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      }
+    ],
+    "duration": 5.6499375,
+    "peak": 0.6378444436299171,
+    "file": "v2_meter_58.wav",
+    "timbre": "soft"
+  },
+  "v2_hemiola": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.3,
+        "notes": [
+          76
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 0.72,
+        "duration": 0.3,
+        "notes": [
+          69
+        ],
+        "amp": 0.3
+      },
+      {
+        "start": 1.14,
+        "duration": 0.3,
+        "notes": [
+          69
+        ],
+        "amp": 0.3
+      },
+      {
+        "start": 1.56,
+        "duration": 0.3,
+        "notes": [
+          76
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 1.98,
+        "duration": 0.3,
+        "notes": [
+          69
+        ],
+        "amp": 0.3
+      },
+      {
+        "start": 2.4,
+        "duration": 0.3,
+        "notes": [
+          69
+        ],
+        "amp": 0.3
+      },
+      {
+        "start": 2.82,
+        "duration": 0.3,
+        "notes": [
+          76
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 3.24,
+        "duration": 0.3,
+        "notes": [
+          69
+        ],
+        "amp": 0.3
+      },
+      {
+        "start": 3.66,
+        "duration": 0.3,
+        "notes": [
+          76
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 4.08,
+        "duration": 0.3,
+        "notes": [
+          69
+        ],
+        "amp": 0.3
+      },
+      {
+        "start": 4.5,
+        "duration": 0.3,
+        "notes": [
+          76
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 4.92,
+        "duration": 0.3,
+        "notes": [
+          69
+        ],
+        "amp": 0.3
+      },
+      {
+        "start": 5.34,
+        "duration": 0.3,
+        "notes": [
+          76
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 5.76,
+        "duration": 0.3,
+        "notes": [
+          69
+        ],
+        "amp": 0.3
+      },
+      {
+        "start": 6.18,
+        "duration": 0.3,
+        "notes": [
+          69
+        ],
+        "amp": 0.3
+      }
+    ],
+    "duration": 6.9099375,
+    "peak": 0.6039390480562176,
+    "file": "v2_hemiola.wav",
+    "timbre": "bright"
+  },
+  "v2_accelerando": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.0,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.64,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.22,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.74,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.2,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.61,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.97,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.28,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.55,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.78,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.98,
+        "duration": 0.15,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      }
+    ],
+    "duration": 5.56,
+    "peak": 0.3961509296622392,
+    "file": "v2_accelerando.wav",
+    "timbre": "reedy"
+  },
+  "v2_ritardando": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.24,
+        "notes": [
+          72
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 0.6,
+        "duration": 0.24,
+        "notes": [
+          71
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 0.92,
+        "duration": 0.24,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.27,
+        "duration": 0.24,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.66,
+        "duration": 0.24,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.1,
+        "duration": 0.24,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.6,
+        "duration": 0.24,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.17,
+        "duration": 0.24,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.82,
+        "duration": 0.24,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      }
+    ],
+    "duration": 4.4899375,
+    "peak": 0.5143907892733408,
+    "file": "v2_ritardando.wav",
+    "timbre": "soft"
+  },
+  "v2_diminuendo": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.24,
+        "notes": [
+          60
+        ],
+        "amp": 0.78
+      },
+      {
+        "start": 0.6,
+        "duration": 0.24,
+        "notes": [
+          64
+        ],
+        "amp": 0.72
+      },
+      {
+        "start": 0.9,
+        "duration": 0.24,
+        "notes": [
+          67
+        ],
+        "amp": 0.66
+      },
+      {
+        "start": 1.2,
+        "duration": 0.24,
+        "notes": [
+          72
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 1.5,
+        "duration": 0.24,
+        "notes": [
+          60
+        ],
+        "amp": 0.54
+      },
+      {
+        "start": 1.8,
+        "duration": 0.24,
+        "notes": [
+          64
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 2.1,
+        "duration": 0.24,
+        "notes": [
+          67
+        ],
+        "amp": 0.42
+      },
+      {
+        "start": 2.4,
+        "duration": 0.24,
+        "notes": [
+          72
+        ],
+        "amp": 0.36
+      },
+      {
+        "start": 2.7,
+        "duration": 0.24,
+        "notes": [
+          60
+        ],
+        "amp": 0.3
+      },
+      {
+        "start": 3.0,
+        "duration": 0.24,
+        "notes": [
+          64
+        ],
+        "amp": 0.24
+      },
+      {
+        "start": 3.3,
+        "duration": 0.24,
+        "notes": [
+          67
+        ],
+        "amp": 0.18
+      },
+      {
+        "start": 3.6,
+        "duration": 0.24,
+        "notes": [
+          72
+        ],
+        "amp": 0.12
+      }
+    ],
+    "duration": 4.27,
+    "peak": 0.6729618200991135,
+    "file": "v2_diminuendo.wav",
+    "timbre": "bright"
+  },
+  "v2_terraced": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.24,
+        "notes": [
+          67
+        ],
+        "amp": 0.72
+      },
+      {
+        "start": 0.6,
+        "duration": 0.24,
+        "notes": [
+          69
+        ],
+        "amp": 0.72
+      },
+      {
+        "start": 0.9,
+        "duration": 0.24,
+        "notes": [
+          71
+        ],
+        "amp": 0.72
+      },
+      {
+        "start": 1.2,
+        "duration": 0.24,
+        "notes": [
+          72
+        ],
+        "amp": 0.72
+      },
+      {
+        "start": 1.5,
+        "duration": 0.24,
+        "notes": [
+          67
+        ],
+        "amp": 0.18
+      },
+      {
+        "start": 1.8,
+        "duration": 0.24,
+        "notes": [
+          69
+        ],
+        "amp": 0.18
+      },
+      {
+        "start": 2.1,
+        "duration": 0.24,
+        "notes": [
+          71
+        ],
+        "amp": 0.18
+      },
+      {
+        "start": 2.4,
+        "duration": 0.24,
+        "notes": [
+          72
+        ],
+        "amp": 0.18
+      },
+      {
+        "start": 2.7,
+        "duration": 0.24,
+        "notes": [
+          67
+        ],
+        "amp": 0.72
+      },
+      {
+        "start": 3.0,
+        "duration": 0.24,
+        "notes": [
+          69
+        ],
+        "amp": 0.72
+      },
+      {
+        "start": 3.3,
+        "duration": 0.24,
+        "notes": [
+          71
+        ],
+        "amp": 0.72
+      },
+      {
+        "start": 3.6,
+        "duration": 0.24,
+        "notes": [
+          72
+        ],
+        "amp": 0.72
+      },
+      {
+        "start": 3.9,
+        "duration": 0.24,
+        "notes": [
+          67
+        ],
+        "amp": 0.18
+      },
+      {
+        "start": 4.2,
+        "duration": 0.24,
+        "notes": [
+          69
+        ],
+        "amp": 0.18
+      },
+      {
+        "start": 4.5,
+        "duration": 0.24,
+        "notes": [
+          71
+        ],
+        "amp": 0.18
+      },
+      {
+        "start": 4.8,
+        "duration": 0.24,
+        "notes": [
+          72
+        ],
+        "amp": 0.18
+      }
+    ],
+    "duration": 5.47,
+    "peak": 0.7407227365536108,
+    "file": "v2_terraced.wav",
+    "timbre": "soft"
+  },
+  "v2_turn": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.6,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 0.95,
+        "duration": 0.11,
+        "notes": [
+          71
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.07,
+        "duration": 0.11,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.19,
+        "duration": 0.11,
+        "notes": [
+          68
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.31,
+        "duration": 0.5,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.9,
+        "duration": 0.9,
+        "notes": [
+          72
+        ],
+        "amp": 0.5
+      }
+    ],
+    "duration": 3.23,
+    "peak": 0.43138577890895724,
+    "file": "v2_turn.wav",
+    "timbre": "bright"
+  },
+  "v2_trill": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.55,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 0.9,
+        "duration": 0.08,
+        "notes": [
+          62
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 0.99,
+        "duration": 0.08,
+        "notes": [
+          64
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.08,
+        "duration": 0.08,
+        "notes": [
+          62
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.17,
+        "duration": 0.08,
+        "notes": [
+          64
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.26,
+        "duration": 0.08,
+        "notes": [
+          62
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.35,
+        "duration": 0.08,
+        "notes": [
+          64
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.44,
+        "duration": 0.08,
+        "notes": [
+          62
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.53,
+        "duration": 0.08,
+        "notes": [
+          64
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.62,
+        "duration": 0.08,
+        "notes": [
+          62
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.71,
+        "duration": 0.08,
+        "notes": [
+          64
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.8,
+        "duration": 0.08,
+        "notes": [
+          62
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.89,
+        "duration": 0.08,
+        "notes": [
+          64
+        ],
+        "amp": 0.45
+      },
+      {
+        "start": 1.98,
+        "duration": 0.25,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.26,
+        "duration": 1.0,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      }
+    ],
+    "duration": 3.69,
+    "peak": 0.39615110042175555,
+    "file": "v2_trill.wav",
+    "timbre": "reedy"
+  },
+  "v2_twelve_bar_blues": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.496,
+        "notes": [
+          48,
+          52,
+          55,
+          58
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 0.92,
+        "duration": 0.496,
+        "notes": [
+          48,
+          52,
+          55,
+          58
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 1.54,
+        "duration": 0.496,
+        "notes": [
+          48,
+          52,
+          55,
+          58
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 2.16,
+        "duration": 0.496,
+        "notes": [
+          48,
+          52,
+          55,
+          58
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 2.78,
+        "duration": 0.496,
+        "notes": [
+          41,
+          53,
+          57,
+          63
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 3.4,
+        "duration": 0.496,
+        "notes": [
+          41,
+          53,
+          57,
+          63
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 4.02,
+        "duration": 0.496,
+        "notes": [
+          48,
+          52,
+          55,
+          58
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 4.64,
+        "duration": 0.496,
+        "notes": [
+          48,
+          52,
+          55,
+          58
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 5.26,
+        "duration": 0.496,
+        "notes": [
+          43,
+          55,
+          59,
+          65
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 5.88,
+        "duration": 0.496,
+        "notes": [
+          41,
+          53,
+          57,
+          63
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 6.5,
+        "duration": 0.496,
+        "notes": [
+          48,
+          52,
+          55,
+          58
+        ],
+        "amp": 0.6
+      },
+      {
+        "start": 7.12,
+        "duration": 0.496,
+        "notes": [
+          48,
+          52,
+          55,
+          58
+        ],
+        "amp": 0.6
+      }
+    ],
+    "duration": 8.0459375,
+    "peak": 0.4491930108651824,
+    "file": "v2_twelve_bar_blues.wav",
+    "timbre": "organ"
+  },
+  "v2_balkan_7_8": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 0.47,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 0.64,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 0.81,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 0.98,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 1.15,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 1.32,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 1.49,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 1.66,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 1.83,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 2.0,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.17,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 2.34,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.51,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 2.68,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 2.85,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 3.02,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 3.19,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 3.36,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 3.53,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 3.7,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 3.87,
+        "duration": 0.12,
+        "notes": [
+          84
+        ],
+        "amp": 0.62
+      },
+      {
+        "start": 4.04,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.21,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 4.38,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.55,
+        "duration": 0.12,
+        "notes": [
+          79
+        ],
+        "amp": 0.48
+      },
+      {
+        "start": 4.72,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      },
+      {
+        "start": 4.89,
+        "duration": 0.12,
+        "notes": [
+          72
+        ],
+        "amp": 0.26
+      }
+    ],
+    "duration": 5.4399375,
+    "peak": 0.6378444436299171,
+    "file": "v2_balkan_7_8.wav",
+    "timbre": "soft"
+  },
+  "v2_son_clave": {
+    "events": [
+      {
+        "start": 0.3,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 0.3,
+        "duration": 0.08,
+        "notes": [
+          84
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 0.7,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 0.9,
+        "duration": 0.08,
+        "notes": [
+          84
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 1.1,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 1.5,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 1.5,
+        "duration": 0.08,
+        "notes": [
+          84
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 1.9,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 2.3,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 2.3,
+        "duration": 0.08,
+        "notes": [
+          84
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 2.7,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 2.7,
+        "duration": 0.08,
+        "notes": [
+          84
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 3.1,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 3.5,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 3.5,
+        "duration": 0.08,
+        "notes": [
+          84
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 3.9,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 4.1,
+        "duration": 0.08,
+        "notes": [
+          84
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 4.3,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 4.7,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 4.7,
+        "duration": 0.08,
+        "notes": [
+          84
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 5.1,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 5.5,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 5.5,
+        "duration": 0.08,
+        "notes": [
+          84
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 5.9,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      },
+      {
+        "start": 5.9,
+        "duration": 0.08,
+        "notes": [
+          84
+        ],
+        "amp": 0.7
+      },
+      {
+        "start": 6.3,
+        "duration": 0.12,
+        "notes": [
+          48
+        ],
+        "amp": 0.25
+      }
+    ],
+    "duration": 6.85,
+    "peak": 0.7952112368968404,
+    "file": "v2_son_clave.wav",
+    "timbre": "bright"
+  },
+  "v2_err_pitch_a": {
+    "events": [
+      {
+        "start": 0.4,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 0.8,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.2,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.6,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.0,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.4,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.8,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.2,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.6,
+        "duration": 0.32,
+        "notes": [
+          71
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.0,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.4,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.8,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.2,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.6,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.0,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.4,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      }
+    ],
+    "duration": 7.15,
+    "peak": 0.39615110042175555,
+    "file": "v2_err_pitch_a.wav",
+    "timbre": "reedy"
+  },
+  "v2_err_rhythm_b": {
+    "events": [
+      {
+        "start": 0.4,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 0.8,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.2,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.6,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.0,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.4,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.8,
+        "duration": 0.32,
+        "notes": [
+          72
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.2,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.6,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.0,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.4,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.8,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.2,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.8,
+        "duration": 0.12,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.0,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.4,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      }
+    ],
+    "duration": 7.15,
+    "peak": 0.5143908035915171,
+    "file": "v2_err_rhythm_b.wav",
+    "timbre": "soft"
+  },
+  "v2_err_flat_c": {
+    "events": [
+      {
+        "start": 0.4,
+        "duration": 0.32,
+        "notes": [
+          72
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 0.8,
+        "duration": 0.32,
+        "notes": [
+          71
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.2,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.6,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5,
+        "cents": [
+          -40
+        ]
+      },
+      {
+        "start": 2.0,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.4,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.8,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.2,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.6,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.0,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.4,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.8,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.2,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.6,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.0,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.4,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      }
+    ],
+    "duration": 7.15,
+    "peak": 0.4313857821148164,
+    "file": "v2_err_flat_c.wav",
+    "timbre": "bright"
+  },
+  "v2_err_dynamics_a": {
+    "events": [
+      {
+        "start": 0.4,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 0.8,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.2,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.6,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.0,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.4,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.8,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.2,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.6,
+        "duration": 0.32,
+        "notes": [
+          71
+        ],
+        "amp": 0.15
+      },
+      {
+        "start": 4.0,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.15
+      },
+      {
+        "start": 4.4,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.15
+      },
+      {
+        "start": 4.8,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.15
+      },
+      {
+        "start": 5.2,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.6,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.0,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.4,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      }
+    ],
+    "duration": 7.15,
+    "peak": 0.5143907892733408,
+    "file": "v2_err_dynamics_a.wav",
+    "timbre": "soft"
+  },
+  "v2_err_tempo_b": {
+    "events": [
+      {
+        "start": 0.4,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 0.8,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.2,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.6,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.0,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.4,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.8,
+        "duration": 0.32,
+        "notes": [
+          72
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.2,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.6,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.0,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.4,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.8,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.2,
+        "duration": 0.224,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.48,
+        "duration": 0.224,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.76,
+        "duration": 0.224,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.04,
+        "duration": 0.224,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      }
+    ],
+    "duration": 6.694,
+    "peak": 0.5143908035915171,
+    "file": "v2_err_tempo_b.wav",
+    "timbre": "soft"
+  },
+  "v2_err_artic_c": {
+    "events": [
+      {
+        "start": 0.4,
+        "duration": 0.32,
+        "notes": [
+          72
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 0.8,
+        "duration": 0.32,
+        "notes": [
+          71
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.2,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.6,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.0,
+        "duration": 0.09,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.4,
+        "duration": 0.09,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.8,
+        "duration": 0.09,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.2,
+        "duration": 0.09,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.6,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.0,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.4,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.8,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.2,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.6,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.0,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.4,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      }
+    ],
+    "duration": 7.15,
+    "peak": 0.39615110042175555,
+    "file": "v2_err_artic_c.wav",
+    "timbre": "reedy"
+  },
+  "v2_err_pitch_c": {
+    "events": [
+      {
+        "start": 0.4,
+        "duration": 0.32,
+        "notes": [
+          72
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 0.8,
+        "duration": 0.32,
+        "notes": [
+          70
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.2,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 1.6,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.0,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.4,
+        "duration": 0.32,
+        "notes": [
+          67
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 2.8,
+        "duration": 0.32,
+        "notes": [
+          69
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.2,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 3.6,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.0,
+        "duration": 0.32,
+        "notes": [
+          65
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.4,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 4.8,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.2,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 5.6,
+        "duration": 0.32,
+        "notes": [
+          64
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.0,
+        "duration": 0.32,
+        "notes": [
+          62
+        ],
+        "amp": 0.5
+      },
+      {
+        "start": 6.4,
+        "duration": 0.32,
+        "notes": [
+          60
+        ],
+        "amp": 0.5
+      }
+    ],
+    "duration": 7.15,
+    "peak": 0.5143908035915171,
+    "file": "v2_err_pitch_c.wav",
+    "timbre": "soft"
   }
 }

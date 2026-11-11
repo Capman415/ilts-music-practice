@@ -1876,5 +1876,3448 @@
     ],
     "answer": 0,
     "rationale": "The teacher must implement applicable IEP provisions and collaborate with the team. Accommodations are not contingent on failure or peer approval, and unilateral replacement bypasses the student’s plan."
+  },
+  {
+    "id": "Q101",
+    "objective": "0001",
+    "area": 0,
+    "stem": "A melodic interval is played once, lower note first. Which interval is heard?",
+    "options": [
+      "perfect octave",
+      "minor seventh",
+      "major seventh",
+      "major sixth"
+    ],
+    "answer": 2,
+    "rationale": "C4 rises to B4, eleven semitones: an ascending major seventh, one half step short of the octave. A minor seventh spans ten semitones, a major sixth nine, and an octave twelve.",
+    "audio": "v2_int_M7_up",
+    "evidence": {
+      "kind": "interval",
+      "midi": [
+        60,
+        71
+      ],
+      "semitones": 11
+    }
+  },
+  {
+    "id": "Q102",
+    "objective": "0001",
+    "area": 0,
+    "stem": "Listen to the melodic interval, which moves from the higher pitch to the lower pitch. Which interval is heard?",
+    "options": [
+      "minor sixth",
+      "perfect fifth",
+      "augmented fourth",
+      "major sixth"
+    ],
+    "answer": 0,
+    "rationale": "E5 descends to G-sharp4, eight semitones: a descending minor sixth. A perfect fifth spans seven semitones, a major sixth nine, and an augmented fourth six.",
+    "audio": "v2_int_m6_down",
+    "evidence": {
+      "kind": "interval",
+      "midi": [
+        76,
+        68
+      ],
+      "semitones": -8
+    }
+  },
+  {
+    "id": "Q103",
+    "objective": "0001",
+    "area": 0,
+    "stem": "Two pitches are heard in succession, the second higher than the first. Which interval do they form?",
+    "options": [
+      "tritone",
+      "perfect fifth",
+      "minor sixth",
+      "perfect fourth"
+    ],
+    "answer": 0,
+    "rationale": "F4 to B4 spans six semitones, the tritone (augmented fourth), which divides the octave in half and sounds unstable. A perfect fourth spans five semitones, a perfect fifth seven, and a minor sixth eight.",
+    "audio": "v2_int_tritone_up",
+    "evidence": {
+      "kind": "interval",
+      "midi": [
+        65,
+        71
+      ],
+      "semitones": 6
+    }
+  },
+  {
+    "id": "Q104",
+    "objective": "0001",
+    "area": 0,
+    "stem": "Listen to the short melody. Which melodic device is most prominent?",
+    "options": [
+      "retrograde",
+      "melodic inversion",
+      "descending sequence",
+      "rhythmic augmentation"
+    ],
+    "answer": 2,
+    "rationale": "A four-note motive (G–A–B–G) is restated beginning one step lower twice (F–G–A–F, then E–F–G–E) with the same rhythm: a descending diatonic sequence. Inversion would flip the contour, retrograde would reverse the note order, and augmentation would lengthen the durations.",
+    "audio": "v2_sequence_desc",
+    "evidence": {
+      "kind": "notes",
+      "midi": [
+        67,
+        69,
+        71,
+        67,
+        65,
+        67,
+        69,
+        65,
+        64,
+        65,
+        67,
+        64
+      ]
+    }
+  },
+  {
+    "id": "Q105",
+    "objective": "0001",
+    "area": 0,
+    "stem": "The excerpt ascends through a scale that begins and ends on F. Which mode is heard?",
+    "options": [
+      "Mixolydian",
+      "Lydian",
+      "Ionian (major)",
+      "Dorian"
+    ],
+    "answer": 1,
+    "rationale": "F–G–A–B–C–D–E–F is a major scale with a raised fourth degree (B-natural instead of B-flat): F Lydian. F Ionian contains B-flat, F Mixolydian contains B-flat and E-flat, and F Dorian contains A-flat, B-flat, and E-flat.",
+    "audio": "v2_lydian",
+    "evidence": {
+      "kind": "scale",
+      "midi": [
+        65,
+        67,
+        69,
+        71,
+        72,
+        74,
+        76,
+        77
+      ],
+      "steps": [
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "id": "Q106",
+    "objective": "0001",
+    "area": 0,
+    "stem": "Which pitch collection is heard in this ascending scale?",
+    "options": [
+      "chromatic scale",
+      "major pentatonic scale",
+      "whole-tone scale",
+      "Lydian mode"
+    ],
+    "answer": 2,
+    "rationale": "C–D–E–F-sharp–G-sharp–A-sharp–C contains six pitches separated only by whole steps, the whole-tone scale; it has no perfect fifth above the starting pitch. Major pentatonic includes minor thirds, Lydian includes half steps, and the chromatic scale moves entirely by half steps.",
+    "audio": "v2_wholetone",
+    "evidence": {
+      "kind": "scale",
+      "midi": [
+        60,
+        62,
+        64,
+        66,
+        68,
+        70,
+        72
+      ],
+      "steps": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "id": "Q107",
+    "objective": "0001",
+    "area": 0,
+    "stem": "Listen to the ascending scale from C to C. Which scale type is heard?",
+    "options": [
+      "harmonic minor",
+      "Phrygian",
+      "octatonic",
+      "whole-tone"
+    ],
+    "answer": 2,
+    "rationale": "C–D-flat–E-flat–E–F-sharp–G–A–B-flat–C alternates half and whole steps and contains eight distinct pitches: the octatonic (diminished) scale. Harmonic minor and Phrygian have seven pitches, and the whole-tone scale has only whole steps.",
+    "audio": "v2_octatonic",
+    "evidence": {
+      "kind": "scale",
+      "midi": [
+        60,
+        61,
+        63,
+        64,
+        66,
+        67,
+        69,
+        70,
+        72
+      ],
+      "steps": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": "Q108",
+    "objective": "0001",
+    "area": 0,
+    "stem": "A three-note chord is played as an arpeggio and then as a simultaneous sonority. Which chord quality is heard?",
+    "options": [
+      "major triad",
+      "minor triad",
+      "diminished triad",
+      "augmented triad"
+    ],
+    "answer": 3,
+    "rationale": "C–E–G-sharp stacks two major thirds, producing an augmented triad with an augmented fifth above the root. A major triad has a perfect fifth (G), a minor triad has a minor third and perfect fifth, and a diminished triad stacks two minor thirds.",
+    "audio": "v2_aug_triad",
+    "evidence": {
+      "kind": "chord",
+      "intervals": [
+        0,
+        4,
+        8
+      ]
+    }
+  },
+  {
+    "id": "Q109",
+    "objective": "0001",
+    "area": 0,
+    "stem": "A seventh chord is arpeggiated from the root and then sounded together. Which quality is heard?",
+    "options": [
+      "minor seventh",
+      "major seventh",
+      "minor-major seventh",
+      "dominant seventh"
+    ],
+    "answer": 1,
+    "rationale": "F–A–C–E is a major triad with a major seventh above the root, a half step below the octave. A dominant seventh would have E-flat, a minor seventh A-flat and E-flat, and a minor-major seventh A-flat with E-natural.",
+    "audio": "v2_maj7",
+    "evidence": {
+      "kind": "chord",
+      "intervals": [
+        0,
+        4,
+        7,
+        11
+      ]
+    }
+  },
+  {
+    "id": "Q110",
+    "objective": "0001",
+    "area": 0,
+    "stem": "Which seventh-chord quality matches the chord heard first in broken form and then as a block?",
+    "options": [
+      "half-diminished seventh",
+      "dominant seventh",
+      "minor seventh",
+      "fully diminished seventh"
+    ],
+    "answer": 3,
+    "rationale": "B–D–F–A-flat stacks three minor thirds; its seventh is diminished. A half-diminished seventh would have A-natural, while dominant and minor sevenths are built on major or minor triads rather than a diminished triad.",
+    "audio": "v2_dim7",
+    "evidence": {
+      "kind": "chord",
+      "intervals": [
+        0,
+        3,
+        6,
+        9
+      ]
+    }
+  },
+  {
+    "id": "Q111",
+    "objective": "0001",
+    "area": 0,
+    "stem": "After a C-major introduction and a pause, listen to the final two chords, especially the highest voice. Which cadence is heard?",
+    "options": [
+      "imperfect authentic cadence",
+      "plagal cadence",
+      "perfect authentic cadence",
+      "half cadence"
+    ],
+    "answer": 0,
+    "rationale": "The ending moves from a root-position G-major dominant to a root-position C-major tonic, but the top voice ends on E, the third of the chord. V–I without the tonic in the soprano is an imperfect authentic cadence. A perfect authentic cadence would end with C on top, a half cadence would stop on V, and a plagal cadence would be IV–I.",
+    "audio": "v2_iac",
+    "evidence": {
+      "kind": "cadence",
+      "final": [
+        [
+          43,
+          55,
+          62,
+          67
+        ],
+        [
+          48,
+          55,
+          60,
+          64
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Q112",
+    "objective": "0001",
+    "area": 0,
+    "stem": "Following a C-major introduction and a pause, which cadence closes the final phrase?",
+    "options": [
+      "deceptive cadence",
+      "plagal cadence",
+      "authentic cadence",
+      "half cadence"
+    ],
+    "answer": 1,
+    "rationale": "The closing chords are F major (IV) moving to C major (I), the plagal or \"Amen\" progression. An authentic cadence approaches I from V, a half cadence ends on V, and a deceptive cadence moves from V to a chord other than I, usually vi.",
+    "audio": "v2_plagal",
+    "evidence": {
+      "kind": "cadence",
+      "final": [
+        [
+          41,
+          57,
+          60,
+          65
+        ],
+        [
+          48,
+          55,
+          60,
+          64
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Q113",
+    "objective": "0001",
+    "area": 0,
+    "stem": "After an A-minor introduction and a pause, which cadence ends the excerpt?",
+    "options": [
+      "perfect authentic cadence",
+      "plagal cadence",
+      "deceptive cadence",
+      "Phrygian half cadence"
+    ],
+    "answer": 3,
+    "rationale": "The phrase ends on the dominant (E major) approached from iv6 (D minor with F in the bass), so the bass descends by half step F–E while the upper voice rises D–E. That iv6–V ending in minor is a Phrygian half cadence. The other cadences end on i or VI, not V.",
+    "audio": "v2_phrygian_half",
+    "evidence": {
+      "kind": "cadence",
+      "final": [
+        [
+          41,
+          50,
+          57,
+          62
+        ],
+        [
+          40,
+          52,
+          56,
+          64
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Q114",
+    "objective": "0001",
+    "area": 0,
+    "stem": "Listen to the two-voice excerpt. Which texture is heard?",
+    "options": [
+      "imitative polyphony",
+      "homophony (melody with chordal accompaniment)",
+      "monophony",
+      "heterophony"
+    ],
+    "answer": 0,
+    "rationale": "A melody begins alone and the same melody enters an octave lower four notes later, so two independent lines overlap in strict imitation (a canon). Monophony has one line, homophony places one melody over supporting chords, and heterophony presents simultaneous variants of a single melody rather than a delayed entrance.",
+    "audio": "v2_canon_texture",
+    "evidence": {
+      "kind": "canon",
+      "melody": [
+        60,
+        62,
+        64,
+        65,
+        67,
+        65,
+        64,
+        62,
+        60,
+        67,
+        64,
+        60
+      ],
+      "delay": 4,
+      "transpose": -12,
+      "step": 0.4
+    }
+  },
+  {
+    "id": "Q115",
+    "objective": "0002",
+    "area": 0,
+    "stem": "The highest tones mark each downbeat, middle tones mark the other beats, and the lowest tones mark subdivisions. Which meter signature best fits?",
+    "options": [
+      "9/8",
+      "12/8",
+      "3/4",
+      "6/8"
+    ],
+    "answer": 0,
+    "rationale": "Each measure contains three beats, and each beat divides into three equal subdivisions (nine per measure): compound triple, conventionally 9/8. 3/4 divides each beat in two, 6/8 has two dotted-quarter beats, and 12/8 has four.",
+    "audio": "v2_meter_98",
+    "evidence": {
+      "kind": "meter",
+      "groups": [
+        3,
+        3,
+        3
+      ]
+    }
+  },
+  {
+    "id": "Q116",
+    "objective": "0002",
+    "area": 0,
+    "stem": "Listen to the accent pattern, in which the downbeat is highest, other beats are in the middle, and subdivisions are lowest. Which meter is most consistent?",
+    "options": [
+      "3/4",
+      "2/4",
+      "5/8",
+      "6/8"
+    ],
+    "answer": 1,
+    "rationale": "Each measure has two beats, each divided into two equal parts: simple duple, conventionally 2/4. 6/8 would divide each of two beats into three, 3/4 would have three beats, and 5/8 would group an unequal 3+2 or 2+3.",
+    "audio": "v2_meter_24",
+    "evidence": {
+      "kind": "meter",
+      "groups": [
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "id": "Q117",
+    "objective": "0002",
+    "area": 0,
+    "stem": "Listen to the repeating accent pattern. Which meter best describes the grouping of the equal subdivisions?",
+    "options": [
+      "2/4 (grouped 2+2)",
+      "6/8 (grouped 3+3)",
+      "3/4 (grouped 2+2+2)",
+      "5/8 (grouped 3+2)"
+    ],
+    "answer": 3,
+    "rationale": "Each measure contains five equal subdivisions grouped as a long beat of three followed by a short beat of two, an asymmetrical 5/8. The other meters contain beats of equal length.",
+    "audio": "v2_meter_58",
+    "evidence": {
+      "kind": "meter",
+      "groups": [
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "id": "Q118",
+    "objective": "0002",
+    "area": 0,
+    "stem": "A passage in triple meter temporarily shifts its accents before the original grouping returns. Which rhythmic device is heard?",
+    "options": [
+      "augmentation",
+      "ostinato",
+      "hemiola",
+      "rubato"
+    ],
+    "answer": 2,
+    "rationale": "After two measures accented in groups of three quarter notes, the next six quarter notes are accented in three groups of two, briefly implying a larger triple meter (3/2) across two bars of 3/4. That regrouping is hemiola. Rubato is flexible tempo, augmentation lengthens note values, and ostinato is a persistent repeated figure.",
+    "audio": "v2_hemiola",
+    "evidence": {
+      "kind": "accents",
+      "indices": [
+        0,
+        3,
+        6,
+        8,
+        10,
+        12
+      ]
+    }
+  },
+  {
+    "id": "Q119",
+    "objective": "0002",
+    "area": 0,
+    "stem": "Which tempo change occurs during the repeated-note excerpt?",
+    "options": [
+      "accelerando",
+      "ritardando",
+      "fermata",
+      "a tempo"
+    ],
+    "answer": 0,
+    "rationale": "The pitch and loudness stay the same while the time between attacks shrinks steadily, so the tempo gradually speeds up: accelerando. Ritardando slows down, a tempo restores a previous tempo, and a fermata holds one note beyond its value.",
+    "audio": "v2_accelerando",
+    "evidence": {
+      "kind": "tempo",
+      "change": "accelerando"
+    }
+  },
+  {
+    "id": "Q120",
+    "objective": "0002",
+    "area": 0,
+    "stem": "Listen to the end of the descending phrase. Which change in tempo is heard?",
+    "options": [
+      "accelerando",
+      "fermata",
+      "ritardando",
+      "a tempo"
+    ],
+    "answer": 2,
+    "rationale": "The time between successive notes grows steadily longer as the phrase descends, a gradual slowing: ritardando. Accelerando would shorten the gaps, a fermata would sustain only one note, and a tempo signals a return to an earlier tempo rather than a gradual change.",
+    "audio": "v2_ritardando",
+    "evidence": {
+      "kind": "tempo",
+      "change": "ritardando"
+    }
+  },
+  {
+    "id": "Q121",
+    "objective": "0002",
+    "area": 0,
+    "stem": "Listen to the repeated arpeggio figure. Which expressive change is heard?",
+    "options": [
+      "crescendo",
+      "ritardando",
+      "a change from staccato to legato",
+      "diminuendo"
+    ],
+    "answer": 3,
+    "rationale": "The figure keeps the same pitches, tempo, and note lengths while each note is softer than the one before, a diminuendo. A crescendo would grow louder, a ritardando would slow down, and a legato change would lengthen notes.",
+    "audio": "v2_diminuendo",
+    "evidence": {
+      "kind": "dynamics",
+      "change": "diminuendo"
+    }
+  },
+  {
+    "id": "Q122",
+    "objective": "0002",
+    "area": 0,
+    "stem": "A short phrase is played four times in succession. Which dynamic practice is illustrated?",
+    "options": [
+      "gradual crescendo",
+      "gradual diminuendo",
+      "sforzando accents",
+      "terraced dynamics"
+    ],
+    "answer": 3,
+    "rationale": "Each statement stays at one level and the next jumps abruptly: loud, soft, loud, soft. Block contrasts of this kind (echo effects) are terraced dynamics, typical of Baroque practice. Crescendo and diminuendo change gradually, and a sforzando is a single sudden accent.",
+    "audio": "v2_terraced",
+    "evidence": {
+      "kind": "dynamics",
+      "change": "terraced"
+    }
+  },
+  {
+    "id": "Q123",
+    "objective": "0002",
+    "area": 0,
+    "stem": "Listen to the ornament that decorates the second note of the melody. Which embellishment is heard?",
+    "options": [
+      "glissando",
+      "turn",
+      "mordent",
+      "trill"
+    ],
+    "answer": 1,
+    "rationale": "The ornament is a quick four-note figure circling the main note: upper neighbor, main note, lower neighbor, main note (B–A–G-sharp–A). That is a turn. A trill alternates repeatedly with the upper neighbor, a mordent is a single quick alternation (main–neighbor–main), and a glissando slides continuously between pitches.",
+    "audio": "v2_turn",
+    "evidence": {
+      "kind": "notes",
+      "midi": [
+        67,
+        71,
+        69,
+        68,
+        69,
+        72
+      ]
+    }
+  },
+  {
+    "id": "Q124",
+    "objective": "0002",
+    "area": 0,
+    "stem": "Which embellishment is heard on the note that precedes the final resolution?",
+    "options": [
+      "turn",
+      "trill",
+      "mordent",
+      "appoggiatura"
+    ],
+    "answer": 1,
+    "rationale": "Before the melody resolves to C, the D is ornamented by rapid, repeated alternation with its upper neighbor E: a cadential trill. A turn is a single four-note figure, an appoggiatura is an accented dissonance resolving by step, and a mordent alternates only once.",
+    "audio": "v2_trill",
+    "evidence": {
+      "kind": "notes",
+      "midi": [
+        64,
+        62,
+        64,
+        62,
+        64,
+        62,
+        64,
+        62,
+        64,
+        62,
+        64,
+        62,
+        64,
+        62,
+        60
+      ]
+    }
+  },
+  {
+    "id": "Q125",
+    "objective": "0003",
+    "area": 0,
+    "stem": "Listen to the chord progression, one chord per measure. Which American popular form does it outline?",
+    "options": [
+      "twelve-bar blues",
+      "verse–chorus form with a bridge",
+      "multi-strain ragtime form",
+      "thirty-two-bar AABA song form"
+    ],
+    "answer": 0,
+    "rationale": "Twelve chords follow I–I–I–I–IV–IV–I–I–V–IV–I–I using dominant-seventh sonorities: the twelve-bar blues, foundational to blues, rhythm and blues, jazz, and early rock and roll. AABA song form has four eight-bar sections, ragtime strains are typically sixteen bars, and verse–chorus form is defined by contrasting sections rather than this twelve-bar cycle.",
+    "audio": "v2_twelve_bar_blues",
+    "evidence": {
+      "kind": "progression",
+      "bassPcs": [
+        0,
+        0,
+        0,
+        0,
+        5,
+        5,
+        0,
+        0,
+        7,
+        5,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "Q126",
+    "objective": "0003",
+    "area": 0,
+    "stem": "Listen to the repeating dance-rhythm pattern. Which tradition is most closely associated with this asymmetrical meter?",
+    "options": [
+      "Viennese waltz music",
+      "Argentine tango music",
+      "Balkan folk dance music",
+      "Irish jig and reel music"
+    ],
+    "answer": 2,
+    "rationale": "Seven fast subdivisions are grouped short–short–long (2+2+3), an asymmetrical (aksak) meter characteristic of Balkan dances such as those of Bulgaria and Macedonia. The waltz is in a symmetrical triple meter, the jig in compound duple 6/8, and the tango in duple meter.",
+    "audio": "v2_balkan_7_8",
+    "evidence": {
+      "kind": "meter",
+      "groups": [
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": "Q127",
+    "objective": "0003",
+    "area": 0,
+    "stem": "Listen to the two-measure rhythm played twice above a steady low pulse. Which rhythmic pattern is heard in the high part?",
+    "options": [
+      "3-2 son clave",
+      "2-3 son clave",
+      "polonaise rhythm",
+      "habanera rhythm"
+    ],
+    "answer": 0,
+    "rationale": "The first measure has three strokes (beat 1, the \"and\" of 2, and beat 4) and the second has two (beats 2 and 3): the 3-2 son clave that organizes Afro-Cuban son and salsa. A 2-3 clave reverses the measures, the habanera is a one-measure dotted-eighth–sixteenth–eighth–eighth pattern, and the polonaise rhythm is a triple-meter figure of an eighth and two sixteenths followed by eighths.",
+    "audio": "v2_son_clave",
+    "evidence": {
+      "kind": "onsets",
+      "onsets": [
+        0.3,
+        0.3,
+        0.7,
+        0.9,
+        1.1,
+        1.5,
+        1.5,
+        1.9,
+        2.3,
+        2.3,
+        2.7,
+        2.7,
+        3.1,
+        3.5,
+        3.5,
+        3.9,
+        4.1,
+        4.3,
+        4.7,
+        4.7,
+        5.1,
+        5.5,
+        5.5,
+        5.9,
+        5.9,
+        6.3
+      ]
+    }
+  },
+  {
+    "id": "Q128",
+    "objective": "0003",
+    "area": 0,
+    "stem": "TEXT SUBSTITUTE — A listening description notes a solo voice accompanied by harpsichord and cello, a dramatic text, and alternation between speech-like recitative and a lyrical da capo aria. Which period and genre are most consistent?",
+    "options": [
+      "Classical piano sonata",
+      "Baroque opera or cantata",
+      "Renaissance madrigal",
+      "Romantic art song (Lied)"
+    ],
+    "answer": 1,
+    "rationale": "Basso continuo (harpsichord with cello), recitative alternating with a da capo aria, and a dramatic text point to Baroque opera or cantata. Renaissance madrigals are unaccompanied polyphonic part-songs, a piano sonata is instrumental, and the Romantic Lied pairs voice with piano and is usually strophic or through-composed.",
+    "proxy": true
+  },
+  {
+    "id": "Q129",
+    "objective": "0003",
+    "area": 0,
+    "stem": "TEXT SUBSTITUTE — A listening guide describes short, consonant patterns repeated many times, gradual additive changes, and a steady pulse sustained for several minutes. Which twentieth-century style is most consistent?",
+    "options": [
+      "musique concrète",
+      "minimalism",
+      "Impressionism",
+      "serialism"
+    ],
+    "answer": 1,
+    "rationale": "Repetition of short consonant cells, gradual process-based change, and a steady pulse define minimalism (for example, Reich, Riley, or Glass). Serialism organizes pitch through tone rows and usually avoids repetitive consonance, Impressionism emphasizes color and fluid rhythm, and musique concrète manipulates recorded sounds.",
+    "proxy": true
+  },
+  {
+    "id": "Q130",
+    "objective": "0003",
+    "area": 0,
+    "stem": "TEXT SUBSTITUTE — A recording note describes a carnival song with topical, humorous lyrics in English-based Creole, a lively syncopated duple meter, and a brass-and-rhythm-section accompaniment. Which tradition is most consistent?",
+    "options": [
+      "Jamaican reggae",
+      "Brazilian samba",
+      "Trinidadian calypso",
+      "Dominican merengue"
+    ],
+    "answer": 2,
+    "rationale": "Topical, witty lyrics sung for carnival in Trinidad in English-based Creole identify calypso. Reggae is Jamaican, with an offbeat guitar or keyboard skank and a slower tempo; samba is Brazilian and sung in Portuguese; merengue is Dominican and sung in Spanish.",
+    "proxy": true
+  },
+  {
+    "id": "Q131",
+    "objective": "0003",
+    "area": 0,
+    "stem": "TEXT SUBSTITUTE — A recording note describes a lead singer whose phrases are answered by a full choir, hand clapping, and a Hammond organ during a church service. Which United States tradition is most consistent?",
+    "options": [
+      "barbershop quartet",
+      "African American gospel",
+      "Appalachian ballad singing",
+      "Tin Pan Alley popular song"
+    ],
+    "answer": 1,
+    "rationale": "Call-and-response between a lead singer and choir, clapping, and Hammond organ in worship are hallmarks of African American gospel music. Appalachian ballads are typically solo narrative songs, barbershop is unaccompanied close harmony for four singers, and Tin Pan Alley songs were commercially published popular songs.",
+    "proxy": true
+  },
+  {
+    "id": "Q132",
+    "objective": "0004",
+    "area": 0,
+    "stem": "TEXT SUBSTITUTE — A listening log describes an electronic instrument played without physical contact, producing a continuous, wavering tone that glides between pitches, often heard in mid-twentieth-century science-fiction film scores. Which instrument is described?",
+    "options": [
+      "theremin",
+      "harmonica",
+      "vibraphone",
+      "celesta"
+    ],
+    "answer": 0,
+    "rationale": "The theremin is an early electronic instrument controlled by moving the hands near two antennas, producing a gliding, vibrato-rich sine-like tone. The celesta is a keyboard idiophone, the vibraphone is a struck metal-bar instrument, and the harmonica is a free-reed wind instrument; all require physical contact.",
+    "proxy": true
+  },
+  {
+    "id": "Q133",
+    "objective": "0004",
+    "area": 0,
+    "stem": "TEXT SUBSTITUTE — A program note describes tuned pans in several ranges (tenor, double seconds, cello, and bass) playing an arrangement with drum set and iron percussion. Which ensemble is described?",
+    "options": [
+      "brass band",
+      "marimba ensemble",
+      "gamelan",
+      "steel band"
+    ],
+    "answer": 3,
+    "rationale": "Pans tuned from oil drums and organized by range, with iron and drum-set rhythm, form a Trinidadian steel band. A gamelan uses bronze gongs and metallophones, a marimba ensemble uses wooden bars, and a brass band uses lip-vibrated wind instruments.",
+    "proxy": true
+  },
+  {
+    "id": "Q134",
+    "objective": "0004",
+    "area": 0,
+    "stem": "TEXT SUBSTITUTE — A male classical singer has a dark, heavy timbre, sings comfortably down to about E2, and is often cast as an older authoritative or comic character. Which vocal classification best fits?",
+    "options": [
+      "baritone",
+      "lyric tenor",
+      "bass",
+      "countertenor"
+    ],
+    "answer": 2,
+    "rationale": "A comfortable low range reaching E2 and a dark, heavy timbre identify the bass, the lowest male classification. Baritones typically extend down to about G2 or A2, tenors sit higher, and countertenors sing in the alto or mezzo range.",
+    "proxy": true
+  },
+  {
+    "id": "Q135",
+    "objective": "0004",
+    "area": 0,
+    "stem": "TEXT SUBSTITUTE — Five unaccompanied singers, one on each part, perform a sixteenth-century English secular text with imitative lines and vivid word painting. Which vocal ensemble best fits?",
+    "options": [
+      "madrigal group",
+      "mixed chorus",
+      "vocal jazz ensemble",
+      "barbershop quartet"
+    ],
+    "answer": 0,
+    "rationale": "One singer per part performing unaccompanied secular Renaissance part-songs with word painting describes a madrigal group. A mixed chorus places several singers on each part, barbershop uses four parts in close harmony, and vocal jazz ensembles perform jazz harmonies and styles, often with a rhythm section.",
+    "proxy": true
+  },
+  {
+    "id": "Q136",
+    "objective": "0004",
+    "area": 0,
+    "stem": "TEXT SUBSTITUTE — A recording lists trumpet, tenor saxophone, piano, upright bass, and drum set, and each horn player takes an improvised solo chorus. Which ensemble best fits?",
+    "options": [
+      "big band",
+      "concert band",
+      "jazz combo",
+      "brass quintet"
+    ],
+    "answer": 2,
+    "rationale": "A small group of one or two horns plus piano, bass, and drums, with improvised solo choruses, is a jazz combo. A big band has full saxophone, trumpet, and trombone sections; a brass quintet uses two trumpets, horn, trombone, and tuba; and a concert band is a large wind and percussion ensemble.",
+    "proxy": true
+  },
+  {
+    "id": "Q137",
+    "objective": "0004",
+    "area": 0,
+    "stem": "TEXT SUBSTITUTE — A female singer has a light, agile, high voice that executes rapid ornamented runs and sustains notes above C6. Which vocal classification best fits?",
+    "options": [
+      "contralto",
+      "countertenor",
+      "lyric mezzo-soprano",
+      "coloratura soprano"
+    ],
+    "answer": 3,
+    "rationale": "Agility in rapid ornamented passages and an extreme high range above C6 identify a coloratura soprano. Mezzo-sopranos and contraltos have lower ranges and darker timbres, and a countertenor is a male voice singing in the alto range.",
+    "proxy": true
+  },
+  {
+    "id": "Q138",
+    "objective": "0005",
+    "area": 0,
+    "stem": "Follow the printed score while listening. In which measure does the performer play a pitch other than the written one?",
+    "options": [
+      "measure 1",
+      "measure 2",
+      "measure 3",
+      "measure 4"
+    ],
+    "answer": 1,
+    "rationale": "In measure 2 the third note is played as F4 instead of the written G4. Every other pitch matches the score.",
+    "audio": "v2_err_pitch_a",
+    "score": {
+      "bars": [
+        [
+          67,
+          65,
+          64,
+          62
+        ],
+        [
+          64,
+          65,
+          67,
+          69
+        ],
+        [
+          71,
+          69,
+          67,
+          65
+        ],
+        [
+          64,
+          62,
+          60,
+          60
+        ]
+      ],
+      "meter": "4/4",
+      "instruction": "Concert pitch • treble clef • all quarter notes • moderately detached, equal length",
+      "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: G4 F4 E4 D4. Measure 2: E4 F4 G4 A4. Measure 3: B4 A4 G4 F4. Measure 4: E4 D4 C4 C4."
+    },
+    "evidence": {
+      "kind": "error",
+      "errorType": "pitch",
+      "measure": 2,
+      "note": 2
+    }
+  },
+  {
+    "id": "Q139",
+    "objective": "0005",
+    "area": 0,
+    "stem": "The score shows steady quarter notes. In which measure does one note enter late, distorting the written rhythm?",
+    "options": [
+      "measure 1",
+      "measure 2",
+      "measure 3",
+      "measure 4"
+    ],
+    "answer": 3,
+    "rationale": "In measure 4 the second note (D4) enters half a beat late, so the measure sounds like a dotted quarter followed by an eighth rather than equal quarters. The other measures keep even quarter-note attacks.",
+    "audio": "v2_err_rhythm_b",
+    "score": {
+      "bars": [
+        [
+          60,
+          64,
+          67,
+          64
+        ],
+        [
+          65,
+          69,
+          72,
+          69
+        ],
+        [
+          67,
+          65,
+          64,
+          62
+        ],
+        [
+          60,
+          62,
+          64,
+          60
+        ]
+      ],
+      "meter": "4/4",
+      "instruction": "Concert pitch • treble clef • all quarter notes • moderately detached, equal length",
+      "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: C4 E4 G4 E4. Measure 2: F4 A4 C5 A4. Measure 3: G4 F4 E4 D4. Measure 4: C4 D4 E4 C4."
+    },
+    "evidence": {
+      "kind": "error",
+      "errorType": "rhythm",
+      "measure": 4,
+      "note": 1
+    }
+  },
+  {
+    "id": "Q140",
+    "objective": "0005",
+    "area": 0,
+    "stem": "Follow the score. In which measure is one note noticeably flat compared with its written equal-tempered pitch, though not low enough to be a different note?",
+    "options": [
+      "measure 1",
+      "measure 2",
+      "measure 3",
+      "measure 4"
+    ],
+    "answer": 0,
+    "rationale": "In measure 1 the fourth note, G4, is lowered by 40 cents, a clear intonation error but less than a semitone. The other measures are in tune.",
+    "audio": "v2_err_flat_c",
+    "score": {
+      "bars": [
+        [
+          72,
+          71,
+          69,
+          67
+        ],
+        [
+          65,
+          67,
+          69,
+          65
+        ],
+        [
+          64,
+          65,
+          62,
+          64
+        ],
+        [
+          60,
+          64,
+          62,
+          60
+        ]
+      ],
+      "meter": "4/4",
+      "instruction": "Concert pitch • treble clef • all quarter notes • moderately detached, equal length",
+      "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: C5 B4 A4 G4. Measure 2: F4 G4 A4 F4. Measure 3: E4 F4 D4 E4. Measure 4: C4 E4 D4 C4."
+    },
+    "evidence": {
+      "kind": "error",
+      "errorType": "intonation",
+      "measure": 1,
+      "note": 3
+    }
+  },
+  {
+    "id": "Q141",
+    "objective": "0005",
+    "area": 0,
+    "stem": "The score is marked mezzo-forte throughout with no dynamic changes. In which measure does the performance contain a dynamic error?",
+    "options": [
+      "measure 1",
+      "measure 2",
+      "measure 3",
+      "measure 4"
+    ],
+    "answer": 2,
+    "rationale": "Measure 3 drops suddenly to a much softer level and then returns to mezzo-forte, an unmarked dynamic change. Pitches, rhythm, and articulation match the score in every measure.",
+    "audio": "v2_err_dynamics_a",
+    "score": {
+      "bars": [
+        [
+          67,
+          65,
+          64,
+          62
+        ],
+        [
+          64,
+          65,
+          67,
+          69
+        ],
+        [
+          71,
+          69,
+          67,
+          65
+        ],
+        [
+          64,
+          62,
+          60,
+          60
+        ]
+      ],
+      "meter": "4/4",
+      "instruction": "Concert pitch • treble clef • all quarter notes • mezzo-forte throughout, steady tempo",
+      "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: G4 F4 E4 D4. Measure 2: E4 F4 G4 A4. Measure 3: B4 A4 G4 F4. Measure 4: E4 D4 C4 C4."
+    },
+    "evidence": {
+      "kind": "error",
+      "errorType": "dynamics",
+      "measure": 3,
+      "note": 1
+    }
+  },
+  {
+    "id": "Q142",
+    "objective": "0005",
+    "area": 0,
+    "stem": "The score indicates a steady tempo throughout. In which measure does the performer rush?",
+    "options": [
+      "measure 1",
+      "measure 2",
+      "measure 3",
+      "measure 4"
+    ],
+    "answer": 3,
+    "rationale": "In measure 4 the attacks arrive closer together (about 0.28 s apart instead of 0.40 s), so the performer rushes the final measure. The first three measures keep the steady pulse.",
+    "audio": "v2_err_tempo_b",
+    "score": {
+      "bars": [
+        [
+          60,
+          64,
+          67,
+          64
+        ],
+        [
+          65,
+          69,
+          72,
+          69
+        ],
+        [
+          67,
+          65,
+          64,
+          62
+        ],
+        [
+          60,
+          62,
+          64,
+          60
+        ]
+      ],
+      "meter": "4/4",
+      "instruction": "Concert pitch • treble clef • all quarter notes • steady tempo, moderately detached",
+      "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: C4 E4 G4 E4. Measure 2: F4 A4 C5 A4. Measure 3: G4 F4 E4 D4. Measure 4: C4 D4 E4 C4."
+    },
+    "evidence": {
+      "kind": "error",
+      "errorType": "tempo",
+      "measure": 4,
+      "note": 1
+    }
+  },
+  {
+    "id": "Q143",
+    "objective": "0005",
+    "area": 0,
+    "stem": "The score specifies the same moderately detached articulation throughout. In which measure are the notes played markedly staccato?",
+    "options": [
+      "measure 1",
+      "measure 2",
+      "measure 3",
+      "measure 4"
+    ],
+    "answer": 1,
+    "rationale": "In measure 2 every note sounds for only about 0.09 s while the pulse remains steady, a crisp staccato that contradicts the uniform articulation in the score. The other measures sustain about 0.32 s per note.",
+    "audio": "v2_err_artic_c",
+    "score": {
+      "bars": [
+        [
+          72,
+          71,
+          69,
+          67
+        ],
+        [
+          65,
+          67,
+          69,
+          65
+        ],
+        [
+          64,
+          65,
+          62,
+          64
+        ],
+        [
+          60,
+          64,
+          62,
+          60
+        ]
+      ],
+      "meter": "4/4",
+      "instruction": "Concert pitch • treble clef • all quarter notes • moderately detached, equal length",
+      "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: C5 B4 A4 G4. Measure 2: F4 G4 A4 F4. Measure 3: E4 F4 D4 E4. Measure 4: C4 E4 D4 C4."
+    },
+    "evidence": {
+      "kind": "error",
+      "errorType": "articulation",
+      "measure": 2,
+      "note": 1
+    }
+  },
+  {
+    "id": "Q144",
+    "objective": "0005",
+    "area": 0,
+    "stem": "Follow the printed concert-pitch score. In which measure does the recording contain a wrong note?",
+    "options": [
+      "measure 1",
+      "measure 2",
+      "measure 3",
+      "measure 4"
+    ],
+    "answer": 0,
+    "rationale": "In measure 1 the second note is played as B-flat4 instead of the written B4. All other pitches match the score.",
+    "audio": "v2_err_pitch_c",
+    "score": {
+      "bars": [
+        [
+          72,
+          71,
+          69,
+          67
+        ],
+        [
+          65,
+          67,
+          69,
+          65
+        ],
+        [
+          64,
+          65,
+          62,
+          64
+        ],
+        [
+          60,
+          64,
+          62,
+          60
+        ]
+      ],
+      "meter": "4/4",
+      "instruction": "Concert pitch • treble clef • all quarter notes • moderately detached, equal length",
+      "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: C5 B4 A4 G4. Measure 2: F4 G4 A4 F4. Measure 3: E4 F4 D4 E4. Measure 4: C4 E4 D4 C4."
+    },
+    "evidence": {
+      "kind": "error",
+      "errorType": "pitch",
+      "measure": 1,
+      "note": 1
+    }
+  },
+  {
+    "id": "Q145",
+    "objective": "0006",
+    "area": 1,
+    "stem": "In bass clef, which pitch is written on the top line of the staff?",
+    "options": [
+      "C4",
+      "F3",
+      "A3",
+      "G2"
+    ],
+    "answer": 2,
+    "rationale": "Bass clef lines from bottom to top are G2, B2, D3, F3, and A3. F3 is the fourth line, G2 is the bottom line, and C4 (middle C) sits on the first ledger line above the staff."
+  },
+  {
+    "id": "Q146",
+    "objective": "0006",
+    "area": 1,
+    "stem": "A cello part switches to tenor clef, with the C clef centered on the fourth line. Which pitch is written on the top line?",
+    "options": [
+      "G4",
+      "D4",
+      "C4",
+      "E4"
+    ],
+    "answer": 3,
+    "rationale": "The tenor clef places middle C (C4) on the fourth line, so the lines from bottom to top are D3, F3, A3, C4, and E4. C4 is on the fourth line, and G4 and D4 do not fall on the top line in this clef."
+  },
+  {
+    "id": "Q147",
+    "objective": "0006",
+    "area": 1,
+    "stem": "A piece uses a key signature of five sharps, and its melody repeatedly settles on G-sharp over a minor tonic triad. Which key is indicated?",
+    "options": [
+      "C-sharp minor",
+      "G-sharp minor",
+      "B major",
+      "E major"
+    ],
+    "answer": 1,
+    "rationale": "Five sharps (F, C, G, D, A) represent B major or its relative minor, G-sharp minor. A melody centered on G-sharp with a minor tonic triad indicates G-sharp minor. C-sharp minor uses four sharps, as does E major."
+  },
+  {
+    "id": "Q148",
+    "objective": "0006",
+    "area": 1,
+    "stem": "In 6/8 time, which combination of note values exactly fills one measure?",
+    "options": [
+      "a dotted half note plus an eighth note",
+      "a half note plus a dotted quarter note",
+      "two dotted quarter notes plus an eighth rest",
+      "a dotted quarter note plus three eighth notes"
+    ],
+    "answer": 3,
+    "rationale": "A 6/8 measure holds six eighth notes. A dotted quarter (three eighths) plus three eighths equals six. Each alternative totals seven eighths: 6+1, 3+3+1, and 4+3."
+  },
+  {
+    "id": "Q149",
+    "objective": "0006",
+    "area": 1,
+    "stem": "A passage is marked \"poco a poco accelerando,\" and later \"a tempo.\" Which performance is indicated?",
+    "options": [
+      "grow gradually louder, then return to the original dynamic",
+      "become suddenly faster, then slow down gradually to the end",
+      "gradually speed up little by little, then return to the original tempo",
+      "slow slightly, then hold the final note longer than written"
+    ],
+    "answer": 2,
+    "rationale": "Poco a poco means little by little and accelerando means becoming faster; a tempo restores the earlier tempo. The other choices describe sudden tempo changes, ritardando with a fermata, or a crescendo, which is a dynamic rather than tempo marking."
+  },
+  {
+    "id": "Q150",
+    "objective": "0006",
+    "area": 1,
+    "stem": "Which sequence of dynamic markings is ordered from softest to loudest?",
+    "options": [
+      "pp – mf – mp – ff",
+      "pp – mp – mf – ff",
+      "mp – pp – mf – ff",
+      "p – mf – mp – f"
+    ],
+    "answer": 1,
+    "rationale": "Pianissimo (pp) is softer than mezzo-piano (mp), which is softer than mezzo-forte (mf), which is softer than fortissimo (ff). Each alternative places mp and mf, or pp and mp, in the wrong order."
+  },
+  {
+    "id": "Q151",
+    "objective": "0006",
+    "area": 1,
+    "stem": "A treble-clef note sits on the second ledger line above the staff. Which pitch is it?",
+    "options": [
+      "A5",
+      "E6",
+      "B5",
+      "C6"
+    ],
+    "answer": 3,
+    "rationale": "The top line of the treble staff is F5. Above it, G5 sits in the space, A5 on the first ledger line, B5 in the next space, and C6 on the second ledger line. E6 would require a third ledger line."
+  },
+  {
+    "id": "Q152",
+    "objective": "0006",
+    "area": 1,
+    "stem": "In 2/2 (cut time), a measure contains a dotted quarter note and an eighth note. Which single rest completes the measure?",
+    "options": [
+      "dotted quarter rest",
+      "half rest",
+      "whole rest",
+      "quarter rest"
+    ],
+    "answer": 1,
+    "rationale": "A 2/2 measure equals two half notes. A dotted quarter plus an eighth equals one half note, so a half rest fills the remaining beat. A quarter rest is too short, a whole rest fills an entire measure, and a dotted quarter rest is not the remaining value."
+  },
+  {
+    "id": "Q153",
+    "objective": "0006",
+    "area": 1,
+    "stem": "Which term directs a performer to play in a singing, smoothly connected style?",
+    "options": [
+      "marcato",
+      "pesante",
+      "cantabile",
+      "scherzando"
+    ],
+    "answer": 2,
+    "rationale": "Cantabile means in a singing style. Marcato means marked or accented, pesante means heavy, and scherzando means playful or jesting."
+  },
+  {
+    "id": "Q154",
+    "objective": "0007",
+    "area": 1,
+    "stem": "Which interval is formed from C-sharp4 up to B-flat4?",
+    "options": [
+      "minor seventh",
+      "diminished seventh",
+      "major sixth",
+      "augmented sixth"
+    ],
+    "answer": 1,
+    "rationale": "C to B is a seventh by letter name. C-sharp to B-natural is a minor seventh (ten semitones); lowering B to B-flat contracts it to a diminished seventh (nine semitones). A major sixth (C-sharp to A-sharp) is enharmonically equivalent but spelled with a different letter."
+  },
+  {
+    "id": "Q155",
+    "objective": "0007",
+    "area": 1,
+    "stem": "Which interval is formed from G-sharp4 up to C5?",
+    "options": [
+      "perfect fourth",
+      "augmented third",
+      "diminished fourth",
+      "major third"
+    ],
+    "answer": 2,
+    "rationale": "G to C spans four letter names, a fourth. G to C is a perfect fourth (five semitones); raising the lower note to G-sharp contracts it to a diminished fourth (four semitones). A major third (G-sharp to B-sharp) sounds the same but is spelled as a third."
+  },
+  {
+    "id": "Q156",
+    "objective": "0007",
+    "area": 1,
+    "stem": "A melody uses only the pitches G, A, B, D, and E and repeatedly settles on G. Which scale best describes it?",
+    "options": [
+      "G whole-tone",
+      "G major pentatonic",
+      "E minor pentatonic",
+      "G Mixolydian"
+    ],
+    "answer": 1,
+    "rationale": "G–A–B–D–E is a five-note collection with no half steps, scale degrees 1, 2, 3, 5, and 6 of G major: the G major pentatonic. The same pitches centered on E would be E minor pentatonic, but this melody centers on G. Mixolydian has seven pitches, and a whole-tone scale has six with no perfect fifth."
+  },
+  {
+    "id": "Q157",
+    "objective": "0007",
+    "area": 1,
+    "stem": "Which mode is spelled D–E–F-sharp–G–A–B–C–D?",
+    "options": [
+      "D Ionian",
+      "D Lydian",
+      "D Dorian",
+      "D Mixolydian"
+    ],
+    "answer": 3,
+    "rationale": "With F-sharp, the mode has a major third, but C-natural lowers the seventh degree: the Mixolydian pattern. D Ionian would have C-sharp, D Lydian would add G-sharp and C-sharp, and D Dorian would have F-natural."
+  },
+  {
+    "id": "Q158",
+    "objective": "0007",
+    "area": 1,
+    "stem": "A melody begins on D4, rises stepwise to A4, leaps to D5, and then descends stepwise to D4. Which description of its range and contour is accurate?",
+    "options": [
+      "an octave range with an arch contour",
+      "a ninth range with an ascending contour",
+      "an octave range with an inverted-arch contour",
+      "a fifth range with a descending contour"
+    ],
+    "answer": 0,
+    "rationale": "The lowest and highest pitches are D4 and D5, an octave range. The line rises to a high point and returns to its starting pitch, an arch contour. An inverted arch would descend first and then rise."
+  },
+  {
+    "id": "Q159",
+    "objective": "0007",
+    "area": 1,
+    "stem": "A motive C–E–G–F is followed by F–G–E–C, with its rhythm also reversed. Which device is used?",
+    "options": [
+      "diminution",
+      "sequence",
+      "melodic inversion",
+      "retrograde"
+    ],
+    "answer": 3,
+    "rationale": "Presenting the pitches (and here the rhythm) in reverse order is retrograde. Inversion would flip the direction of each interval, a sequence would restate the motive at a different pitch level, and diminution would shorten its durations."
+  },
+  {
+    "id": "Q160",
+    "objective": "0007",
+    "area": 1,
+    "stem": "A motive moves up a major third and then down a perfect fourth. Which interval pattern appears in its melodic inversion?",
+    "options": [
+      "up a perfect fourth, then down a major third",
+      "down a minor third, then up a perfect fifth",
+      "up a major third, then down a perfect fourth",
+      "down a major third, then up a perfect fourth"
+    ],
+    "answer": 3,
+    "rationale": "Melodic inversion keeps each interval size but reverses its direction: up a major third becomes down a major third, and down a perfect fourth becomes up a perfect fourth. The first alternative reverses the order instead, the second is the original, and the last changes the interval sizes."
+  },
+  {
+    "id": "Q161",
+    "objective": "0007",
+    "area": 1,
+    "stem": "Two four-measure phrases begin with the same melodic material; the first ends with a half cadence and the second with a perfect authentic cadence. Which structure is formed?",
+    "options": [
+      "double period",
+      "parallel period",
+      "phrase group",
+      "contrasting period"
+    ],
+    "answer": 1,
+    "rationale": "An antecedent ending on a weaker (half) cadence answered by a consequent ending on a stronger authentic cadence forms a period; beginning both phrases alike makes it parallel. A contrasting period begins the phrases differently, a phrase group lacks the antecedent–consequent relationship, and a double period contains four phrases."
+  },
+  {
+    "id": "Q162",
+    "objective": "0008",
+    "area": 1,
+    "stem": "In G major, which chord is spelled F-sharp–A–C?",
+    "options": [
+      "vii° (diminished triad)",
+      "vi (minor triad)",
+      "V (major triad)",
+      "ii (minor triad)"
+    ],
+    "answer": 0,
+    "rationale": "F-sharp is the leading tone of G major. F-sharp–A is a minor third and F-sharp–C is a diminished fifth, forming the diminished leading-tone triad, vii°. ii is A–C–E, V is D–F-sharp–A, and vi is E–G–B."
+  },
+  {
+    "id": "Q163",
+    "objective": "0008",
+    "area": 1,
+    "stem": "A C-major triad appears with G in the bass. Which figured-bass symbol describes this inversion?",
+    "options": [
+      "4/2",
+      "6",
+      "6/4",
+      "5/3"
+    ],
+    "answer": 2,
+    "rationale": "With the fifth (G) in the bass, the upper notes C and E lie a fourth and a sixth above it: second inversion, 6/4. Root position is 5/3, first inversion is 6, and 4/2 labels a third-inversion seventh chord."
+  },
+  {
+    "id": "Q164",
+    "objective": "0008",
+    "area": 1,
+    "stem": "A progression in D major moves I–V–vi–iii–IV–I–IV–V over a repeating bass line. Which familiar pattern is it?",
+    "options": [
+      "a chain of ascending fifths",
+      "the Pachelbel (Canon) sequence",
+      "the Andalusian cadence",
+      "the twelve-bar blues"
+    ],
+    "answer": 1,
+    "rationale": "I–V–vi–iii–IV–I–IV–V over a repeating descending-fourth/ascending-step bass is the progression of Pachelbel’s Canon in D. The twelve-bar blues uses I, IV, and V across twelve bars, the Andalusian cadence descends i–VII–VI–V in minor, and ascending fifths would move I–V–ii–vi or similar."
+  },
+  {
+    "id": "Q165",
+    "objective": "0008",
+    "area": 1,
+    "stem": "Which progression in C major moves entirely by descending fifths between chord roots?",
+    "options": [
+      "I–IV–V–I",
+      "I–vi–IV–V",
+      "IV–V–iii–vi",
+      "vi–ii–V–I"
+    ],
+    "answer": 3,
+    "rationale": "The roots A–D–G–C each descend by a fifth, the circle-of-fifths motion of vi–ii–V–I. The other progressions include steps or thirds between roots (for example, IV–V, I–vi, or V–iii)."
+  },
+  {
+    "id": "Q166",
+    "objective": "0008",
+    "area": 1,
+    "stem": "A voice holds C while the harmony changes from C major to G major, and then the voice resolves down by step to B. What is the C over the G-major chord?",
+    "options": [
+      "an escape tone",
+      "a passing tone",
+      "a 4–3 suspension",
+      "an anticipation"
+    ],
+    "answer": 2,
+    "rationale": "The C is prepared as a chord tone, held over the chord change as a dissonant fourth above the G bass, and resolved down by step to the third (B): a 4–3 suspension. A passing tone moves stepwise between chord tones, an anticipation sounds a note of the next chord early, and an escape tone leaves by step and resolves by leap."
+  },
+  {
+    "id": "Q167",
+    "objective": "0008",
+    "area": 1,
+    "stem": "Over a sustained C-major chord, a melody moves E–F–G in equal notes, with F on a weak beat. What is the F?",
+    "options": [
+      "appoggiatura",
+      "pedal tone",
+      "neighbor tone",
+      "passing tone"
+    ],
+    "answer": 3,
+    "rationale": "F connects two chord tones (E and G) by step in the same direction on a weak beat: an unaccented passing tone. A neighbor tone returns to its starting note, an appoggiatura is approached by leap and usually accented, and a pedal tone is a sustained note in another voice."
+  },
+  {
+    "id": "Q168",
+    "objective": "0008",
+    "area": 1,
+    "stem": "In A minor, a chord spelled D–F–B-flat, with D in the bass, precedes V. Which chord is it?",
+    "options": [
+      "Neapolitan sixth",
+      "iv6",
+      "Italian augmented sixth",
+      "subtonic VII6"
+    ],
+    "answer": 0,
+    "rationale": "D–F–B-flat is a B-flat major triad, built on the lowered second scale degree, in first inversion with the third (D) in the bass: the Neapolitan sixth (N6), a predominant. An Italian sixth would be F–A–D-sharp over an F bass, iv6 is D–F–A with F in the bass, and VII is G–B–D."
+  },
+  {
+    "id": "Q169",
+    "objective": "0008",
+    "area": 1,
+    "stem": "All four voices of a hymn setting move in the same rhythm, with the melody in the soprano. Which texture is this?",
+    "options": [
+      "monophony",
+      "heterophony",
+      "homorhythmic homophony",
+      "imitative polyphony"
+    ],
+    "answer": 2,
+    "rationale": "When all voices share one rhythm and support a single melody, the texture is homorhythmic homophony (chordal or chorale texture). Imitative polyphony staggers independent lines, heterophony combines simultaneous variants of one melody, and monophony has a single line."
+  },
+  {
+    "id": "Q170",
+    "objective": "0008",
+    "area": 1,
+    "stem": "A phrase in F major ends V–I with both chords in root position and F in the soprano of the final chord. Which cadence is this?",
+    "options": [
+      "perfect authentic cadence",
+      "half cadence",
+      "imperfect authentic cadence",
+      "plagal cadence"
+    ],
+    "answer": 0,
+    "rationale": "V–I with both chords in root position and the tonic in the soprano meets every condition of a perfect authentic cadence. An imperfect authentic cadence lacks one of those conditions, a half cadence ends on V, and a plagal cadence moves IV–I."
+  },
+  {
+    "id": "Q171",
+    "objective": "0009",
+    "area": 1,
+    "stem": "A movement presents a sixteen-measure melody and then restates it several times with changes in rhythm, mode, texture, and ornamentation while keeping its harmonic outline. Which form is this?",
+    "options": [
+      "sonata-allegro",
+      "rondo",
+      "through-composed form",
+      "theme and variations"
+    ],
+    "answer": 3,
+    "rationale": "Successive altered restatements of a complete theme over a stable harmonic framework define theme and variations. A rondo alternates a refrain with contrasting episodes, sonata-allegro develops themes across exposition, development, and recapitulation, and through-composed music continually presents new material."
+  },
+  {
+    "id": "Q172",
+    "objective": "0009",
+    "area": 1,
+    "stem": "A composer arranges all twelve chromatic pitch classes in a fixed order and derives melodies and chords from that order and its transformations. Which technique is used?",
+    "options": [
+      "minimalist phasing",
+      "modal mixture",
+      "twelve-tone serialism",
+      "aleatoric composition"
+    ],
+    "answer": 2,
+    "rationale": "Ordering all twelve pitch classes as a row and using its prime, retrograde, inversion, and retrograde-inversion forms is twelve-tone serialism. Phasing shifts repeated patterns out of alignment, aleatoric music leaves elements to chance, and modal mixture borrows chords from a parallel mode."
+  },
+  {
+    "id": "Q173",
+    "objective": "0009",
+    "area": 1,
+    "stem": "In a four-movement Classical symphony, which movement most typically uses a minuet and trio?",
+    "options": [
+      "the third movement",
+      "the fourth movement",
+      "the first movement",
+      "the second movement"
+    ],
+    "answer": 0,
+    "rationale": "The Classical symphony typically has a fast sonata-form first movement, a slow second movement, a minuet and trio third movement, and a fast finale, often in rondo or sonata form."
+  },
+  {
+    "id": "Q174",
+    "objective": "0009",
+    "area": 1,
+    "stem": "In a sonata-form exposition, the music reaches a half cadence followed by a brief silence just before the secondary theme. What is this articulation called?",
+    "options": [
+      "medial caesura",
+      "false recapitulation",
+      "codetta",
+      "retransition"
+    ],
+    "answer": 0,
+    "rationale": "The medial caesura is the break, usually after a half cadence in the new key or a dominant arrival, that divides the transition from the secondary theme. A codetta closes the exposition, a retransition prepares the recapitulation, and a false recapitulation returns the main theme in the wrong key."
+  },
+  {
+    "id": "Q175",
+    "objective": "0009",
+    "area": 1,
+    "stem": "Which formal plan represents a seven-part rondo?",
+    "options": [
+      "A–B–C–D–E",
+      "A–B–A",
+      "A–B–A–C–A–B–A",
+      "A–A–B–B"
+    ],
+    "answer": 2,
+    "rationale": "A seven-part rondo alternates a returning refrain (A) with episodes, typically A–B–A–C–A–B–A; when the middle C is developmental, it is called sonata-rondo. A–B–A is ternary, A–A–B–B is repeated binary, and A–B–C–D–E is through-composed."
+  },
+  {
+    "id": "Q176",
+    "objective": "0009",
+    "area": 1,
+    "stem": "A stately Polish dance in moderate 3/4 repeatedly uses the rhythm eighth–two sixteenths–eighth–eighth–eighth–eighth in its accompaniment. Which dance type is it?",
+    "options": [
+      "waltz",
+      "sarabande",
+      "polonaise",
+      "mazurka"
+    ],
+    "answer": 2,
+    "rationale": "The eighth–two-sixteenths figure followed by steady eighths in a moderate, processional 3/4 is the characteristic polonaise rhythm. The mazurka is also Polish and triple but emphasizes dotted rhythms and accents on beats 2 or 3; the waltz has an oom-pah-pah accompaniment; and the Baroque sarabande is slow, often stressing beat 2."
+  },
+  {
+    "id": "Q177",
+    "objective": "0009",
+    "area": 1,
+    "stem": "In a fugue, what is the term for a subject entry that begins before the previous entry has finished?",
+    "options": [
+      "tonal answer",
+      "episode",
+      "stretto",
+      "countersubject"
+    ],
+    "answer": 2,
+    "rationale": "Overlapping entries of the subject, with each entering before the previous one has ended, create stretto, often used to build intensity near the end of a fugue. An episode is a passage without a complete subject statement, a countersubject is a recurring counterpoint to the subject, and a tonal answer adjusts the subject’s intervals."
+  },
+  {
+    "id": "Q178",
+    "objective": "0009",
+    "area": 1,
+    "stem": "Which combination of features is most characteristic of reggae?",
+    "options": [
+      "banjo rolls, fiddle breaks, and high vocal harmony",
+      "offbeat chord \"skank,\" prominent bass, and a relaxed tempo",
+      "twelve-bar shuffle form with harmonica fills",
+      "clave-based piano montunos and brass mambos"
+    ],
+    "answer": 1,
+    "rationale": "Reggae emphasizes offbeat \"skank\" chords on guitar or keyboard, a prominent bass, drums often accenting beat 3 (the one-drop), and a laid-back tempo. Banjo rolls and fiddle describe bluegrass, montunos and mambos describe salsa, and the twelve-bar shuffle with harmonica describes blues."
+  },
+  {
+    "id": "Q179",
+    "objective": "0010",
+    "area": 2,
+    "stem": "An arranger wants an E-flat alto saxophone to sound concert C4. Which pitch should be written?",
+    "options": [
+      "A3",
+      "E-flat4",
+      "D4",
+      "A4"
+    ],
+    "answer": 3,
+    "rationale": "The E-flat alto saxophone sounds a major sixth lower than written, so the part is written a major sixth higher than concert pitch: C4 up a major sixth is A4. A3 is an octave too low, and E-flat4 and D4 do not reflect the alto saxophone transposition."
+  },
+  {
+    "id": "Q180",
+    "objective": "0010",
+    "area": 2,
+    "stem": "A concert-pitch band piece is in E-flat major. Which key signature should the B-flat clarinet part use?",
+    "options": [
+      "B-flat major (two flats)",
+      "D-flat major (five flats)",
+      "F major (one flat)",
+      "C major (no sharps or flats)"
+    ],
+    "answer": 2,
+    "rationale": "B-flat clarinet parts are written a major second higher than concert pitch. E-flat major transposed up a major second is F major, with one flat. D-flat major moves in the wrong direction, and C major and B-flat major apply other transpositions."
+  },
+  {
+    "id": "Q181",
+    "objective": "0010",
+    "area": 2,
+    "stem": "When writing a part for a typical high school tenor section, which range is most reliable?",
+    "options": [
+      "G2 to C4",
+      "E4 to A5",
+      "C4 to C6",
+      "C3 to G4"
+    ],
+    "answer": 3,
+    "rationale": "Most high school tenors sing comfortably from about C3 to G4, written in treble clef an octave higher than it sounds. C4–C6 and E4–A5 are treble ranges, and G2–C4 is better suited to basses."
+  },
+  {
+    "id": "Q182",
+    "objective": "0010",
+    "area": 2,
+    "stem": "A C-major melody ends with the scale degrees 2–1 (D to C) at its final cadence. Which harmonization creates the strongest final cadence?",
+    "options": [
+      "V or V7 under D, then I under C",
+      "ii under D, then vi under C",
+      "vi under D, then IV under C",
+      "IV under D, then V under C"
+    ],
+    "answer": 0,
+    "rationale": "D is a chord tone of V (G–B–D) and C is the root of I, so V(7)–I produces an authentic cadence. IV and vi do not contain D, V does not contain C, and ending on vi would create a deceptive effect rather than a strong close."
+  },
+  {
+    "id": "Q183",
+    "objective": "0010",
+    "area": 2,
+    "stem": "Students improvise by keeping the pitches of a familiar folk melody but changing its durations and adding syncopation. Which improvisational approach is this?",
+    "options": [
+      "modal transposition",
+      "adding neighbor notes",
+      "rhythmic variation",
+      "question and answer"
+    ],
+    "answer": 2,
+    "rationale": "Retaining the pitches while altering durations and adding syncopation is rhythmic variation. Question and answer pairs complementary phrases, neighbor notes embellish pitches, and modal transposition changes the scale."
+  },
+  {
+    "id": "Q184",
+    "objective": "0010",
+    "area": 2,
+    "stem": "A teacher asks students to embellish a melody by stepping to an adjacent pitch and back on selected long notes. Which improvisational technique is being practiced?",
+    "options": [
+      "call and response",
+      "adding neighbor notes",
+      "rhythmic augmentation",
+      "retrograde"
+    ],
+    "answer": 1,
+    "rationale": "Stepping away from a melody note to the adjacent scale step and returning embellishes it with neighbor notes. Augmentation lengthens durations, call and response alternates a leader and group, and retrograde reverses the order of the notes."
+  },
+  {
+    "id": "Q185",
+    "objective": "0010",
+    "area": 2,
+    "stem": "A teacher needs to produce a band arrangement from a concert score, with correctly transposed printed parts for each instrument. Which tool is most appropriate?",
+    "options": [
+      "an audio waveform editor",
+      "a chromatic tuner app",
+      "a loop-based beat-making app",
+      "music notation software"
+    ],
+    "answer": 3,
+    "rationale": "Notation software (for example, Finale, Sibelius, Dorico, MuseScore, or Noteflight) creates scores and automatically generates transposed parts. Waveform editors process recorded audio, tuners measure pitch, and loop-based apps assemble audio patterns rather than printed parts."
+  },
+  {
+    "id": "Q186",
+    "objective": "0010",
+    "area": 2,
+    "stem": "When adapting an orchestral piece for a middle school string orchestra, which adjustment is most appropriate?",
+    "options": [
+      "use familiar keys and low positions and simplify fast passages",
+      "add extended techniques to every part for a modern sound",
+      "transpose to a remote key to add harmonic color and challenge",
+      "give most melodic material to the double basses for contrast"
+    ],
+    "answer": 0,
+    "rationale": "School arrangements should match players’ technique: keys with familiar finger patterns (for example, D, G, or C major), lower positions, and simplified figuration while keeping the musical essence. Remote keys, bass-only melodies, and constant extended techniques would exceed or misuse student skills."
+  },
+  {
+    "id": "Q187",
+    "objective": "0010",
+    "area": 2,
+    "stem": "In four-part SATB writing, which doubling is most standard for a root-position major triad?",
+    "options": [
+      "omit the root",
+      "double the root",
+      "double the third",
+      "double the leading tone"
+    ],
+    "answer": 1,
+    "rationale": "In common-practice voice leading, the root of a root-position major triad is normally doubled. Doubling the third can weaken the sonority, doubling the leading tone creates resolution problems, and omitting the root obscures the chord’s identity."
+  },
+  {
+    "id": "Q188",
+    "objective": "0011",
+    "area": 2,
+    "stem": "Which description best explains how vocal tone is produced?",
+    "options": [
+      "the ribs vibrate to generate pitch that resonates in the chest",
+      "exhaled air vibrates the vocal folds, and the vocal tract resonates the tone",
+      "the diaphragm vibrates to create pitch, which the lungs then amplify",
+      "the tongue vibrates against the hard palate to produce the pitch"
+    ],
+    "answer": 1,
+    "rationale": "Singing coordinates breath (the actuator), vocal fold vibration in the larynx (the vibrator), and the vocal tract (the resonator), with articulators shaping vowels and consonants. The diaphragm manages breath but does not vibrate to create pitch, and the tongue and ribs do not generate the tone."
+  },
+  {
+    "id": "Q189",
+    "objective": "0011",
+    "area": 2,
+    "stem": "Which listing orders adult classical voice types from highest to lowest typical range?",
+    "options": [
+      "soprano, mezzo-soprano, contralto, tenor, baritone, bass",
+      "soprano, mezzo-soprano, tenor, contralto, baritone, bass",
+      "soprano, contralto, mezzo-soprano, tenor, bass, baritone",
+      "mezzo-soprano, soprano, contralto, baritone, tenor, bass"
+    ],
+    "answer": 0,
+    "rationale": "Female voices from highest are soprano, mezzo-soprano, and contralto; male voices are tenor, baritone, and bass. Each alternative misplaces at least one voice type."
+  },
+  {
+    "id": "Q190",
+    "objective": "0011",
+    "area": 2,
+    "stem": "During the adolescent male voice change, which observation is most typical?",
+    "options": [
+      "the voice usually completes its change before age eight",
+      "the range immediately expands upward by about an octave",
+      "the voice becomes steadily lighter, higher, and more stable",
+      "the comfortable range narrows and lowers, with breaks and instability"
+    ],
+    "answer": 3,
+    "rationale": "As the larynx grows during puberty, changing male voices often have a narrowed, shifting comfortable range, cracks between registers, and inconsistent pitch. The change usually occurs in early adolescence and lowers, rather than raises, the voice."
+  },
+  {
+    "id": "Q191",
+    "objective": "0011",
+    "area": 2,
+    "stem": "Which change is commonly associated with the adolescent female voice?",
+    "options": [
+      "a drop of about an octave in pitch",
+      "a sudden extension into the bass range",
+      "a complete loss of the head voice",
+      "breathiness and an audible register break"
+    ],
+    "answer": 3,
+    "rationale": "Adolescent girls often experience breathiness (from incomplete fold closure), register breaks, and reduced range or endurance. Unlike the male voice, the female voice lowers only slightly, and head voice remains available with healthy technique."
+  },
+  {
+    "id": "Q192",
+    "objective": "0011",
+    "area": 2,
+    "stem": "Which range is generally most appropriate for songs taught to kindergarten children?",
+    "options": [
+      "about A2 to E3",
+      "about C5 to C6",
+      "about G3 to D4",
+      "about D4 to A4"
+    ],
+    "answer": 3,
+    "rationale": "Young children generally sing most accurately in a limited, light head-voice range around D4 to A4 or B4. G3–D4 pushes children into a heavy speaking register, C5–C6 is too high for many beginners, and A2–E3 is an adult male range."
+  },
+  {
+    "id": "Q193",
+    "objective": "0011",
+    "area": 2,
+    "stem": "Which exercise most directly develops sustained breath management for singers?",
+    "options": [
+      "holding the breath behind a closed throat before each phrase",
+      "a silent, low inhalation followed by a steady hiss for longer counts",
+      "pushing the abdomen out forcefully on every note of a phrase",
+      "raising the shoulders and upper chest during each inhalation"
+    ],
+    "answer": 1,
+    "rationale": "A silent, low, expansive inhalation followed by a controlled, steady exhalation (such as a timed hiss) builds the coordination needed to sustain phrases. Raising the shoulders signals tense clavicular breathing, forceful pushing creates pressure, and holding the breath behind a closed throat causes glottal tension."
+  },
+  {
+    "id": "Q194",
+    "objective": "0011",
+    "area": 2,
+    "stem": "A choir’s tone sounds bright and spread on the vowel [i] (\"ee\") at a loud dynamic. Which strategy most effectively unifies the vowel?",
+    "options": [
+      "keep a taller mouth space and slightly round the lips",
+      "push more air through the vowel to increase volume",
+      "lower the soft palate to add nasal resonance",
+      "smile more widely to brighten the vowel further"
+    ],
+    "answer": 0,
+    "rationale": "Increasing vertical space and slight lip rounding modifies a spread [i] toward a darker, more unified vowel. More air pressure and wide smiling usually make the vowel brighter and less unified, and a lowered soft palate produces a nasal tone."
+  },
+  {
+    "id": "Q195",
+    "objective": "0011",
+    "area": 2,
+    "stem": "Many students in a third-grade class sing only in a low, speech-like range. Which activity best helps them find their head voice?",
+    "options": [
+      "vocal exploration with sirens and glides that move above the speaking range",
+      "singing songs at a louder dynamic in chest voice",
+      "lowering every song until all students sing comfortably below C4",
+      "speaking the lyrics rhythmically without pitch"
+    ],
+    "answer": 0,
+    "rationale": "Sirens, glides, and playful vocal exploration help children experience the lighter head-voice register above speech. Singing louder in chest voice and lowering keys reinforce the speech range, and rhythmic speech does not develop singing pitch."
+  },
+  {
+    "id": "Q196",
+    "objective": "0012",
+    "area": 2,
+    "stem": "Which bowed string instrument is normally tuned in fourths (E1–A1–D2–G2)?",
+    "options": [
+      "double bass",
+      "cello",
+      "violin",
+      "viola"
+    ],
+    "answer": 0,
+    "rationale": "The double bass is tuned in fourths, E–A–D–G, sounding an octave lower than written. The violin (G–D–A–E), viola (C–G–D–A), and cello (C–G–D–A) are tuned in fifths."
+  },
+  {
+    "id": "Q197",
+    "objective": "0012",
+    "area": 2,
+    "stem": "How does a player change pitch on a natural (valveless) brass instrument?",
+    "options": [
+      "by changing to a reed of a different strength",
+      "by moving a slide mute in and out of the bell",
+      "by adjusting lip tension and air speed to select partials",
+      "by covering and uncovering tone holes along the tube"
+    ],
+    "answer": 2,
+    "rationale": "Without valves or a slide, the tube length is fixed, so the player selects different overtones of the harmonic series by adjusting embouchure tension and air speed. Tone holes and reeds belong to woodwinds, and a mute changes timbre rather than selecting pitches."
+  },
+  {
+    "id": "Q198",
+    "objective": "0012",
+    "area": 2,
+    "stem": "A xylophone passage requires a bright, articulate sound. Which mallets are most appropriate?",
+    "options": [
+      "hard rubber mallets",
+      "wire brushes",
+      "soft yarn mallets",
+      "felt timpani mallets"
+    ],
+    "answer": 0,
+    "rationale": "Hard rubber or plastic mallets bring out the xylophone’s characteristic bright, crisp attack. Soft yarn mallets suit marimba or vibraphone warmth, felt timpani mallets are designed for drumheads, and brushes are used on snare drum or drum set."
+  },
+  {
+    "id": "Q199",
+    "objective": "0012",
+    "area": 2,
+    "stem": "Before students play a bordun accompaniment on Orff barred instruments, which preparation is most appropriate?",
+    "options": [
+      "teach the written notation before any speech or movement work",
+      "remove unneeded bars and rehearse the pattern as body percussion first",
+      "have students strike the bars with closed fists to feel the beat",
+      "leave all bars in place so students find notes by trial and error"
+    ],
+    "answer": 1,
+    "rationale": "Removing unneeded bars reduces errors and keeps the focus on the musical pattern, and transferring the motion from patschen (body percussion) to mallets follows the Orff sequence of speech and movement before instruments. Fists damage tone and bars, and notation-first teaching reverses the Orff sequence."
+  },
+  {
+    "id": "Q200",
+    "objective": "0012",
+    "area": 2,
+    "stem": "Which pair of instruments both use double reeds?",
+    "options": [
+      "oboe and clarinet",
+      "oboe and bassoon",
+      "clarinet and saxophone",
+      "flute and piccolo"
+    ],
+    "answer": 1,
+    "rationale": "The oboe, English horn, and bassoon are double-reed woodwinds. Clarinets and saxophones use a single reed on a mouthpiece, and flutes and piccolos have no reed; the player blows across an embouchure hole."
+  },
+  {
+    "id": "Q201",
+    "objective": "0012",
+    "area": 2,
+    "stem": "Which tuning, from the lowest string to the highest, is standard for a six-string guitar?",
+    "options": [
+      "G–D–A–E–B–E",
+      "E–A–D–G–B–E",
+      "E–A–D–G–C–F",
+      "D–G–C–F–A–D"
+    ],
+    "answer": 1,
+    "rationale": "Standard guitar tuning is E2–A2–D3–G3–B3–E4: fourths between adjacent strings except a major third between G and B. The alternatives use all fourths, string-family fifths, or a transposed pattern."
+  },
+  {
+    "id": "Q202",
+    "objective": "0012",
+    "area": 2,
+    "stem": "Before a timpani entrance in a new key, what should the timpanist do?",
+    "options": [
+      "strike near the center of the head for a fuller, deeper tone",
+      "tune each drum to the needed pitch, checking softly against a reference",
+      "tighten the snares beneath each drumhead before playing",
+      "play louder so that small pitch differences are covered by volume"
+    ],
+    "answer": 1,
+    "rationale": "Timpani are pitched drums that are retuned (usually with pedals) during rests, using a pitch reference and soft checking taps. Timpani have no snares, the center of the head produces a dead tone (players strike about a hand’s width from the rim), and volume does not correct pitch."
+  },
+  {
+    "id": "Q203",
+    "objective": "0012",
+    "area": 2,
+    "stem": "Which piano pedal sustains only the notes that are being held down at the moment the pedal is pressed?",
+    "options": [
+      "the sostenuto (middle) pedal",
+      "the damper (sustain) pedal",
+      "the practice (mute) rail",
+      "the una corda (soft) pedal"
+    ],
+    "answer": 0,
+    "rationale": "The sostenuto pedal holds the dampers off only for keys depressed when it is engaged, so later notes remain undamped only while held. The damper pedal lifts all dampers, the una corda shifts the action so the hammers strike fewer strings, and a practice rail muffles the sound."
+  },
+  {
+    "id": "Q204",
+    "objective": "0013",
+    "area": 2,
+    "stem": "In a standard three-beat conducting pattern, in which direction does beat 2 typically move?",
+    "options": [
+      "outward, away from the body (to the conductor’s right)",
+      "straight down",
+      "inward, across the body (to the conductor’s left)",
+      "straight up"
+    ],
+    "answer": 0,
+    "rationale": "The standard three pattern is down (1), out to the right (2), and up (3). Moving inward across the body characterizes beat 2 of the four pattern, beat 3 rebounds upward, and the downbeat moves straight down."
+  },
+  {
+    "id": "Q205",
+    "objective": "0013",
+    "area": 2,
+    "stem": "In a standard four-beat conducting pattern, in which direction does beat 3 typically move?",
+    "options": [
+      "straight down",
+      "straight up",
+      "outward, to the conductor’s right",
+      "inward, to the conductor’s left"
+    ],
+    "answer": 2,
+    "rationale": "The four pattern is down (1), inward to the left (2), outward to the right (3), and up (4). Beat 2 moves inward, beat 4 rises, and beat 1 descends."
+  },
+  {
+    "id": "Q206",
+    "objective": "0013",
+    "area": 2,
+    "stem": "Which left-hand gesture most clearly asks an ensemble for a gradual diminuendo?",
+    "options": [
+      "a palm-up hand slowly rising",
+      "a closed fist raised quickly",
+      "a palm-down hand slowly lowering",
+      "a rapid point toward one section"
+    ],
+    "answer": 2,
+    "rationale": "A palm facing down and gradually lowering is the conventional request to reduce volume over time. A raised fist suggests a cutoff or emphasis, pointing usually cues an entrance, and a rising palm-up hand asks for more sound."
+  },
+  {
+    "id": "Q207",
+    "objective": "0013",
+    "area": 2,
+    "stem": "A choir’s sopranos go flat on sustained high notes near the end of a long phrase. Which first strategy is most appropriate?",
+    "options": [
+      "ask the sopranos to sing those high notes as loudly as possible",
+      "transpose the piece up a whole step to brighten the soprano sound",
+      "remove the piano accompaniment so the sopranos can hear themselves",
+      "check breath support and breath points, and rehearse at a sustainable dynamic"
+    ],
+    "answer": 3,
+    "rationale": "Flatting late in long phrases often signals depleted breath, fatigue, or pressing. Planning breaths (or staggered breathing) and rebuilding support at a manageable dynamic addresses the cause. Louder singing usually worsens pressing, and transposing or removing accompaniment avoids the problem without diagnosing it."
+  },
+  {
+    "id": "Q208",
+    "objective": "0013",
+    "area": 2,
+    "stem": "A trumpet section plays with a pinched, thin tone in the upper register. Which strategy is most appropriate?",
+    "options": [
+      "switching immediately to the smallest available mouthpiece",
+      "lip slurs and long tones that stress faster air, not mouthpiece pressure",
+      "pressing the mouthpiece harder against the lips for security",
+      "avoiding the upper register for the rest of the school year"
+    ],
+    "answer": 1,
+    "rationale": "A pinched upper register usually results from excess pressure and insufficient air speed. Lip slurs and long tones build the coordinated embouchure and air needed for range. More pressure damages endurance and tone, a sudden mouthpiece change does not address technique, and avoidance prevents development."
+  },
+  {
+    "id": "Q209",
+    "objective": "0013",
+    "area": 2,
+    "stem": "Only the second violins struggle with a shifting passage that the rest of the orchestra plays well. Which rehearsal response is most efficient?",
+    "options": [
+      "repeat the entire movement several times without stopping to fix it",
+      "isolate the passage with that section, slow it down, then put it back in context",
+      "move the passage to the first violins for the concert performance",
+      "skip the passage until the dress rehearsal to save rehearsal time"
+    ],
+    "answer": 1,
+    "rationale": "Targeted, slow isolation of the problem with the section that needs it, followed by reintegration in context, uses rehearsal time efficiently. Full run-throughs do not address the specific technical issue, reassigning parts changes the score, and postponing practice leaves the problem unsolved."
+  },
+  {
+    "id": "Q210",
+    "objective": "0013",
+    "area": 2,
+    "stem": "When selecting choral repertoire for a concert, which set of criteria best reflects sound practice?",
+    "options": [
+      "works by a single composer, so the whole program feels unified",
+      "current popularity on social media, so students stay highly engaged",
+      "suitable ranges and tessitura, text quality, and stylistic and cultural variety",
+      "the length of each piece, so the full program fits the time slot"
+    ],
+    "answer": 2,
+    "rationale": "Selection should balance musical quality, the singers’ ranges and tessitura, meaningful texts, pedagogical goals, and stylistic and cultural variety. Length alone, popularity alone, and a single-composer program ignore the ensemble’s needs and educational value."
+  },
+  {
+    "id": "Q211",
+    "objective": "0013",
+    "area": 2,
+    "stem": "A pianist is accompanying an elementary choir that is learning a new song. Which approach is generally most supportive?",
+    "options": [
+      "play full, loud chords throughout every rehearsal to add energy",
+      "never play the melody, even on the first day the song is learned",
+      "play the melody clearly at first, then reduce it as singers gain independence",
+      "play the melody two octaves above the singers so it is easy to hear"
+    ],
+    "answer": 2,
+    "rationale": "Young singers benefit from hearing a clear melody while learning, then gradually gaining independence as the accompaniment shifts to harmonic support. Loud, dense chords cover the voices, omitting the melody from the start can leave beginners unsupported, and extreme octave displacement is hard to match."
+  },
+  {
+    "id": "Q212",
+    "objective": "0013",
+    "area": 2,
+    "stem": "At the end of a choral piece, a final chord is held under a fermata. How should the conductor release it?",
+    "options": [
+      "by turning toward the audience before the sound ends",
+      "by letting each singer release when out of breath",
+      "by abruptly stopping the beat without any preparation",
+      "with a clear preparatory motion followed by a visible cutoff"
+    ],
+    "answer": 3,
+    "rationale": "A release, like an entrance, needs a visible preparation followed by a decisive cutoff so the ensemble ends together. Unprepared stops, turning away, or individual releases produce ragged endings."
+  },
+  {
+    "id": "Q213",
+    "objective": "0014",
+    "area": 3,
+    "stem": "Which feature most clearly distinguishes Baroque instrumental music from Classical instrumental music?",
+    "options": [
+      "periodic phrasing in balanced antecedent–consequent pairs",
+      "an expanded orchestra with large brass sections and programmatic titles",
+      "the fortepiano replacing the harpsichord as the main keyboard",
+      "a continuous basso continuo and a single affect sustained through a movement"
+    ],
+    "answer": 3,
+    "rationale": "Baroque instrumental movements typically rely on basso continuo and project one prevailing affect with continuous motor rhythm. Balanced periodic phrasing and the rise of the fortepiano characterize the Classical style, and expanded orchestras with programmatic titles characterize Romanticism."
+  },
+  {
+    "id": "Q214",
+    "objective": "0014",
+    "area": 3,
+    "stem": "J. S. Bach’s church cantatas for Leipzig most directly reflect which context?",
+    "options": [
+      "Parisian public concert culture",
+      "nineteenth-century musical nationalism",
+      "Catholic Counter-Reformation demands for Latin polyphony",
+      "Lutheran worship, with chorales and texts tied to the church year"
+    ],
+    "answer": 3,
+    "rationale": "Bach wrote cantatas for Lutheran services in Leipzig, setting German texts for specific Sundays and feast days and often closing with chorales the congregation knew. The Counter-Reformation shaped Catholic music, Paris’s public concerts developed separately, and nationalism arose in the nineteenth century."
+  },
+  {
+    "id": "Q215",
+    "objective": "0014",
+    "area": 3,
+    "stem": "Mozart’s operas with librettos by Lorenzo Da Ponte, such as The Marriage of Figaro, are especially notable for which feature?",
+    "options": [
+      "realistic characters across social classes and plot-driving ensembles",
+      "spoken German dialogue between the separate musical numbers",
+      "mythological plots set in the strict opera seria style",
+      "leitmotifs that unify a continuous, through-composed music drama"
+    ],
+    "answer": 0,
+    "rationale": "The Da Ponte operas (Figaro, Don Giovanni, Così fan tutte) use opera buffa conventions to portray servants and aristocrats realistically, reflecting Enlightenment questions about class, with ensembles that drive the plot. Mythological opera seria, German Singspiel dialogue, and Wagnerian leitmotifs describe other genres."
+  },
+  {
+    "id": "Q216",
+    "objective": "0014",
+    "area": 3,
+    "stem": "Which genre is most associated with the nineteenth-century union of German poetry and piano accompaniment, as in Schubert and Schumann?",
+    "options": [
+      "the motet",
+      "the concerto grosso",
+      "the Lied (art song)",
+      "the madrigal"
+    ],
+    "answer": 2,
+    "rationale": "The Romantic Lied set German poetry for solo voice with an expressive piano part, often in song cycles such as Winterreise or Dichterliebe. The madrigal is a Renaissance secular part-song, the concerto grosso is a Baroque instrumental genre, and the motet is a sacred polyphonic vocal genre."
+  },
+  {
+    "id": "Q217",
+    "objective": "0014",
+    "area": 3,
+    "stem": "Which work, premiered in Paris in 1913, provoked controversy through its driving irregular rhythms, dissonant polytonality, and ritual ballet scenario?",
+    "options": [
+      "Stravinsky’s The Rite of Spring",
+      "Copland’s Appalachian Spring",
+      "Schoenberg’s Pierrot lunaire",
+      "Debussy’s Prelude to the Afternoon of a Faun"
+    ],
+    "answer": 0,
+    "rationale": "The Rite of Spring premiered with the Ballets Russes in 1913, and its percussive irregular meters, ostinatos, and dissonance caused a famous uproar. Debussy’s Prelude dates from 1894, Appalachian Spring from 1944, and Pierrot lunaire (1912) is a chamber melodrama using Sprechstimme."
+  },
+  {
+    "id": "Q218",
+    "objective": "0014",
+    "area": 3,
+    "stem": "Which eighteenth-century Afro-French violinist and conductor wrote symphonies concertantes and led one of Paris’s leading orchestras?",
+    "options": [
+      "Samuel Coleridge-Taylor",
+      "Ignatius Sancho",
+      "William Grant Still",
+      "Joseph Bologne (Saint-Georges)"
+    ],
+    "answer": 3,
+    "rationale": "Joseph Bologne, Chevalier de Saint-Georges, was a celebrated violinist, composer of concertos, symphonies concertantes, and string quartets, and director of the Concert des Amateurs and the Concert de la Loge Olympique in Paris. Ignatius Sancho was an Afro-British writer and composer of songs and dances in London, while Coleridge-Taylor and Still were active in the late nineteenth and twentieth centuries."
+  },
+  {
+    "id": "Q219",
+    "objective": "0014",
+    "area": 3,
+    "stem": "Fanny Mendelssohn Hensel is best known for which body of work?",
+    "options": [
+      "Lieder, piano pieces, and chamber music, often heard in salon concerts",
+      "Broadway musicals written in collaboration with leading lyricists",
+      "Baroque operas written for the public theaters of Venice",
+      "twelve-tone symphonies premiered by major European orchestras"
+    ],
+    "answer": 0,
+    "rationale": "Fanny Mendelssohn Hensel composed hundreds of works, especially songs, piano pieces such as Das Jahr, and chamber music, many performed at her family’s Berlin salon concerts, since social expectations limited her public career. The alternatives belong to other eras and genres."
+  },
+  {
+    "id": "Q220",
+    "objective": "0014",
+    "area": 3,
+    "stem": "George Gershwin’s Porgy and Bess (1935) is significant mainly because it does which of the following?",
+    "options": [
+      "fuses operatic form with jazz, blues, and spiritual idioms",
+      "revives the conventions of Baroque opera seria",
+      "presents the first opera made entirely of electronic sounds",
+      "uses twelve-tone rows as the basis for all melodies"
+    ],
+    "answer": 0,
+    "rationale": "Gershwin called Porgy and Bess a \"folk opera\"; it fuses operatic recitative and arias with African American musical idioms and raises enduring questions about representation. It is not electronic, does not revive opera seria, and is not serial."
+  },
+  {
+    "id": "Q221",
+    "objective": "0014",
+    "area": 3,
+    "stem": "After the Council of Trent, which concern most directly shaped late-Renaissance Catholic polyphony?",
+    "options": [
+      "the invention of basso continuo for solo singers",
+      "the introduction of the modern piano into cathedral services",
+      "the rise of the public symphony concert in Italian cities",
+      "clear declamation of the sacred text, as in Palestrina’s style"
+    ],
+    "answer": 3,
+    "rationale": "Council discussions about whether elaborate polyphony obscured liturgical texts encouraged clear declamation and restrained dissonance, epitomized by Palestrina. Basso continuo emerged around 1600, and public symphony concerts and the piano developed later."
+  },
+  {
+    "id": "Q222",
+    "objective": "0014",
+    "area": 3,
+    "stem": "Which composer wrote the Afro-American Symphony (1930), one of the first symphonies by a Black American composer performed by a major United States orchestra?",
+    "options": [
+      "Aaron Copland",
+      "William Grant Still",
+      "Duke Ellington",
+      "Florence Price"
+    ],
+    "answer": 1,
+    "rationale": "William Grant Still’s Afro-American Symphony, premiered by the Rochester Philharmonic in 1931, incorporates blues idioms. Florence Price’s Symphony in E Minor (1933, Chicago Symphony) was the first by a Black woman performed by a major orchestra, Ellington led a jazz orchestra, and Copland was not a Black composer."
+  },
+  {
+    "id": "Q223",
+    "objective": "0015",
+    "area": 3,
+    "stem": "Which instrumentation and texture are most characteristic of early New Orleans (Dixieland) jazz?",
+    "options": [
+      "a small combo playing rapid bebop lines over complex chord substitutions",
+      "collective improvisation by cornet, clarinet, and trombone over a rhythm section",
+      "large saxophone and brass sections playing written, riff-based arrangements",
+      "solo stride piano with a steady left-hand bass and no other ensemble"
+    ],
+    "answer": 1,
+    "rationale": "Early New Orleans jazz features simultaneous improvisation: cornet or trumpet carries the melody, clarinet weaves above it, and trombone provides lower counterlines over banjo or guitar, tuba or bass, and drums. Written saxophone sections describe swing big bands, stride is a solo piano style, and bebop emerged in the 1940s."
+  },
+  {
+    "id": "Q224",
+    "objective": "0015",
+    "area": 3,
+    "stem": "In the upper Midwest, polka bands with accordion, brass, and clarinet are most directly associated with which cultural history?",
+    "options": [
+      "Caribbean immigrant communities in New York City neighborhoods",
+      "Scots-Irish settlers in the Appalachian mountains",
+      "central European immigrants, such as Polish, Czech, and German",
+      "French-speaking Acadian settlers in southern Louisiana"
+    ],
+    "answer": 2,
+    "rationale": "Polka spread through Polish, Czech (Bohemian), Slovenian, and German immigrant communities in states such as Wisconsin, Minnesota, and Illinois, becoming a marker of ethnic identity at weddings, festivals, and dances. Appalachian, Cajun, and Caribbean communities developed different traditions."
+  },
+  {
+    "id": "Q225",
+    "objective": "0015",
+    "area": 3,
+    "stem": "Thomas A. Dorsey, who blended blues idioms with sacred texts in Chicago during the 1930s, is most closely associated with the development of which genre?",
+    "options": [
+      "bluegrass",
+      "gospel music",
+      "ragtime",
+      "barbershop"
+    ],
+    "answer": 1,
+    "rationale": "Dorsey, a former blues pianist, wrote songs such as \"Take My Hand, Precious Lord\" and organized gospel choirs and publishing in Chicago, earning the title \"father of gospel music.\" Bluegrass is an Appalachian string-band style, ragtime is a syncopated piano style from about 1900, and barbershop is close-harmony singing."
+  },
+  {
+    "id": "Q226",
+    "objective": "0015",
+    "area": 3,
+    "stem": "Which combination of influences most directly formed 1950s rock and roll?",
+    "options": [
+      "Gregorian chant blended with Baroque counterpoint",
+      "bossa nova rhythms blended with cool jazz",
+      "polka dance tunes blended with klezmer",
+      "rhythm and blues, country, and gospel with a backbeat"
+    ],
+    "answer": 3,
+    "rationale": "Rock and roll fused African American rhythm and blues and gospel with country and western, emphasizing a backbeat, electric guitar, and youth-oriented lyrics (for example, Chuck Berry, Little Richard, and Elvis Presley). The other pairs describe unrelated traditions."
+  },
+  {
+    "id": "Q227",
+    "objective": "0015",
+    "area": 3,
+    "stem": "In 1949, which term did the music industry adopt in place of \"race records\" for popular music made by and marketed to Black Americans?",
+    "options": [
+      "doo-wop",
+      "hip-hop music",
+      "rhythm and blues",
+      "soul music"
+    ],
+    "answer": 2,
+    "rationale": "Billboard magazine adopted \"rhythm and blues\" in 1949 to replace the \"race records\" chart label. Soul and doo-wop are later or narrower styles within that broader market, and hip-hop emerged in the 1970s."
+  },
+  {
+    "id": "Q228",
+    "objective": "0015",
+    "area": 3,
+    "stem": "Which description most clearly distinguishes bebop from swing?",
+    "options": [
+      "modal improvisation over slowly changing, static harmonies",
+      "collective improvisation led by cornet, clarinet, and trombone",
+      "large dance orchestras playing arranged riffs for dancing",
+      "small combos, fast tempos, and complex harmony meant for listening"
+    ],
+    "answer": 3,
+    "rationale": "Bebop (1940s; Charlie Parker, Dizzy Gillespie) shifted jazz to small groups, virtuosic improvisation, fast tempos, and extended or substituted harmonies for attentive listeners. Arranged dance orchestras describe swing, cornet-led collective improvisation describes early New Orleans jazz, and modal improvisation describes later modal jazz."
+  },
+  {
+    "id": "Q229",
+    "objective": "0015",
+    "area": 3,
+    "stem": "Which description best fits the American folk revival of the 1950s and 1960s associated with Pete Seeger and Joan Baez?",
+    "options": [
+      "electronic dance music produced for nightclub audiences",
+      "acoustic traditional and topical songs tied to social causes",
+      "Tin Pan Alley show tunes written for Broadway stages",
+      "Baroque repertoire performed on period instruments"
+    ],
+    "answer": 1,
+    "rationale": "The folk revival featured acoustic guitar, banjo, and group singing of traditional ballads and new topical songs, closely linked to civil rights and antiwar activism. The other options describe different genres or movements."
+  },
+  {
+    "id": "Q230",
+    "objective": "0015",
+    "area": 3,
+    "stem": "Besides acoustic and electric guitar, which instrument is most associated with the sound of classic honky-tonk and Nashville country music?",
+    "options": [
+      "bagpipes",
+      "sitar",
+      "harpsichord",
+      "pedal steel guitar"
+    ],
+    "answer": 3,
+    "rationale": "The pedal steel guitar, with its sliding, sustained, crying tone, is a signature country instrument, alongside fiddle. The sitar, bagpipes, and harpsichord are associated with other traditions."
+  },
+  {
+    "id": "Q231",
+    "objective": "0015",
+    "area": 3,
+    "stem": "Chicago blues of the late 1940s and 1950s, as played by Muddy Waters, is most distinguished from earlier Delta blues by which feature?",
+    "options": [
+      "orchestral strings and woodwinds in the studio",
+      "an unaccompanied solo voice with no instruments",
+      "electric guitar, amplified harmonica, bass, and drums",
+      "banjo and fiddle string-band accompaniment"
+    ],
+    "answer": 2,
+    "rationale": "Migrants from the Mississippi Delta brought the blues to Chicago and amplified it, adding electric guitar, amplified harmonica, piano, bass, and drums for noisy urban clubs. Delta blues was typically one singer with acoustic guitar; string bands and orchestras describe other styles."
+  },
+  {
+    "id": "Q232",
+    "objective": "0016",
+    "area": 3,
+    "stem": "Which Japanese masked theatre genre is accompanied by a flute and drums, with chanted text and slow, stylized movement?",
+    "options": [
+      "Beijing opera",
+      "Noh",
+      "Kathakali",
+      "wayang kulit"
+    ],
+    "answer": 1,
+    "rationale": "Noh is a Japanese masked drama accompanied by the hayashi ensemble (nohkan flute and three drums) and a chanting chorus. Beijing opera is Chinese, wayang kulit is Indonesian shadow-puppet theatre with gamelan, and Kathakali is Indian dance-drama."
+  },
+  {
+    "id": "Q233",
+    "objective": "0016",
+    "area": 3,
+    "stem": "Which features are most characteristic of Beijing (Peking) opera?",
+    "options": [
+      "stylized singing, acrobatics, symbolic makeup, and percussion",
+      "masked dance accompanied by a bronze gamelan",
+      "bagpipes and snare drums playing a slow, stately march for parades",
+      "steel pans accompanying topical calypso lyrics"
+    ],
+    "answer": 0,
+    "rationale": "Beijing opera combines high, stylized singing, acrobatic movement, color-coded face makeup, and an ensemble led by percussion (clappers, gongs, drums) and the jinghu fiddle. The other options describe Indonesian, Caribbean, and Scottish traditions."
+  },
+  {
+    "id": "Q234",
+    "objective": "0016",
+    "area": 3,
+    "stem": "In much West African ensemble drumming, what role does the repeating bell pattern (timeline) play?",
+    "options": [
+      "it signals only the end of the performance",
+      "it gives a reference pattern for the interlocking parts",
+      "it carries the principal melody of the song",
+      "it improvises freely without any set pattern from cycle to cycle"
+    ],
+    "answer": 1,
+    "rationale": "In traditions such as Ewe drumming, a bell plays a repeating timeline against which supporting drums interlock and the lead drum improvises and signals changes. The bell is not a melody instrument, does not merely signal endings, and keeps a steady pattern rather than improvising."
+  },
+  {
+    "id": "Q235",
+    "objective": "0016",
+    "area": 3,
+    "stem": "Balinese gamelan gong kebyar is especially known for which feature?",
+    "options": [
+      "slow, meditative solo improvisation over a drone",
+      "unaccompanied choral singing in close harmony",
+      "explosive contrasts and rapid interlocking figuration",
+      "a bowed string orchestra playing in unison"
+    ],
+    "answer": 2,
+    "rationale": "Kebyar (\"bursting forth\"), developed in the twentieth century, is famous for explosive contrasts and rapid interlocking parts divided between paired players. Solo improvisation over a drone suggests Indian classical music, and strings or unaccompanied choirs are not the basis of gamelan."
+  },
+  {
+    "id": "Q236",
+    "objective": "0016",
+    "area": 3,
+    "stem": "The bouzouki, a long-necked plucked lute, is most closely associated with which tradition?",
+    "options": [
+      "Andean panpipe music",
+      "Hawaiian slack-key",
+      "Japanese gagaku",
+      "Greek rebetiko"
+    ],
+    "answer": 3,
+    "rationale": "The bouzouki is central to Greek urban popular music, including rebetiko and laïko. Andean ensembles feature siku and charango, gagaku is Japanese court music, and slack-key is a Hawaiian guitar style."
+  },
+  {
+    "id": "Q237",
+    "objective": "0016",
+    "area": 3,
+    "stem": "In a Hindustani classical performance, which instrument typically accompanies the soloist by articulating the tala (rhythmic cycle)?",
+    "options": [
+      "tabla",
+      "sitar",
+      "tanpura",
+      "sarangi"
+    ],
+    "answer": 0,
+    "rationale": "The tabla, a pair of hand drums, plays the theka that marks the tala cycle and engages rhythmically with the soloist. The tanpura provides a drone, the sitar is a plucked melodic instrument, and the sarangi is a bowed melodic instrument."
+  },
+  {
+    "id": "Q238",
+    "objective": "0016",
+    "area": 3,
+    "stem": "Which instruments are most characteristic of Andean folk music from Peru and Bolivia?",
+    "options": [
+      "oud, darbuka, and qanun",
+      "siku panpipes, quena, and charango",
+      "djembe, kora, and balafon",
+      "koto, shakuhachi, and shamisen"
+    ],
+    "answer": 1,
+    "rationale": "Siku (panpipes), quena (notched end-blown flute), and charango (small guitar-like lute) are signature Andean instruments. Koto and shakuhachi are Japanese, djembe and kora are West African, and oud and darbuka are Middle Eastern and North African."
+  },
+  {
+    "id": "Q239",
+    "objective": "0016",
+    "area": 3,
+    "stem": "Arabic classical music organizes melody using which system?",
+    "options": [
+      "tone rows, the ordered twelve-note sets of serial technique",
+      "raga, the melodic framework of Hindustani music",
+      "maqam, modes that can include quarter-tone-like intervals",
+      "slendro and pelog, the tuning systems of gamelan"
+    ],
+    "answer": 2,
+    "rationale": "Arabic classical music uses the maqam system, whose modes include characteristic intervals and neutral seconds (about three-quarter tones) and guide improvisation such as the taqsim. Raga is the parallel Indian concept, slendro and pelog are Indonesian tunings, and tone rows are a Western serial technique."
+  },
+  {
+    "id": "Q240",
+    "objective": "0016",
+    "area": 3,
+    "stem": "In South Africa, the choral style isicathamiya, popularized by Ladysmith Black Mambazo, developed as which kind of music?",
+    "options": [
+      "electronic dance music produced for urban clubs",
+      "steel-band music performed for carnival parades",
+      "a cappella male choral singing of Zulu migrant workers",
+      "court music performed by bronze gong ensembles"
+    ],
+    "answer": 2,
+    "rationale": "Isicathamiya grew in hostels where Zulu migrant workers formed a cappella male choirs, with soft, tightly harmonized singing and choreographed steps that expressed community away from home. The other options describe Indonesian, Trinidadian, and electronic traditions."
+  },
+  {
+    "id": "Q241",
+    "objective": "0017",
+    "area": 3,
+    "stem": "Theobald Boehm’s mid-nineteenth-century redesign of the flute most directly improved which feature?",
+    "options": [
+      "the ability to play the flute with a single cane reed and mouthpiece",
+      "the use of rotary valves that lengthen the tube for chromatic notes",
+      "the change from a cylindrical bore to a double-reed conical bore",
+      "intonation and evenness, through acoustically placed tone holes and ring keys"
+    ],
+    "answer": 3,
+    "rationale": "Boehm placed and sized tone holes for acoustical accuracy and used a system of rings and keys so the fingers could close holes they could not reach, improving intonation, evenness, and agility. Flutes do not use reeds or valves."
+  },
+  {
+    "id": "Q242",
+    "objective": "0017",
+    "area": 3,
+    "stem": "Which design feature distinguished the early piano from the harpsichord?",
+    "options": [
+      "hammers strike the strings, so touch controls loudness",
+      "a rosined wheel bows the strings continuously",
+      "quills pluck the strings at a nearly fixed loudness",
+      "pipes are supplied with air from hand-pumped bellows"
+    ],
+    "answer": 0,
+    "rationale": "Cristofori’s pianoforte (about 1700) used hammers, allowing soft and loud playing through key velocity, hence the name. Harpsichords pluck the strings with quills (plectra) at nearly fixed volume, organs use pipes, and bowed keyboards are rare curiosities."
+  },
+  {
+    "id": "Q243",
+    "objective": "0017",
+    "area": 3,
+    "stem": "Which instrument, made commercially popular in the 1960s by Robert Moog, generates and shapes sound with voltage-controlled oscillators, filters, and amplifiers?",
+    "options": [
+      "the phonograph",
+      "the analog synthesizer",
+      "the electric guitar pickup",
+      "the magnetic tape recorder"
+    ],
+    "answer": 1,
+    "rationale": "Moog’s modular analog synthesizer used voltage control to create and shape electronic sound, influencing recordings from Switched-On Bach to progressive rock. A phonograph and a tape recorder reproduce recorded sound, and a pickup converts string vibrations into an electrical signal."
+  },
+  {
+    "id": "Q244",
+    "objective": "0017",
+    "area": 3,
+    "stem": "MIDI, introduced in 1983, allows electronic instruments and computers to do which of the following?",
+    "options": [
+      "transmit recorded audio waveforms between devices",
+      "store printed sheet music as scanned image files",
+      "exchange performance data such as notes, velocity, and timing",
+      "amplify unplugged acoustic instruments in a large concert hall"
+    ],
+    "answer": 2,
+    "rationale": "MIDI (Musical Instrument Digital Interface) is a protocol for event messages, such as note-on, note-off, velocity, and controller changes, not audio. A receiving device or software must generate the sound. It does not transmit audio, store images, or amplify sound."
+  },
+  {
+    "id": "Q245",
+    "objective": "0017",
+    "area": 3,
+    "stem": "Hip-hop producers who loop short excerpts of existing recordings as the foundation of new tracks are using which technique?",
+    "options": [
+      "MIDI quantization",
+      "pitch correction",
+      "click-track recording",
+      "sampling"
+    ],
+    "answer": 3,
+    "rationale": "Sampling digitally captures and reuses portions of existing recordings, often looped and layered, and raises copyright clearance questions. Quantization aligns MIDI timing, pitch correction adjusts intonation, and a click track is a metronome reference for recording."
+  },
+  {
+    "id": "Q246",
+    "objective": "0017",
+    "area": 3,
+    "stem": "How did multitrack tape recording in the 1950s and 1960s most directly change popular music production?",
+    "options": [
+      "parts could be overdubbed and mixed, making the studio a creative tool",
+      "recordings were restricted to live, single-microphone mono sound",
+      "all musicians had to record live together in a single complete take",
+      "editing and splicing recorded performances became impossible"
+    ],
+    "answer": 0,
+    "rationale": "Multitrack recording (pioneered by Les Paul and used extensively by the Beatles and others) allowed layering, overdubbing, and later mixing, turning the studio into a compositional instrument. It removed, rather than imposed, the need for single live takes."
+  },
+  {
+    "id": "Q247",
+    "objective": "0017",
+    "area": 3,
+    "stem": "Which effect of internet streaming and social media on music is best supported?",
+    "options": [
+      "copyright protection no longer applies to recorded music",
+      "acoustic instruments have become obsolete in music education",
+      "independent artists can distribute music worldwide without a label",
+      "live performance has largely disappeared from most communities"
+    ],
+    "answer": 2,
+    "rationale": "Digital distribution and social platforms lowered barriers to releasing and promoting music globally, changing how artists reach audiences and earn income. Live performance and acoustic instruments remain central, and copyright still applies to recordings and compositions."
+  },
+  {
+    "id": "Q248",
+    "objective": "0017",
+    "area": 3,
+    "stem": "Adolphe Sax’s saxophone, patented in the 1840s, combines which features?",
+    "options": [
+      "a single-reed mouthpiece with a conical metal body",
+      "a double reed with a cylindrical wooden body",
+      "a cup-shaped mouthpiece with valves",
+      "a whistle (fipple) mouthpiece with finger holes"
+    ],
+    "answer": 0,
+    "rationale": "The saxophone pairs a clarinet-like single reed and mouthpiece with a conical brass body and keys, which is why it is classified as a woodwind. Double reeds belong to the oboe family, cup mouthpieces and valves to brass, and fipples to recorders."
+  },
+  {
+    "id": "Q249",
+    "objective": "0018",
+    "area": 3,
+    "stem": "Which organization collects public-performance royalties on behalf of songwriters and music publishers?",
+    "options": [
+      "a performing rights organization, such as ASCAP",
+      "a national music therapy association",
+      "a regional guild of luthiers",
+      "a recording studio’s engineering staff"
+    ],
+    "answer": 0,
+    "rationale": "Performing rights organizations license public performances of compositions (on radio, streaming, and in venues) and distribute royalties to songwriters and publishers. Recording engineers capture and mix sound, music therapy associations certify clinicians, and luthiers build and repair string instruments."
+  },
+  {
+    "id": "Q250",
+    "objective": "0018",
+    "area": 3,
+    "stem": "A film composer assigns a recurring melodic idea to the hero and transforms it as the story develops. Which technique is being used?",
+    "options": [
+      "Mickey-Mousing",
+      "a stinger",
+      "diegetic source music",
+      "leitmotif"
+    ],
+    "answer": 3,
+    "rationale": "A leitmotif is a recurring musical idea tied to a character, place, or idea, varied to reflect dramatic change. Diegetic music is heard by the characters, Mickey-Mousing synchronizes music with on-screen motion, and a stinger is a short accent for a sudden moment."
+  },
+  {
+    "id": "Q251",
+    "objective": "0018",
+    "area": 3,
+    "stem": "Why do advertisers often use short, repetitive melodies that include a brand name in the lyrics?",
+    "options": [
+      "short melodies are required by federal broadcast rules",
+      "music removes the need for any visual images in the ad",
+      "a repeated, memorable hook builds brand recognition and recall",
+      "repetitive melodies cannot be protected by copyright law"
+    ],
+    "answer": 2,
+    "rationale": "Commercial jingles use catchy hooks, repetition, and the brand name so listeners associate the music with the product and remember it. Jingles are copyrighted, accompany rather than replace visuals, and are not required by law."
+  },
+  {
+    "id": "Q252",
+    "objective": "0018",
+    "area": 3,
+    "stem": "The rise of punk rock in the mid-1970s is best understood as a response to which conditions?",
+    "options": [
+      "the recent invention of the phonograph and gramophone",
+      "economic frustration and rejection of polished, elaborate rock",
+      "a revival of aristocratic court patronage of musicians",
+      "the new standardization of equal-temperament tuning"
+    ],
+    "answer": 1,
+    "rationale": "Punk emerged in New York and London amid unemployment and disillusionment, rejecting virtuosic progressive and arena rock in favor of short, loud, simple songs and independent production. The other events are unrelated or occurred much earlier."
+  },
+  {
+    "id": "Q253",
+    "objective": "0018",
+    "area": 3,
+    "stem": "A student wants a career using music-based interventions to address clients’ clinical goals in hospitals and schools. Which career and credential fit best?",
+    "options": [
+      "orchestral arranger, with musicians’ union membership",
+      "music librarian, with a library science degree only",
+      "acoustician, with an engineering or physics degree",
+      "music therapist, with a degree and MT-BC certification"
+    ],
+    "answer": 3,
+    "rationale": "Music therapists use clinical, evidence-based music interventions; in the United States they complete an approved music therapy degree, an internship, and the board-certification exam (MT-BC). The other careers do not address clinical goals."
+  },
+  {
+    "id": "Q254",
+    "objective": "0018",
+    "area": 3,
+    "stem": "Work songs sung by laborers in call-and-response form most directly serve which function?",
+    "options": [
+      "coordinating labor and building group solidarity",
+      "accompanying the formal liturgy of church services",
+      "demonstrating individual virtuosity in contests",
+      "entertaining paying audiences at formal concerts"
+    ],
+    "answer": 0,
+    "rationale": "Work songs synchronize repetitive tasks, pace effort, and create community and shared expression, often through a leader’s call and a group response. They are not primarily concert entertainment, competition pieces, or liturgy."
+  },
+  {
+    "id": "Q255",
+    "objective": "0018",
+    "area": 3,
+    "stem": "When a national anthem is sung by a crowd at a sporting event, the music primarily serves which function?",
+    "options": [
+      "showcasing new compositional techniques",
+      "providing background for commercial advertising",
+      "training singers in advanced vocal technique",
+      "expressing shared civic identity and unity"
+    ],
+    "answer": 3,
+    "rationale": "Anthems are ceremonial music that symbolize the nation and invite collective participation and shared identity. Their function at public events is communal and symbolic rather than innovative, commercial, or pedagogical."
+  },
+  {
+    "id": "Q256",
+    "objective": "0018",
+    "area": 3,
+    "stem": "Which professional is responsible for preparing, organizing, and maintaining the performance parts used by an orchestra?",
+    "options": [
+      "orchestra librarian",
+      "stage manager",
+      "box office manager",
+      "concertmaster"
+    ],
+    "answer": 0,
+    "rationale": "The orchestra librarian acquires, marks (bowings, cuts), distributes, and maintains scores and parts. The concertmaster leads the first violins and tunes the orchestra, the stage manager handles stage logistics, and the box office manages ticketing."
+  },
+  {
+    "id": "Q257",
+    "objective": "0019",
+    "area": 4,
+    "stem": "Which sequence reflects a Kodály-based approach to introducing a new rhythm?",
+    "options": [
+      "show the notation first, then name it, then sing songs that contain it",
+      "teach the new rhythm through recorder method books and drills only",
+      "name the rhythm and test students on it before they experience it",
+      "prepare through singing and movement, name it, then read and write it"
+    ],
+    "answer": 3,
+    "rationale": "The Kodály sequence moves from experience (prepare) through labeling (make conscious) to reinforcement in reading, writing, and improvisation (practice). Introducing notation or testing before experience reverses that sequence, and recorder books are not the Kodály core."
+  },
+  {
+    "id": "Q258",
+    "objective": "0019",
+    "area": 4,
+    "stem": "Which instructional sequence is most characteristic of Orff Schulwerk?",
+    "options": [
+      "Curwen hand signs used alone, without any instruments or movement",
+      "speech and body percussion, then barred instruments and improvisation",
+      "notation reading first, then singing, then guided listening activities",
+      "recorder method books followed by written tests on note names"
+    ],
+    "answer": 1,
+    "rationale": "Orff Schulwerk begins with speech, rhyme, movement, and body percussion, transfers patterns to unpitched and barred instruments, and builds toward improvisation and creation. Notation-first teaching and test-centered method books are not Orff principles, and hand signs are associated with Kodály."
+  },
+  {
+    "id": "Q259",
+    "objective": "0019",
+    "area": 4,
+    "stem": "In Dalcroze eurhythmics, students primarily develop musical understanding through which activity?",
+    "options": [
+      "whole-body movement in response to improvised music",
+      "barred-instrument ostinatos with speech patterns",
+      "reading guitar tablature and chord diagrams",
+      "Curwen hand signs paired with movable-do solfège"
+    ],
+    "answer": 0,
+    "rationale": "Dalcroze eurhythmics uses movement in response to the teacher’s improvisation to internalize beat, meter, phrasing, and dynamics, alongside solfège and improvisation. Hand signs are Kodály, barred-instrument ostinatos are Orff, and tablature is unrelated."
+  },
+  {
+    "id": "Q260",
+    "objective": "0019",
+    "area": 4,
+    "stem": "In Edwin Gordon’s Music Learning Theory, what does \"audiation\" mean?",
+    "options": [
+      "reading rhythms aloud using a system of counting syllables",
+      "singing a song back immediately after hearing it by rote",
+      "hearing and understanding music in the mind without sound present",
+      "memorizing the letter names of notes on the treble staff"
+    ],
+    "answer": 2,
+    "rationale": "Gordon defines audiation as the ability to hear and understand music internally, the musical counterpart to thinking in language. Rote imitation, rhythm syllables, and note-name memorization may support it but are not audiation itself."
+  },
+  {
+    "id": "Q261",
+    "objective": "0019",
+    "area": 4,
+    "stem": "A teacher using Kodály-style rhythm syllables wants to label a pair of eighth notes. Which syllables are typical?",
+    "options": [
+      "ta-a",
+      "ta",
+      "ti-ka-ti-ka",
+      "ti-ti"
+    ],
+    "answer": 3,
+    "rationale": "In common Kodály practice, a quarter note is \"ta,\" a pair of eighths is \"ti-ti,\" a half note is \"ta-a,\" and four sixteenths are \"ti-ka-ti-ka.\""
+  },
+  {
+    "id": "Q262",
+    "objective": "0019",
+    "area": 4,
+    "stem": "Which elementary classroom instrument is a pitched idiophone with removable bars?",
+    "options": [
+      "soprano ukulele",
+      "alto xylophone",
+      "conga drum",
+      "chorded autoharp"
+    ],
+    "answer": 1,
+    "rationale": "Orff xylophones and metallophones are pitched idiophones whose bars can be removed to limit pitch choices. A conga is a membranophone (struck drumhead), and the ukulele and autoharp are chordophones (vibrating strings)."
+  },
+  {
+    "id": "Q263",
+    "objective": "0019",
+    "area": 4,
+    "stem": "When teaching a new song by rote to second graders, which approach is most effective?",
+    "options": [
+      "speak all of the words many times before adding any melody",
+      "teach the whole song at once and sing it repeatedly from the start",
+      "have students read the full score before hearing it",
+      "teach it phrase by phrase with echo singing, then combine the phrases"
+    ],
+    "answer": 3,
+    "rationale": "Rote teaching works best when students hear the whole song, echo short phrases with clear cues, and then link phrases. Reading a full score is inappropriate for young beginners, and singing the whole song repeatedly or speaking all the words delays focused pitch learning."
+  },
+  {
+    "id": "Q264",
+    "objective": "0019",
+    "area": 4,
+    "stem": "A fifth-grade beginning band is starting its first weeks. Which lesson focus is most appropriate?",
+    "options": [
+      "full concert literature beginning on the first day",
+      "developing the upper register before other skills",
+      "posture, breathing, and tone on a few comfortable pitches",
+      "all twelve major scales within the first week"
+    ],
+    "answer": 2,
+    "rationale": "Beginning instruction establishes fundamentals (instrument assembly, posture, hand position, breath, embouchure, and tone) on a small set of comfortable pitches, adding range and rhythms gradually. The alternatives overload beginners and risk poor habits."
+  },
+  {
+    "id": "Q265",
+    "objective": "0019",
+    "area": 4,
+    "stem": "Which technology use is most appropriate for second graders exploring composition?",
+    "options": [
+      "an audio mastering suite designed for commercial releases",
+      "an age-appropriate app for arranging and hearing icon-based patterns",
+      "engraving software that requires full standard notation entry",
+      "a professional digital audio workstation with complex signal routing"
+    ],
+    "answer": 1,
+    "rationale": "Young composers benefit from visual, intuitive tools where they can manipulate and hear sound patterns before standard notation. Professional DAWs, engraving software, and mastering tools demand skills beyond typical second graders."
+  },
+  {
+    "id": "Q266",
+    "objective": "0020",
+    "area": 4,
+    "stem": "A high school band’s balance is top-heavy, with melodies covering the inner and bass parts. Which approach best develops ensemble balance?",
+    "options": [
+      "remove the bass parts from the arrangement to simplify the texture",
+      "build a \"pyramid of sound,\" with players listening down to the bass",
+      "ask the melody players to play even louder so the tune is clear",
+      "move the low brass to the back of the room so they are softer"
+    ],
+    "answer": 1,
+    "rationale": "A balance pyramid builds a foundation from the low voices so upper parts sit on top. Students learn to listen to the bass line and adjust. Louder melody worsens the imbalance, and moving or removing the bass parts weakens the foundation."
+  },
+  {
+    "id": "Q267",
+    "objective": "0020",
+    "area": 4,
+    "stem": "Which practice most effectively builds sight-reading skill in a high school choir?",
+    "options": [
+      "listening to recordings of each piece before rehearsal",
+      "brief, daily, sequenced sight-reading with solfège on unfamiliar material",
+      "learning every part by ear from the piano",
+      "occasional reading of concert music after it is learned by rote"
+    ],
+    "answer": 1,
+    "rationale": "Sight-reading improves through regular, systematic practice with new material that increases in difficulty, using a consistent system such as movable-do solfège. Reading already-learned music, recordings, and rote piano learning do not develop independent reading."
+  },
+  {
+    "id": "Q268",
+    "objective": "0020",
+    "area": 4,
+    "stem": "Which repertoire choice best fits a seventh-grade choir with many boys whose voices are changing?",
+    "options": [
+      "SATB works with tenor parts that extend up to A4",
+      "adult SSAA works written in high, sustained tessituras",
+      "three-part music with a narrow-range cambiata or baritone part",
+      "solo operatic arias assigned to each choir section"
+    ],
+    "answer": 2,
+    "rationale": "Changing voices need parts with narrow ranges and appropriate tessituras, such as cambiata or baritone parts in three-part mixed literature. High tenor parts, adult treble literature, and operatic arias exceed or exclude changing voices."
+  },
+  {
+    "id": "Q269",
+    "objective": "0020",
+    "area": 4,
+    "stem": "Students in a high school music appreciation class have little performance experience. Which activity best builds active listening?",
+    "options": [
+      "listening maps that ask students to track form and instrumentation",
+      "watching a concert video without any prompts or listening tasks",
+      "a lecture focused only on composers’ birth and death dates",
+      "copying definitions of musical terms from a glossary"
+    ],
+    "answer": 0,
+    "rationale": "Guided listening with specific targets keeps students actively tracking musical events and builds vocabulary in context. Dates, copying definitions, and unstructured viewing do not focus attention on the sound."
+  },
+  {
+    "id": "Q270",
+    "objective": "0020",
+    "area": 4,
+    "stem": "In a la-based minor system using movable do, which syllable names the tonic of a minor key?",
+    "options": [
+      "do",
+      "mi",
+      "la",
+      "re"
+    ],
+    "answer": 2,
+    "rationale": "In la-based minor, the minor tonic is sung \"la,\" preserving relative-major relationships (do remains the relative major tonic). Do-based minor, an alternative system, would sing the tonic as \"do\" with altered syllables."
+  },
+  {
+    "id": "Q271",
+    "objective": "0020",
+    "area": 4,
+    "stem": "Which resource is most appropriate for selecting quality graded literature for a middle school band?",
+    "options": [
+      "a state or professional graded list, checked against scores",
+      "whichever pieces have the lowest purchase price",
+      "only the most frequently downloaded pieces online",
+      "only pieces the director played in college"
+    ],
+    "answer": 0,
+    "rationale": "Graded lists from state associations and professional organizations identify quality literature at specified difficulty levels, and directors should review scores and recordings against their students’ needs. Popularity, personal history, and price alone do not ensure quality or fit."
+  },
+  {
+    "id": "Q272",
+    "objective": "0020",
+    "area": 4,
+    "stem": "A high school music technology class will record ensemble rehearsals so students can analyze balance and intonation. Which tool is most appropriate?",
+    "options": [
+      "notation software for engraving individual parts",
+      "a stand-alone metronome app for tempo practice",
+      "a chromatic tuner clipped to each instrument",
+      "a digital audio workstation for recording and playback"
+    ],
+    "answer": 3,
+    "rationale": "A digital audio workstation (DAW) records, plays back, and edits audio so students can compare sections, balance, and tuning. Notation software engraves scores, and metronomes and tuners measure tempo or pitch in the moment without recording."
+  },
+  {
+    "id": "Q273",
+    "objective": "0020",
+    "area": 4,
+    "stem": "Which sequence best introduces improvisation to a high school jazz band?",
+    "options": [
+      "learn the blues form and scale, imitate solos, then trade short phrases",
+      "require full transcriptions of recorded solos before any playing",
+      "postpone improvisation until students can read any chart at sight",
+      "begin with free improvisation over the fastest bebop standards"
+    ],
+    "answer": 0,
+    "rationale": "Structured entry points (a familiar form, a limited pitch set, aural imitation of models, and short phrase trading) lower anxiety and build vocabulary. Rapid harmonic standards, full transcriptions, and postponing improvisation are poor starting points."
+  },
+  {
+    "id": "Q274",
+    "objective": "0020",
+    "area": 4,
+    "stem": "A middle school band misreads sixteenth-note patterns. Which counting approach is most effective?",
+    "options": [
+      "change to a different counting system every week",
+      "rely only on rote imitation without any notation",
+      "use one beat-based system, such as 1-e-&-a, with a steady pulse",
+      "count only the quarter-note beats and ignore subdivisions"
+    ],
+    "answer": 2,
+    "rationale": "A single, consistent counting system that relates each subdivision to the beat helps students decode and perform rhythms accurately. Counting only quarters ignores subdivision, frequently changing systems causes confusion, and rote-only learning does not develop reading."
+  },
+  {
+    "id": "Q275",
+    "objective": "0021",
+    "area": 4,
+    "stem": "Before setting individual growth targets for sight-singing, what should a teacher do first?",
+    "options": [
+      "collect baseline data with a common pre-assessment",
+      "wait until the spring concert to assess",
+      "set the same final target for every student without data",
+      "base the targets on attendance records"
+    ],
+    "answer": 0,
+    "rationale": "Growth targets require a starting point. A common pre-assessment provides baseline data for each student so targets are realistic and growth can be measured against the same task later. Uniform targets, delayed assessment, and attendance do not measure the skill."
+  },
+  {
+    "id": "Q276",
+    "objective": "0021",
+    "area": 4,
+    "stem": "Which learning goal for a middle school choir is most measurable?",
+    "options": [
+      "Students will sing an eight-measure melody on solfège with 90% pitch accuracy.",
+      "Students will develop a deep and lasting appreciation of choral music.",
+      "Students will understand rhythm in a variety of songs.",
+      "Students will enjoy singing in parts with their classmates."
+    ],
+    "answer": 0,
+    "rationale": "A measurable goal names an observable behavior, the conditions, and a criterion for success. Appreciate, understand, and enjoy are not directly observable or measured without further definition."
+  },
+  {
+    "id": "Q277",
+    "objective": "0021",
+    "area": 4,
+    "stem": "Which practice most improves the reliability of scores on student performance assessments?",
+    "options": [
+      "a detailed rubric with anchor recordings and calibrated scorers",
+      "scoring each performance from memory after class ends",
+      "letting each student choose the criteria for the grade",
+      "adjusting the scoring criteria separately for each student"
+    ],
+    "answer": 0,
+    "rationale": "Reliability means consistent scoring. Clear criteria, anchor examples of each level, and scorer calibration reduce variation between raters and occasions. Scoring from memory and changing or self-selected criteria reduce consistency."
+  },
+  {
+    "id": "Q278",
+    "objective": "0021",
+    "area": 4,
+    "stem": "A teacher measures students’ improvisation ability with a written test of scale spellings. What is the main weakness of this assessment?",
+    "options": [
+      "too many items for the time available",
+      "low validity, because the test does not measure improvisation",
+      "excessive difficulty for most students",
+      "low reliability, because written tests cannot be scored"
+    ],
+    "answer": 1,
+    "rationale": "Validity concerns whether an assessment measures what it claims to measure. Scale spelling may support improvisation, but only an improvisation performance task directly assesses it. Written tests can be scored reliably, and the issue is not length or difficulty."
+  },
+  {
+    "id": "Q279",
+    "objective": "0021",
+    "area": 4,
+    "stem": "Which is an example of formative assessment during a rehearsal?",
+    "options": [
+      "sections play a passage alone while the director gives specific feedback",
+      "a standardized written exam given at the end of the school year",
+      "a semester grade based entirely on the final winter concert",
+      "a juried recital performed by each student at the end of the program"
+    ],
+    "answer": 0,
+    "rationale": "Formative assessment gathers evidence during learning to adjust instruction and guide students, as with quick section checks and feedback. Final concerts, end-of-year exams, and juried recitals are summative."
+  },
+  {
+    "id": "Q280",
+    "objective": "0021",
+    "area": 4,
+    "stem": "Which measurement approach best shows individual student growth over a school year?",
+    "options": [
+      "comparing each student’s pre- and post-scores on the same rubric",
+      "counting the number of rehearsals each student attended",
+      "using only the ensemble’s final contest rating as evidence",
+      "comparing one student’s single score with the class average"
+    ],
+    "answer": 0,
+    "rationale": "Growth is change within the same student over time, measured with comparable tasks and criteria at the beginning and end. A single score compared with peers shows status, attendance is not achievement, and ensemble ratings do not show individual growth."
+  },
+  {
+    "id": "Q281",
+    "objective": "0021",
+    "area": 4,
+    "stem": "Assessment data show that most students sing in tune but cannot identify the meter of listening examples. What is the most appropriate instructional modification?",
+    "options": [
+      "repeat the same in-tune singing drills for several more weeks",
+      "add movement and conducting activities that target beat grouping",
+      "give the same listening test again without further instruction",
+      "remove meter identification from the curriculum for the year"
+    ],
+    "answer": 1,
+    "rationale": "Data should direct instruction to the identified gap. Movement and conducting help students physically feel strong and weak beats and their groupings. Continuing mastered drills, dropping the objective, or retesting without instruction does not address the need."
+  },
+  {
+    "id": "Q282",
+    "objective": "0021",
+    "area": 4,
+    "stem": "Which strategy most effectively involves students in assessing their own performance?",
+    "options": [
+      "students compare their grades with those of their classmates",
+      "students rate their own effort from memory, without any criteria",
+      "students record themselves and evaluate it with a criteria checklist",
+      "the teacher assigns performance grades without any explanation"
+    ],
+    "answer": 2,
+    "rationale": "Self-assessment is most useful when students evaluate concrete evidence (such as a recording) against clear criteria, then set goals. Memory-based ratings, unexplained grades, and peer comparisons do not develop self-evaluation skills."
+  },
+  {
+    "id": "Q283",
+    "objective": "0021",
+    "area": 4,
+    "stem": "A scoring tool rates tone, rhythm, and pitch separately, with a description of performance at each level for each criterion. Which type of tool is it?",
+    "options": [
+      "a norm-referenced test",
+      "an attendance record",
+      "a holistic rubric",
+      "an analytic rubric"
+    ],
+    "answer": 3,
+    "rationale": "An analytic rubric scores multiple criteria separately with level descriptors, yielding diagnostic information. A holistic rubric gives one overall score, a norm-referenced test compares students with a norm group, and attendance records do not assess performance."
+  },
+  {
+    "id": "Q284",
+    "objective": "0022",
+    "area": 4,
+    "stem": "When a composer balances recurring themes with contrasting sections so a work is both coherent and interesting, which aesthetic principle is illustrated?",
+    "options": [
+      "perspective",
+      "realism",
+      "unity and variety",
+      "chiaroscuro"
+    ],
+    "answer": 2,
+    "rationale": "Unity and variety is a principle shared across the arts: repetition creates coherence, while contrast sustains interest. Realism concerns lifelike representation, and perspective and chiaroscuro are visual-art techniques for depth and light."
+  },
+  {
+    "id": "Q285",
+    "objective": "0022",
+    "area": 4,
+    "stem": "The term \"texture\" is used in both music and visual art. How do its meanings differ?",
+    "options": [
+      "in music it means layering of sounds; in visual art, surface quality",
+      "it has exactly the same meaning in both music and visual art",
+      "in music it refers only to dynamics; in visual art, only to size",
+      "in music it refers only to tempo; in visual art, only to color"
+    ],
+    "answer": 0,
+    "rationale": "Musical texture describes the number and relationship of simultaneous lines (monophonic, homophonic, polyphonic). Visual texture describes how a surface feels or appears to feel. The term is shared but not identical, and it does not refer to tempo, color, dynamics, or size."
+  },
+  {
+    "id": "Q286",
+    "objective": "0022",
+    "area": 4,
+    "stem": "Which feedback on a student composition best uses music vocabulary to evaluate the work?",
+    "options": [
+      "It is really nice, and I liked it a lot more than the last one we heard.",
+      "It sounds like a song I have heard before, so it is not very creative.",
+      "The ABA form is clear, but B stays in A’s register; more range contrast would help.",
+      "It is too long and kind of boring, so it should probably be shorter."
+    ],
+    "answer": 2,
+    "rationale": "Effective evaluation names specific musical elements (form, register, contrast), identifies strengths and weaknesses, and suggests a revision. The other comments are vague personal reactions without musical evidence."
+  },
+  {
+    "id": "Q287",
+    "objective": "0022",
+    "area": 4,
+    "stem": "Which art form most fully combines music, drama, visual design, and often dance in a single work?",
+    "options": [
+      "string quartet",
+      "opera",
+      "symphony",
+      "étude"
+    ],
+    "answer": 1,
+    "rationale": "Opera integrates singing, orchestral music, staged drama, sets, costumes, lighting, and often ballet. A string quartet, symphony, and étude are purely instrumental genres."
+  },
+  {
+    "id": "Q288",
+    "objective": "0022",
+    "area": 4,
+    "stem": "Which lesson most authentically integrates music and mathematics?",
+    "options": [
+      "students color a worksheet of notes and rests during their math period",
+      "students listen quietly to background music while completing math drills",
+      "students calculate note-value fractions to fill measures, then perform them",
+      "students sing a counting song without discussing any related math concepts"
+    ],
+    "answer": 2,
+    "rationale": "Authentic integration develops meaningful concepts in both disciplines: fractional relationships of durations and their application in meter, confirmed through performance. The other options treat one subject superficially or as background."
+  },
+  {
+    "id": "Q289",
+    "objective": "0022",
+    "area": 4,
+    "stem": "Which outcome of ensemble participation relates most directly to social-emotional development?",
+    "options": [
+      "improving keyboarding speed by typing program notes for the next concert",
+      "memorizing the birth and death dates of major composers for a written quiz",
+      "solving algebraic equations that describe the frequencies of the overtone series",
+      "practicing collaboration, group responsibility, and managing performance anxiety"
+    ],
+    "answer": 3,
+    "rationale": "Ensembles require cooperation, interdependence, perseverance, and emotional self-regulation during performance, all social-emotional competencies. The other options are unrelated academic or technical skills."
+  },
+  {
+    "id": "Q290",
+    "objective": "0022",
+    "area": 4,
+    "stem": "Which rationale for including music in general education is most consistent with the National Core Arts Standards?",
+    "options": [
+      "music is justified only by gains on other subjects’ test scores",
+      "music serves mainly as entertainment for school assemblies and events",
+      "music should be taught only to students with exceptional talent",
+      "music is a distinct way of knowing that all students should learn"
+    ],
+    "answer": 3,
+    "rationale": "The National Core Arts Standards are organized around the artistic processes of creating, performing, responding, and connecting, for all students. Talent-only access, purely extrinsic justification, and an entertainment role undervalue music as a discipline."
+  },
+  {
+    "id": "Q291",
+    "objective": "0022",
+    "area": 4,
+    "stem": "A philosopher argues that music’s value lies in its relationships of melody, harmony, and form rather than in emotions or stories it represents. Which aesthetic position is this?",
+    "options": [
+      "expressionism",
+      "referentialism",
+      "praxialism",
+      "formalism (absolutism)"
+    ],
+    "answer": 3,
+    "rationale": "Formalism locates musical meaning in the work’s internal structures. Referentialism finds meaning in extra-musical references (stories, images), expressionism emphasizes the embodiment of feeling, and praxialism emphasizes music as human activity in context."
+  },
+  {
+    "id": "Q292",
+    "objective": "0023",
+    "area": 4,
+    "stem": "Under the Individuals with Disabilities Education Act (IDEA), where should students with disabilities be educated?",
+    "options": [
+      "only in separate special schools designed for students with disabilities",
+      "only in general education classes that require no accommodations",
+      "in the least restrictive appropriate environment, with peers when possible",
+      "only in self-contained special education classrooms for all subjects"
+    ],
+    "answer": 2,
+    "rationale": "IDEA requires a free appropriate public education in the least restrictive environment, with removal from general education only when supports cannot achieve satisfactory progress. Automatic placement in separate schools or classrooms, or denial of accommodations, violates that principle."
+  },
+  {
+    "id": "Q293",
+    "objective": "0023",
+    "area": 4,
+    "stem": "A student with a Section 504 plan has documented accommodations for music class. What is the music teacher’s responsibility?",
+    "options": [
+      "apply the accommodations only in core academic classes, not in music",
+      "implement the accommodations as written and raise concerns with the team",
+      "decide independently whether each accommodation is necessary in music",
+      "apply the accommodations only during written tests and quizzes"
+    ],
+    "answer": 1,
+    "rationale": "A 504 plan is a legally binding plan that applies across the school day, including music. Teachers implement it and raise concerns through the team rather than altering or ignoring it."
+  },
+  {
+    "id": "Q294",
+    "objective": "0023",
+    "area": 4,
+    "stem": "A student who is blind joins a beginning band. Which approach is most appropriate?",
+    "options": [
+      "require the student to read standard print notation like everyone else",
+      "teach aurally and with tactile guidance, with braille or accessible music",
+      "exclude the student from public performances to avoid any problems",
+      "assign only a simple triangle part so that no instruction is needed"
+    ],
+    "answer": 1,
+    "rationale": "Appropriate inclusion offers meaningful participation through aural and tactile teaching, with specialists providing braille music or accessible formats. Token parts, exclusion, and inaccessible print materials deny access."
+  },
+  {
+    "id": "Q295",
+    "objective": "0023",
+    "area": 4,
+    "stem": "A student with a hearing impairment uses a personal remote-microphone (FM/DM) system. Which practice best supports participation in music class?",
+    "options": [
+      "turn off the system during music activities to avoid distortion",
+      "wear the transmitter and add visual cues, such as clear conducting",
+      "speak louder while facing the board so the whole class can hear",
+      "seat the student next to the percussion section to feel the beat"
+    ],
+    "answer": 1,
+    "rationale": "The remote microphone delivers the teacher’s voice directly to the student, and visual supports reinforce instructions and cues. Facing away hinders speechreading, percussion proximity can overwhelm the hearing technology, and turning off the system removes access."
+  },
+  {
+    "id": "Q296",
+    "objective": "0023",
+    "area": 4,
+    "stem": "A student with attention difficulties struggles during long rehearsal segments. Which modification is most effective?",
+    "options": [
+      "send the student out of the room during the full rehearsal",
+      "use short segments, a visual schedule, and planned movement breaks",
+      "reduce the amount of feedback the student receives each day",
+      "lengthen each rehearsal segment so the student builds stamina"
+    ],
+    "answer": 1,
+    "rationale": "Short, clearly structured tasks, predictable visual schedules, and purposeful movement help students with attention needs stay engaged. Longer segments and removal reduce access, and less feedback reduces support."
+  },
+  {
+    "id": "Q297",
+    "objective": "0023",
+    "area": 4,
+    "stem": "A teacher’s new students come from families with a wide range of musical traditions. Which approach to selecting repertoire is most appropriate?",
+    "options": [
+      "include music from students’ cultures, taught in context with community input",
+      "use only Western classical repertoire so all students start on equal footing",
+      "select songs only from a single textbook series to keep the program consistent",
+      "avoid all culturally specific songs so that no student feels singled out"
+    ],
+    "answer": 0,
+    "rationale": "Culturally responsive teaching connects with students’ backgrounds and presents traditions accurately and respectfully, often with community input. Excluding or avoiding students’ traditions or relying on one source limits relevance and accuracy."
+  },
+  {
+    "id": "Q298",
+    "objective": "0023",
+    "area": 4,
+    "stem": "A paraprofessional accompanies a student with an IEP to music class. Which role is most appropriate for the paraprofessional?",
+    "options": [
+      "teaching the music class independently when the teacher is busy",
+      "determining the student’s music grade based on daily observation",
+      "removing the student whenever the music becomes loud or active",
+      "supporting the student’s participation under the teacher’s direction"
+    ],
+    "answer": 3,
+    "rationale": "Paraprofessionals provide support under a certified teacher’s direction and according to the IEP. Instruction and grading are the teacher’s responsibility, and removal should follow the plan rather than become routine."
+  },
+  {
+    "id": "Q299",
+    "objective": "0023",
+    "area": 4,
+    "stem": "Which statement about parents or guardians in special education planning is accurate?",
+    "options": [
+      "they may observe IEP meetings but may not contribute to decisions",
+      "they need not be notified before their child is evaluated",
+      "they are IEP team members with the right to take part in decisions",
+      "they receive the results only after all decisions have been made"
+    ],
+    "answer": 2,
+    "rationale": "Under IDEA, parents are full IEP team members with rights to notice, consent for evaluation, participation in decisions, and procedural safeguards. The other statements contradict these rights."
+  },
+  {
+    "id": "Q300",
+    "objective": "0023",
+    "area": 4,
+    "stem": "A student who uses a wheelchair is in a movement-based elementary music lesson. Which modification best ensures meaningful participation?",
+    "options": [
+      "play a video recording of the activity for the student to view",
+      "give the student a written worksheet about the activity instead",
+      "have the student watch the activity from the side of the room",
+      "adapt movements to upper-body gestures and make the space accessible"
+    ],
+    "answer": 3,
+    "rationale": "Adapting the movement vocabulary (for example, arm, hand, and upper-body motions or wheelchair pathways) and making the space accessible preserves the musical goal and social inclusion. Watching, worksheets, and recordings exclude the student from the activity."
   }
 ]

@@ -1,0 +1,302 @@
+[
+ {
+  "id": "Q150",
+  "objective": "0006",
+  "stem": "Which sequence of dynamic markings is ordered from softest to loudest?",
+  "correct": "pp – mp – mf – ff",
+  "distractors": [
+   "mp – pp – mf – ff",
+   "pp – mf – mp – ff",
+   "p – mf – mp – f"
+  ],
+  "rationale": "Pianissimo (pp) is softer than mezzo-piano (mp), which is softer than mezzo-forte (mf), which is softer than fortissimo (ff). Each alternative places mp and mf, or pp and mp, in the wrong order."
+ },
+ {
+  "id": "Q151",
+  "objective": "0006",
+  "stem": "A treble-clef note sits on the second ledger line above the staff. Which pitch is it?",
+  "correct": "C6",
+  "distractors": [
+   "A5",
+   "B5",
+   "E6"
+  ],
+  "rationale": "The top line of the treble staff is F5. Above it, G5 sits in the space, A5 on the first ledger line, B5 in the next space, and C6 on the second ledger line. E6 would require a third ledger line."
+ },
+ {
+  "id": "Q152",
+  "objective": "0006",
+  "stem": "In 2/2 (cut time), a measure contains a dotted quarter note and an eighth note. Which single rest completes the measure?",
+  "correct": "half rest",
+  "distractors": [
+   "quarter rest",
+   "whole rest",
+   "dotted quarter rest"
+  ],
+  "rationale": "A 2/2 measure equals two half notes. A dotted quarter plus an eighth equals one half note, so a half rest fills the remaining beat. A quarter rest is too short, a whole rest fills an entire measure, and a dotted quarter rest is not the remaining value."
+ },
+ {
+  "id": "Q153",
+  "objective": "0006",
+  "stem": "Which term directs a performer to play in a singing, smoothly connected style?",
+  "correct": "cantabile",
+  "distractors": [
+   "marcato",
+   "pesante",
+   "scherzando"
+  ],
+  "rationale": "Cantabile means in a singing style. Marcato means marked or accented, pesante means heavy, and scherzando means playful or jesting."
+ },
+ {
+  "id": "Q154",
+  "objective": "0007",
+  "stem": "Which interval is formed from C-sharp4 up to B-flat4?",
+  "correct": "diminished seventh",
+  "distractors": [
+   "minor seventh",
+   "major sixth",
+   "augmented sixth"
+  ],
+  "rationale": "C to B is a seventh by letter name. C-sharp to B-natural is a minor seventh (ten semitones); lowering B to B-flat contracts it to a diminished seventh (nine semitones). A major sixth (C-sharp to A-sharp) is enharmonically equivalent but spelled with a different letter."
+ },
+ {
+  "id": "Q155",
+  "objective": "0007",
+  "stem": "Which interval is formed from G-sharp4 up to C5?",
+  "correct": "diminished fourth",
+  "distractors": [
+   "major third",
+   "perfect fourth",
+   "augmented third"
+  ],
+  "rationale": "G to C spans four letter names, a fourth. G to C is a perfect fourth (five semitones); raising the lower note to G-sharp contracts it to a diminished fourth (four semitones). A major third (G-sharp to B-sharp) sounds the same but is spelled as a third."
+ },
+ {
+  "id": "Q156",
+  "objective": "0007",
+  "stem": "A melody uses only the pitches G, A, B, D, and E and repeatedly settles on G. Which scale best describes it?",
+  "correct": "G major pentatonic",
+  "distractors": [
+   "E minor pentatonic",
+   "G Mixolydian",
+   "G whole-tone"
+  ],
+  "rationale": "G–A–B–D–E is a five-note collection with no half steps, scale degrees 1, 2, 3, 5, and 6 of G major: the G major pentatonic. The same pitches centered on E would be E minor pentatonic, but this melody centers on G. Mixolydian has seven pitches, and a whole-tone scale has six with no perfect fifth."
+ },
+ {
+  "id": "Q157",
+  "objective": "0007",
+  "stem": "Which mode is spelled D–E–F-sharp–G–A–B–C–D?",
+  "correct": "D Mixolydian",
+  "distractors": [
+   "D Dorian",
+   "D Lydian",
+   "D Ionian"
+  ],
+  "rationale": "With F-sharp, the mode has a major third, but C-natural lowers the seventh degree: the Mixolydian pattern. D Ionian would have C-sharp, D Lydian would add G-sharp and C-sharp, and D Dorian would have F-natural."
+ },
+ {
+  "id": "Q158",
+  "objective": "0007",
+  "stem": "A melody begins on D4, rises stepwise to A4, leaps to D5, and then descends stepwise to D4. Which description of its range and contour is accurate?",
+  "correct": "an octave range with an arch contour",
+  "distractors": [
+   "a fifth range with a descending contour",
+   "a ninth range with an ascending contour",
+   "an octave range with an inverted-arch contour"
+  ],
+  "rationale": "The lowest and highest pitches are D4 and D5, an octave range. The line rises to a high point and returns to its starting pitch, an arch contour. An inverted arch would descend first and then rise."
+ },
+ {
+  "id": "Q159",
+  "objective": "0007",
+  "stem": "A motive C–E–G–F is followed by F–G–E–C, with its rhythm also reversed. Which device is used?",
+  "correct": "retrograde",
+  "distractors": [
+   "melodic inversion",
+   "sequence",
+   "diminution"
+  ],
+  "rationale": "Presenting the pitches (and here the rhythm) in reverse order is retrograde. Inversion would flip the direction of each interval, a sequence would restate the motive at a different pitch level, and diminution would shorten its durations."
+ },
+ {
+  "id": "Q160",
+  "objective": "0007",
+  "stem": "A motive moves up a major third and then down a perfect fourth. Which interval pattern appears in its melodic inversion?",
+  "correct": "down a major third, then up a perfect fourth",
+  "distractors": [
+   "up a perfect fourth, then down a major third",
+   "up a major third, then down a perfect fourth",
+   "down a minor third, then up a perfect fifth"
+  ],
+  "rationale": "Melodic inversion keeps each interval size but reverses its direction: up a major third becomes down a major third, and down a perfect fourth becomes up a perfect fourth. The first alternative reverses the order instead, the second is the original, and the last changes the interval sizes."
+ },
+ {
+  "id": "Q161",
+  "objective": "0007",
+  "stem": "Two four-measure phrases begin with the same melodic material; the first ends with a half cadence and the second with a perfect authentic cadence. Which structure is formed?",
+  "correct": "parallel period",
+  "distractors": [
+   "contrasting period",
+   "phrase group",
+   "double period"
+  ],
+  "rationale": "An antecedent ending on a weaker (half) cadence answered by a consequent ending on a stronger authentic cadence forms a period; beginning both phrases alike makes it parallel. A contrasting period begins the phrases differently, a phrase group lacks the antecedent–consequent relationship, and a double period contains four phrases."
+ },
+ {
+  "id": "Q162",
+  "objective": "0008",
+  "stem": "In G major, which chord is spelled F-sharp–A–C?",
+  "correct": "vii° (diminished triad)",
+  "distractors": [
+   "ii (minor triad)",
+   "V (major triad)",
+   "vi (minor triad)"
+  ],
+  "rationale": "F-sharp is the leading tone of G major. F-sharp–A is a minor third and F-sharp–C is a diminished fifth, forming the diminished leading-tone triad, vii°. ii is A–C–E, V is D–F-sharp–A, and vi is E–G–B."
+ },
+ {
+  "id": "Q163",
+  "objective": "0008",
+  "stem": "A C-major triad appears with G in the bass. Which figured-bass symbol describes this inversion?",
+  "correct": "6/4",
+  "distractors": [
+   "6",
+   "5/3",
+   "4/2"
+  ],
+  "rationale": "With the fifth (G) in the bass, the upper notes C and E lie a fourth and a sixth above it: second inversion, 6/4. Root position is 5/3, first inversion is 6, and 4/2 labels a third-inversion seventh chord."
+ },
+ {
+  "id": "Q164",
+  "objective": "0008",
+  "stem": "A progression in D major moves I–V–vi–iii–IV–I–IV–V over a repeating bass line. Which familiar pattern is it?",
+  "correct": "the Pachelbel (Canon) sequence",
+  "distractors": [
+   "the twelve-bar blues",
+   "the Andalusian cadence",
+   "a chain of ascending fifths"
+  ],
+  "rationale": "I–V–vi–iii–IV–I–IV–V over a repeating descending-fourth/ascending-step bass is the progression of Pachelbel’s Canon in D. The twelve-bar blues uses I, IV, and V across twelve bars, the Andalusian cadence descends i–VII–VI–V in minor, and ascending fifths would move I–V–ii–vi or similar."
+ },
+ {
+  "id": "Q165",
+  "objective": "0008",
+  "stem": "Which progression in C major moves entirely by descending fifths between chord roots?",
+  "correct": "vi–ii–V–I",
+  "distractors": [
+   "I–IV–V–I",
+   "I–vi–IV–V",
+   "IV–V–iii–vi"
+  ],
+  "rationale": "The roots A–D–G–C each descend by a fifth, the circle-of-fifths motion of vi–ii–V–I. The other progressions include steps or thirds between roots (for example, IV–V, I–vi, or V–iii)."
+ },
+ {
+  "id": "Q166",
+  "objective": "0008",
+  "stem": "A voice holds C while the harmony changes from C major to G major, and then the voice resolves down by step to B. What is the C over the G-major chord?",
+  "correct": "a 4–3 suspension",
+  "distractors": [
+   "a passing tone",
+   "an anticipation",
+   "an escape tone"
+  ],
+  "rationale": "The C is prepared as a chord tone, held over the chord change as a dissonant fourth above the G bass, and resolved down by step to the third (B): a 4–3 suspension. A passing tone moves stepwise between chord tones, an anticipation sounds a note of the next chord early, and an escape tone leaves by step and resolves by leap."
+ },
+ {
+  "id": "Q167",
+  "objective": "0008",
+  "stem": "Over a sustained C-major chord, a melody moves E–F–G in equal notes, with F on a weak beat. What is the F?",
+  "correct": "passing tone",
+  "distractors": [
+   "neighbor tone",
+   "appoggiatura",
+   "pedal tone"
+  ],
+  "rationale": "F connects two chord tones (E and G) by step in the same direction on a weak beat: an unaccented passing tone. A neighbor tone returns to its starting note, an appoggiatura is approached by leap and usually accented, and a pedal tone is a sustained note in another voice."
+ },
+ {
+  "id": "Q168",
+  "objective": "0008",
+  "stem": "In A minor, a chord spelled D–F–B-flat, with D in the bass, precedes V. Which chord is it?",
+  "correct": "Neapolitan sixth",
+  "distractors": [
+   "Italian augmented sixth",
+   "iv6",
+   "subtonic VII6"
+  ],
+  "rationale": "D–F–B-flat is a B-flat major triad, built on the lowered second scale degree, in first inversion with the third (D) in the bass: the Neapolitan sixth (N6), a predominant. An Italian sixth would be F–A–D-sharp over an F bass, iv6 is D–F–A with F in the bass, and VII is G–B–D."
+ },
+ {
+  "id": "Q169",
+  "objective": "0008",
+  "stem": "All four voices of a hymn setting move in the same rhythm, with the melody in the soprano. Which texture is this?",
+  "correct": "homorhythmic homophony",
+  "distractors": [
+   "imitative polyphony",
+   "heterophony",
+   "monophony"
+  ],
+  "rationale": "When all voices share one rhythm and support a single melody, the texture is homorhythmic homophony (chordal or chorale texture). Imitative polyphony staggers independent lines, heterophony combines simultaneous variants of one melody, and monophony has a single line."
+ },
+ {
+  "id": "Q170",
+  "objective": "0008",
+  "stem": "A phrase in F major ends V–I with both chords in root position and F in the soprano of the final chord. Which cadence is this?",
+  "correct": "perfect authentic cadence",
+  "distractors": [
+   "imperfect authentic cadence",
+   "half cadence",
+   "plagal cadence"
+  ],
+  "rationale": "V–I with both chords in root position and the tonic in the soprano meets every condition of a perfect authentic cadence. An imperfect authentic cadence lacks one of those conditions, a half cadence ends on V, and a plagal cadence moves IV–I."
+ },
+ {
+  "id": "Q171",
+  "objective": "0009",
+  "stem": "A movement presents a sixteen-measure melody and then restates it several times with changes in rhythm, mode, texture, and ornamentation while keeping its harmonic outline. Which form is this?",
+  "correct": "theme and variations",
+  "distractors": [
+   "rondo",
+   "sonata-allegro",
+   "through-composed form"
+  ],
+  "rationale": "Successive altered restatements of a complete theme over a stable harmonic framework define theme and variations. A rondo alternates a refrain with contrasting episodes, sonata-allegro develops themes across exposition, development, and recapitulation, and through-composed music continually presents new material."
+ },
+ {
+  "id": "Q172",
+  "objective": "0009",
+  "stem": "A composer arranges all twelve chromatic pitch classes in a fixed order and derives melodies and chords from that order and its transformations. Which technique is used?",
+  "correct": "twelve-tone serialism",
+  "distractors": [
+   "minimalist phasing",
+   "aleatoric composition",
+   "modal mixture"
+  ],
+  "rationale": "Ordering all twelve pitch classes as a row and using its prime, retrograde, inversion, and retrograde-inversion forms is twelve-tone serialism. Phasing shifts repeated patterns out of alignment, aleatoric music leaves elements to chance, and modal mixture borrows chords from a parallel mode."
+ },
+ {
+  "id": "Q173",
+  "objective": "0009",
+  "stem": "In a four-movement Classical symphony, which movement most typically uses a minuet and trio?",
+  "correct": "the third movement",
+  "distractors": [
+   "the first movement",
+   "the second movement",
+   "the fourth movement"
+  ],
+  "rationale": "The Classical symphony typically has a fast sonata-form first movement, a slow second movement, a minuet and trio third movement, and a fast finale, often in rondo or sonata form."
+ },
+ {
+  "id": "Q174",
+  "objective": "0009",
+  "stem": "In a sonata-form exposition, the music reaches a half cadence followed by a brief silence just before the secondary theme. What is this articulation called?",
+  "correct": "medial caesura",
+  "distractors": [
+   "codetta",
+   "retransition",
+   "false recapitulation"
+  ],
+  "rationale": "The medial caesura is the break, usually after a half cadence in the new key or a dominant arrival, that divides the transition from the secondary theme. A codetta closes the exposition, a retransition prepares the recapitulation, and a false recapitulation returns the main theme in the wrong key."
+ }
+]

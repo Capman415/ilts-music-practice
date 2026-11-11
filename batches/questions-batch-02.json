@@ -1,0 +1,1192 @@
+[
+ {
+  "id": "Q125",
+  "objective": "0003",
+  "stem": "Listen to the chord progression, one chord per measure. Which American popular form does it outline?",
+  "correct": "twelve-bar blues",
+  "distractors": [
+   "thirty-two-bar AABA song form",
+   "multi-strain ragtime form",
+   "verse–chorus form with a bridge"
+  ],
+  "rationale": "Twelve chords follow I–I–I–I–IV–IV–I–I–V–IV–I–I using dominant-seventh sonorities: the twelve-bar blues, foundational to blues, rhythm and blues, jazz, and early rock and roll. AABA song form has four eight-bar sections, ragtime strains are typically sixteen bars, and verse–chorus form is defined by contrasting sections rather than this twelve-bar cycle.",
+  "audio": {
+   "gen": "chords",
+   "chords": [
+    [
+     48,
+     52,
+     55,
+     58
+    ],
+    [
+     48,
+     52,
+     55,
+     58
+    ],
+    [
+     48,
+     52,
+     55,
+     58
+    ],
+    [
+     48,
+     52,
+     55,
+     58
+    ],
+    [
+     41,
+     53,
+     57,
+     63
+    ],
+    [
+     41,
+     53,
+     57,
+     63
+    ],
+    [
+     48,
+     52,
+     55,
+     58
+    ],
+    [
+     48,
+     52,
+     55,
+     58
+    ],
+    [
+     43,
+     55,
+     59,
+     65
+    ],
+    [
+     41,
+     53,
+     57,
+     63
+    ],
+    [
+     48,
+     52,
+     55,
+     58
+    ],
+    [
+     48,
+     52,
+     55,
+     58
+    ]
+   ],
+   "spacing": 0.62,
+   "name": "v2_twelve_bar_blues",
+   "timbre": "organ"
+  },
+  "evidence": {
+   "kind": "progression",
+   "bassPcs": [
+    0,
+    0,
+    0,
+    0,
+    5,
+    5,
+    0,
+    0,
+    7,
+    5,
+    0,
+    0
+   ]
+  }
+ },
+ {
+  "id": "Q126",
+  "objective": "0003",
+  "stem": "Listen to the repeating dance-rhythm pattern. Which tradition is most closely associated with this asymmetrical meter?",
+  "correct": "Balkan folk dance music",
+  "distractors": [
+   "Viennese waltz music",
+   "Argentine tango music",
+   "Irish jig and reel music"
+  ],
+  "rationale": "Seven fast subdivisions are grouped short–short–long (2+2+3), an asymmetrical (aksak) meter characteristic of Balkan dances such as those of Bulgaria and Macedonia. The waltz is in a symmetrical triple meter, the jig in compound duple 6/8, and the tango in duple meter.",
+  "audio": {
+   "gen": "pulse",
+   "levels": [
+    2,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "reps": 4,
+   "step": 0.17,
+   "name": "v2_balkan_7_8"
+  },
+  "evidence": {
+   "kind": "meter",
+   "groups": [
+    2,
+    2,
+    3
+   ]
+  }
+ },
+ {
+  "id": "Q127",
+  "objective": "0003",
+  "stem": "Listen to the two-measure rhythm played twice above a steady low pulse. Which rhythmic pattern is heard in the high part?",
+  "correct": "3-2 son clave",
+  "distractors": [
+   "2-3 son clave",
+   "habanera rhythm",
+   "polonaise rhythm"
+  ],
+  "rationale": "The first measure has three strokes (beat 1, the \"and\" of 2, and beat 4) and the second has two (beats 2 and 3): the 3-2 son clave that organizes Afro-Cuban son and salsa. A 2-3 clave reverses the measures, the habanera is a one-measure dotted-eighth–sixteenth–eighth–eighth pattern, and the polonaise rhythm is a triple-meter figure of an eighth and two sixteenths followed by eighths.",
+  "audio": {
+   "gen": "raw",
+   "notes": [
+    [
+     0.3,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     0.3,
+     0.08,
+     [
+      84
+     ],
+     0.7
+    ],
+    [
+     0.7,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     0.9,
+     0.08,
+     [
+      84
+     ],
+     0.7
+    ],
+    [
+     1.1,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     1.5,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     1.5,
+     0.08,
+     [
+      84
+     ],
+     0.7
+    ],
+    [
+     1.9,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     2.3,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     2.3,
+     0.08,
+     [
+      84
+     ],
+     0.7
+    ],
+    [
+     2.7,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     2.7,
+     0.08,
+     [
+      84
+     ],
+     0.7
+    ],
+    [
+     3.1,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     3.5,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     3.5,
+     0.08,
+     [
+      84
+     ],
+     0.7
+    ],
+    [
+     3.9,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     4.1,
+     0.08,
+     [
+      84
+     ],
+     0.7
+    ],
+    [
+     4.3,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     4.7,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     4.7,
+     0.08,
+     [
+      84
+     ],
+     0.7
+    ],
+    [
+     5.1,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     5.5,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     5.5,
+     0.08,
+     [
+      84
+     ],
+     0.7
+    ],
+    [
+     5.9,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ],
+    [
+     5.9,
+     0.08,
+     [
+      84
+     ],
+     0.7
+    ],
+    [
+     6.3,
+     0.12,
+     [
+      48
+     ],
+     0.25
+    ]
+   ],
+   "name": "v2_son_clave",
+   "timbre": "bright"
+  },
+  "evidence": {
+   "kind": "onsets",
+   "onsets": [
+    0.3,
+    0.3,
+    0.7,
+    0.9,
+    1.1,
+    1.5,
+    1.5,
+    1.9,
+    2.3,
+    2.3,
+    2.7,
+    2.7,
+    3.1,
+    3.5,
+    3.5,
+    3.9,
+    4.1,
+    4.3,
+    4.7,
+    4.7,
+    5.1,
+    5.5,
+    5.5,
+    5.9,
+    5.9,
+    6.3
+   ]
+  }
+ },
+ {
+  "id": "Q128",
+  "objective": "0003",
+  "stem": "TEXT SUBSTITUTE — A listening description notes a solo voice accompanied by harpsichord and cello, a dramatic text, and alternation between speech-like recitative and a lyrical da capo aria. Which period and genre are most consistent?",
+  "correct": "Baroque opera or cantata",
+  "distractors": [
+   "Renaissance madrigal",
+   "Classical piano sonata",
+   "Romantic art song (Lied)"
+  ],
+  "rationale": "Basso continuo (harpsichord with cello), recitative alternating with a da capo aria, and a dramatic text point to Baroque opera or cantata. Renaissance madrigals are unaccompanied polyphonic part-songs, a piano sonata is instrumental, and the Romantic Lied pairs voice with piano and is usually strophic or through-composed.",
+  "proxy": true
+ },
+ {
+  "id": "Q129",
+  "objective": "0003",
+  "stem": "TEXT SUBSTITUTE — A listening guide describes short, consonant patterns repeated many times, gradual additive changes, and a steady pulse sustained for several minutes. Which twentieth-century style is most consistent?",
+  "correct": "minimalism",
+  "distractors": [
+   "serialism",
+   "Impressionism",
+   "musique concrète"
+  ],
+  "rationale": "Repetition of short consonant cells, gradual process-based change, and a steady pulse define minimalism (for example, Reich, Riley, or Glass). Serialism organizes pitch through tone rows and usually avoids repetitive consonance, Impressionism emphasizes color and fluid rhythm, and musique concrète manipulates recorded sounds.",
+  "proxy": true
+ },
+ {
+  "id": "Q130",
+  "objective": "0003",
+  "stem": "TEXT SUBSTITUTE — A recording note describes a carnival song with topical, humorous lyrics in English-based Creole, a lively syncopated duple meter, and a brass-and-rhythm-section accompaniment. Which tradition is most consistent?",
+  "correct": "Trinidadian calypso",
+  "distractors": [
+   "Jamaican reggae",
+   "Brazilian samba",
+   "Dominican merengue"
+  ],
+  "rationale": "Topical, witty lyrics sung for carnival in Trinidad in English-based Creole identify calypso. Reggae is Jamaican, with an offbeat guitar or keyboard skank and a slower tempo; samba is Brazilian and sung in Portuguese; merengue is Dominican and sung in Spanish.",
+  "proxy": true
+ },
+ {
+  "id": "Q131",
+  "objective": "0003",
+  "stem": "TEXT SUBSTITUTE — A recording note describes a lead singer whose phrases are answered by a full choir, hand clapping, and a Hammond organ during a church service. Which United States tradition is most consistent?",
+  "correct": "African American gospel",
+  "distractors": [
+   "Appalachian ballad singing",
+   "barbershop quartet",
+   "Tin Pan Alley popular song"
+  ],
+  "rationale": "Call-and-response between a lead singer and choir, clapping, and Hammond organ in worship are hallmarks of African American gospel music. Appalachian ballads are typically solo narrative songs, barbershop is unaccompanied close harmony for four singers, and Tin Pan Alley songs were commercially published popular songs.",
+  "proxy": true
+ },
+ {
+  "id": "Q132",
+  "objective": "0004",
+  "stem": "TEXT SUBSTITUTE — A listening log describes an electronic instrument played without physical contact, producing a continuous, wavering tone that glides between pitches, often heard in mid-twentieth-century science-fiction film scores. Which instrument is described?",
+  "correct": "theremin",
+  "distractors": [
+   "celesta",
+   "vibraphone",
+   "harmonica"
+  ],
+  "rationale": "The theremin is an early electronic instrument controlled by moving the hands near two antennas, producing a gliding, vibrato-rich sine-like tone. The celesta is a keyboard idiophone, the vibraphone is a struck metal-bar instrument, and the harmonica is a free-reed wind instrument; all require physical contact.",
+  "proxy": true
+ },
+ {
+  "id": "Q133",
+  "objective": "0004",
+  "stem": "TEXT SUBSTITUTE — A program note describes tuned pans in several ranges (tenor, double seconds, cello, and bass) playing an arrangement with drum set and iron percussion. Which ensemble is described?",
+  "correct": "steel band",
+  "distractors": [
+   "gamelan",
+   "marimba ensemble",
+   "brass band"
+  ],
+  "rationale": "Pans tuned from oil drums and organized by range, with iron and drum-set rhythm, form a Trinidadian steel band. A gamelan uses bronze gongs and metallophones, a marimba ensemble uses wooden bars, and a brass band uses lip-vibrated wind instruments.",
+  "proxy": true
+ },
+ {
+  "id": "Q134",
+  "objective": "0004",
+  "stem": "TEXT SUBSTITUTE — A male classical singer has a dark, heavy timbre, sings comfortably down to about E2, and is often cast as an older authoritative or comic character. Which vocal classification best fits?",
+  "correct": "bass",
+  "distractors": [
+   "baritone",
+   "lyric tenor",
+   "countertenor"
+  ],
+  "rationale": "A comfortable low range reaching E2 and a dark, heavy timbre identify the bass, the lowest male classification. Baritones typically extend down to about G2 or A2, tenors sit higher, and countertenors sing in the alto or mezzo range.",
+  "proxy": true
+ },
+ {
+  "id": "Q135",
+  "objective": "0004",
+  "stem": "TEXT SUBSTITUTE — Five unaccompanied singers, one on each part, perform a sixteenth-century English secular text with imitative lines and vivid word painting. Which vocal ensemble best fits?",
+  "correct": "madrigal group",
+  "distractors": [
+   "mixed chorus",
+   "barbershop quartet",
+   "vocal jazz ensemble"
+  ],
+  "rationale": "One singer per part performing unaccompanied secular Renaissance part-songs with word painting describes a madrigal group. A mixed chorus places several singers on each part, barbershop uses four parts in close harmony, and vocal jazz ensembles perform jazz harmonies and styles, often with a rhythm section.",
+  "proxy": true
+ },
+ {
+  "id": "Q136",
+  "objective": "0004",
+  "stem": "TEXT SUBSTITUTE — A recording lists trumpet, tenor saxophone, piano, upright bass, and drum set, and each horn player takes an improvised solo chorus. Which ensemble best fits?",
+  "correct": "jazz combo",
+  "distractors": [
+   "big band",
+   "brass quintet",
+   "concert band"
+  ],
+  "rationale": "A small group of one or two horns plus piano, bass, and drums, with improvised solo choruses, is a jazz combo. A big band has full saxophone, trumpet, and trombone sections; a brass quintet uses two trumpets, horn, trombone, and tuba; and a concert band is a large wind and percussion ensemble.",
+  "proxy": true
+ },
+ {
+  "id": "Q137",
+  "objective": "0004",
+  "stem": "TEXT SUBSTITUTE — A female singer has a light, agile, high voice that executes rapid ornamented runs and sustains notes above C6. Which vocal classification best fits?",
+  "correct": "coloratura soprano",
+  "distractors": [
+   "lyric mezzo-soprano",
+   "contralto",
+   "countertenor"
+  ],
+  "rationale": "Agility in rapid ornamented passages and an extreme high range above C6 identify a coloratura soprano. Mezzo-sopranos and contraltos have lower ranges and darker timbres, and a countertenor is a male voice singing in the alto range.",
+  "proxy": true
+ },
+ {
+  "id": "Q138",
+  "objective": "0005",
+  "stem": "Follow the printed score while listening. In which measure does the performer play a pitch other than the written one?",
+  "options": [
+   "measure 1",
+   "measure 2",
+   "measure 3",
+   "measure 4"
+  ],
+  "answer": 1,
+  "fixed": true,
+  "rationale": "In measure 2 the third note is played as F4 instead of the written G4. Every other pitch matches the score.",
+  "audio": {
+   "gen": "error",
+   "bars": [
+    [
+     67,
+     65,
+     64,
+     62
+    ],
+    [
+     64,
+     65,
+     67,
+     69
+    ],
+    [
+     71,
+     69,
+     67,
+     65
+    ],
+    [
+     64,
+     62,
+     60,
+     60
+    ]
+   ],
+   "kind": "pitch",
+   "bar": 1,
+   "name": "v2_err_pitch_a",
+   "timbre": "reedy",
+   "note": 2,
+   "shift": -2
+  },
+  "score": {
+   "bars": [
+    [
+     67,
+     65,
+     64,
+     62
+    ],
+    [
+     64,
+     65,
+     67,
+     69
+    ],
+    [
+     71,
+     69,
+     67,
+     65
+    ],
+    [
+     64,
+     62,
+     60,
+     60
+    ]
+   ],
+   "meter": "4/4",
+   "instruction": "Concert pitch • treble clef • all quarter notes • moderately detached, equal length",
+   "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: G4 F4 E4 D4. Measure 2: E4 F4 G4 A4. Measure 3: B4 A4 G4 F4. Measure 4: E4 D4 C4 C4."
+  },
+  "evidence": {
+   "kind": "error",
+   "errorType": "pitch",
+   "measure": 2,
+   "note": 2
+  }
+ },
+ {
+  "id": "Q139",
+  "objective": "0005",
+  "stem": "The score shows steady quarter notes. In which measure does one note enter late, distorting the written rhythm?",
+  "options": [
+   "measure 1",
+   "measure 2",
+   "measure 3",
+   "measure 4"
+  ],
+  "answer": 3,
+  "fixed": true,
+  "rationale": "In measure 4 the second note (D4) enters half a beat late, so the measure sounds like a dotted quarter followed by an eighth rather than equal quarters. The other measures keep even quarter-note attacks.",
+  "audio": {
+   "gen": "error",
+   "bars": [
+    [
+     60,
+     64,
+     67,
+     64
+    ],
+    [
+     65,
+     69,
+     72,
+     69
+    ],
+    [
+     67,
+     65,
+     64,
+     62
+    ],
+    [
+     60,
+     62,
+     64,
+     60
+    ]
+   ],
+   "kind": "rhythm",
+   "bar": 3,
+   "name": "v2_err_rhythm_b",
+   "timbre": "soft",
+   "note": 1,
+   "delay": 0.2
+  },
+  "score": {
+   "bars": [
+    [
+     60,
+     64,
+     67,
+     64
+    ],
+    [
+     65,
+     69,
+     72,
+     69
+    ],
+    [
+     67,
+     65,
+     64,
+     62
+    ],
+    [
+     60,
+     62,
+     64,
+     60
+    ]
+   ],
+   "meter": "4/4",
+   "instruction": "Concert pitch • treble clef • all quarter notes • moderately detached, equal length",
+   "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: C4 E4 G4 E4. Measure 2: F4 A4 C5 A4. Measure 3: G4 F4 E4 D4. Measure 4: C4 D4 E4 C4."
+  },
+  "evidence": {
+   "kind": "error",
+   "errorType": "rhythm",
+   "measure": 4,
+   "note": 1
+  }
+ },
+ {
+  "id": "Q140",
+  "objective": "0005",
+  "stem": "Follow the score. In which measure is one note noticeably flat compared with its written equal-tempered pitch, though not low enough to be a different note?",
+  "options": [
+   "measure 1",
+   "measure 2",
+   "measure 3",
+   "measure 4"
+  ],
+  "answer": 0,
+  "fixed": true,
+  "rationale": "In measure 1 the fourth note, G4, is lowered by 40 cents, a clear intonation error but less than a semitone. The other measures are in tune.",
+  "audio": {
+   "gen": "error",
+   "bars": [
+    [
+     72,
+     71,
+     69,
+     67
+    ],
+    [
+     65,
+     67,
+     69,
+     65
+    ],
+    [
+     64,
+     65,
+     62,
+     64
+    ],
+    [
+     60,
+     64,
+     62,
+     60
+    ]
+   ],
+   "kind": "intonation",
+   "bar": 0,
+   "name": "v2_err_flat_c",
+   "timbre": "bright",
+   "note": 3,
+   "cents": -40
+  },
+  "score": {
+   "bars": [
+    [
+     72,
+     71,
+     69,
+     67
+    ],
+    [
+     65,
+     67,
+     69,
+     65
+    ],
+    [
+     64,
+     65,
+     62,
+     64
+    ],
+    [
+     60,
+     64,
+     62,
+     60
+    ]
+   ],
+   "meter": "4/4",
+   "instruction": "Concert pitch • treble clef • all quarter notes • moderately detached, equal length",
+   "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: C5 B4 A4 G4. Measure 2: F4 G4 A4 F4. Measure 3: E4 F4 D4 E4. Measure 4: C4 E4 D4 C4."
+  },
+  "evidence": {
+   "kind": "error",
+   "errorType": "intonation",
+   "measure": 1,
+   "note": 3
+  }
+ },
+ {
+  "id": "Q141",
+  "objective": "0005",
+  "stem": "The score is marked mezzo-forte throughout with no dynamic changes. In which measure does the performance contain a dynamic error?",
+  "options": [
+   "measure 1",
+   "measure 2",
+   "measure 3",
+   "measure 4"
+  ],
+  "answer": 2,
+  "fixed": true,
+  "rationale": "Measure 3 drops suddenly to a much softer level and then returns to mezzo-forte, an unmarked dynamic change. Pitches, rhythm, and articulation match the score in every measure.",
+  "audio": {
+   "gen": "error",
+   "bars": [
+    [
+     67,
+     65,
+     64,
+     62
+    ],
+    [
+     64,
+     65,
+     67,
+     69
+    ],
+    [
+     71,
+     69,
+     67,
+     65
+    ],
+    [
+     64,
+     62,
+     60,
+     60
+    ]
+   ],
+   "kind": "dynamics",
+   "bar": 2,
+   "name": "v2_err_dynamics_a",
+   "timbre": "soft",
+   "amp": 0.15
+  },
+  "score": {
+   "bars": [
+    [
+     67,
+     65,
+     64,
+     62
+    ],
+    [
+     64,
+     65,
+     67,
+     69
+    ],
+    [
+     71,
+     69,
+     67,
+     65
+    ],
+    [
+     64,
+     62,
+     60,
+     60
+    ]
+   ],
+   "meter": "4/4",
+   "instruction": "Concert pitch • treble clef • all quarter notes • mezzo-forte throughout, steady tempo",
+   "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: G4 F4 E4 D4. Measure 2: E4 F4 G4 A4. Measure 3: B4 A4 G4 F4. Measure 4: E4 D4 C4 C4."
+  },
+  "evidence": {
+   "kind": "error",
+   "errorType": "dynamics",
+   "measure": 3,
+   "note": 1
+  }
+ },
+ {
+  "id": "Q142",
+  "objective": "0005",
+  "stem": "The score indicates a steady tempo throughout. In which measure does the performer rush?",
+  "options": [
+   "measure 1",
+   "measure 2",
+   "measure 3",
+   "measure 4"
+  ],
+  "answer": 3,
+  "fixed": true,
+  "rationale": "In measure 4 the attacks arrive closer together (about 0.28 s apart instead of 0.40 s), so the performer rushes the final measure. The first three measures keep the steady pulse.",
+  "audio": {
+   "gen": "error",
+   "bars": [
+    [
+     60,
+     64,
+     67,
+     64
+    ],
+    [
+     65,
+     69,
+     72,
+     69
+    ],
+    [
+     67,
+     65,
+     64,
+     62
+    ],
+    [
+     60,
+     62,
+     64,
+     60
+    ]
+   ],
+   "kind": "tempo",
+   "bar": 3,
+   "name": "v2_err_tempo_b",
+   "timbre": "soft",
+   "factor": 0.7
+  },
+  "score": {
+   "bars": [
+    [
+     60,
+     64,
+     67,
+     64
+    ],
+    [
+     65,
+     69,
+     72,
+     69
+    ],
+    [
+     67,
+     65,
+     64,
+     62
+    ],
+    [
+     60,
+     62,
+     64,
+     60
+    ]
+   ],
+   "meter": "4/4",
+   "instruction": "Concert pitch • treble clef • all quarter notes • steady tempo, moderately detached",
+   "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: C4 E4 G4 E4. Measure 2: F4 A4 C5 A4. Measure 3: G4 F4 E4 D4. Measure 4: C4 D4 E4 C4."
+  },
+  "evidence": {
+   "kind": "error",
+   "errorType": "tempo",
+   "measure": 4,
+   "note": 1
+  }
+ },
+ {
+  "id": "Q143",
+  "objective": "0005",
+  "stem": "The score specifies the same moderately detached articulation throughout. In which measure are the notes played markedly staccato?",
+  "options": [
+   "measure 1",
+   "measure 2",
+   "measure 3",
+   "measure 4"
+  ],
+  "answer": 1,
+  "fixed": true,
+  "rationale": "In measure 2 every note sounds for only about 0.09 s while the pulse remains steady, a crisp staccato that contradicts the uniform articulation in the score. The other measures sustain about 0.32 s per note.",
+  "audio": {
+   "gen": "error",
+   "bars": [
+    [
+     72,
+     71,
+     69,
+     67
+    ],
+    [
+     65,
+     67,
+     69,
+     65
+    ],
+    [
+     64,
+     65,
+     62,
+     64
+    ],
+    [
+     60,
+     64,
+     62,
+     60
+    ]
+   ],
+   "kind": "articulation",
+   "bar": 1,
+   "name": "v2_err_artic_c",
+   "timbre": "reedy"
+  },
+  "score": {
+   "bars": [
+    [
+     72,
+     71,
+     69,
+     67
+    ],
+    [
+     65,
+     67,
+     69,
+     65
+    ],
+    [
+     64,
+     65,
+     62,
+     64
+    ],
+    [
+     60,
+     64,
+     62,
+     60
+    ]
+   ],
+   "meter": "4/4",
+   "instruction": "Concert pitch • treble clef • all quarter notes • moderately detached, equal length",
+   "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: C5 B4 A4 G4. Measure 2: F4 G4 A4 F4. Measure 3: E4 F4 D4 E4. Measure 4: C4 E4 D4 C4."
+  },
+  "evidence": {
+   "kind": "error",
+   "errorType": "articulation",
+   "measure": 2,
+   "note": 1
+  }
+ },
+ {
+  "id": "Q144",
+  "objective": "0005",
+  "stem": "Follow the printed concert-pitch score. In which measure does the recording contain a wrong note?",
+  "options": [
+   "measure 1",
+   "measure 2",
+   "measure 3",
+   "measure 4"
+  ],
+  "answer": 0,
+  "fixed": true,
+  "rationale": "In measure 1 the second note is played as B-flat4 instead of the written B4. All other pitches match the score.",
+  "audio": {
+   "gen": "error",
+   "bars": [
+    [
+     72,
+     71,
+     69,
+     67
+    ],
+    [
+     65,
+     67,
+     69,
+     65
+    ],
+    [
+     64,
+     65,
+     62,
+     64
+    ],
+    [
+     60,
+     64,
+     62,
+     60
+    ]
+   ],
+   "kind": "pitch",
+   "bar": 0,
+   "name": "v2_err_pitch_c",
+   "timbre": "soft",
+   "note": 1,
+   "shift": -1
+  },
+  "score": {
+   "bars": [
+    [
+     72,
+     71,
+     69,
+     67
+    ],
+    [
+     65,
+     67,
+     69,
+     65
+    ],
+    [
+     64,
+     65,
+     62,
+     64
+    ],
+    [
+     60,
+     64,
+     62,
+     60
+    ]
+   ],
+   "meter": "4/4",
+   "instruction": "Concert pitch • treble clef • all quarter notes • moderately detached, equal length",
+   "alt": "Four bars in 4/4, treble clef, no key signature. All notes are quarters. Measure 1: C5 B4 A4 G4. Measure 2: F4 G4 A4 F4. Measure 3: E4 F4 D4 E4. Measure 4: C4 E4 D4 C4."
+  },
+  "evidence": {
+   "kind": "error",
+   "errorType": "pitch",
+   "measure": 1,
+   "note": 1
+  }
+ },
+ {
+  "id": "Q145",
+  "objective": "0006",
+  "stem": "In bass clef, which pitch is written on the top line of the staff?",
+  "correct": "A3",
+  "distractors": [
+   "F3",
+   "G2",
+   "C4"
+  ],
+  "rationale": "Bass clef lines from bottom to top are G2, B2, D3, F3, and A3. F3 is the fourth line, G2 is the bottom line, and C4 (middle C) sits on the first ledger line above the staff."
+ },
+ {
+  "id": "Q146",
+  "objective": "0006",
+  "stem": "A cello part switches to tenor clef, with the C clef centered on the fourth line. Which pitch is written on the top line?",
+  "correct": "E4",
+  "distractors": [
+   "C4",
+   "G4",
+   "D4"
+  ],
+  "rationale": "The tenor clef places middle C (C4) on the fourth line, so the lines from bottom to top are D3, F3, A3, C4, and E4. C4 is on the fourth line, and G4 and D4 do not fall on the top line in this clef."
+ },
+ {
+  "id": "Q147",
+  "objective": "0006",
+  "stem": "A piece uses a key signature of five sharps, and its melody repeatedly settles on G-sharp over a minor tonic triad. Which key is indicated?",
+  "correct": "G-sharp minor",
+  "distractors": [
+   "B major",
+   "C-sharp minor",
+   "E major"
+  ],
+  "rationale": "Five sharps (F, C, G, D, A) represent B major or its relative minor, G-sharp minor. A melody centered on G-sharp with a minor tonic triad indicates G-sharp minor. C-sharp minor uses four sharps, as does E major."
+ },
+ {
+  "id": "Q148",
+  "objective": "0006",
+  "stem": "In 6/8 time, which combination of note values exactly fills one measure?",
+  "correct": "a dotted quarter note plus three eighth notes",
+  "distractors": [
+   "a dotted half note plus an eighth note",
+   "two dotted quarter notes plus an eighth rest",
+   "a half note plus a dotted quarter note"
+  ],
+  "rationale": "A 6/8 measure holds six eighth notes. A dotted quarter (three eighths) plus three eighths equals six. Each alternative totals seven eighths: 6+1, 3+3+1, and 4+3."
+ },
+ {
+  "id": "Q149",
+  "objective": "0006",
+  "stem": "A passage is marked \"poco a poco accelerando,\" and later \"a tempo.\" Which performance is indicated?",
+  "correct": "gradually speed up little by little, then return to the original tempo",
+  "distractors": [
+   "become suddenly faster, then slow down gradually to the end",
+   "slow slightly, then hold the final note longer than written",
+   "grow gradually louder, then return to the original dynamic"
+  ],
+  "rationale": "Poco a poco means little by little and accelerando means becoming faster; a tempo restores the earlier tempo. The other choices describe sudden tempo changes, ritardando with a fermata, or a crescendo, which is a dynamic rather than tempo marking."
+ }
+]
